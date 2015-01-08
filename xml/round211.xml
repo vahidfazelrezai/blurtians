@@ -1,0 +1,431 @@
+<round id='211'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In their studies of trans-uranium elements and crystallization studies of barium, Hahn and Meitner discovered what process?</question>
+        <answer>FISSION (ACCEPT: NUCLEAR FISSION)</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming g = -32 feet/sec&lt;sup&gt;2&lt;/sup&gt; and friction is negligible, if a coffee bean is thrown upward from the top of a building with a vertical velocity of +32 ft/sec, what will its velocity be in ft/sec after 3 seconds?</question>
+        <answer>-64 (ACCEPT: -64 or 64 DOWN)</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Afferent neuron is to sensory neuron as efferent neuron is to:</question>
+        <answer>MOTOR NEURON</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is most accurate about the pasteurization of milk:</question>
+        <w_choice>it heats milk to the boiling point for about 1minute </w_choice>
+        <x_choice>it kills all bacteria by passing steam through the milk </x_choice>
+        <y_choice>it kills most of the germs in the milk by moderate heating </y_choice>
+        <z_choice>it kills all the bacteria but not the viruses in the milk</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Hydrocarbons that contain a carbon-carbon double bond are generally know as what:</question>
+        <answer>ALKENES (ACCEPT: OLEFINS)</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>If you have 1 milliliter of a 75% ethanol stock solution, how much water, in milliliters, must be added to the 1 milliliter stock solution to obtain a 25% ethanol solution?</question>
+        <answer>2</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The total amount of energy of a star's surface radiated into space each second is most commonly referred to as what?</question>
+        <answer>ABSOLUTE LUMINOSITY (ACCEPT: LUMINOSITY, INTRINSIC BRIGHTNESS, OR ABSOLUTE BRIGHTNESS)</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>If you could shrink the Earth to a quarter its present diameter while maintaining its mass, by what factor would the escape velocity change?</question>
+        <w_choice>the escape velocity would be doubled </w_choice>
+        <x_choice>the escape velocity would be four times larger </x_choice>
+        <y_choice>the escape velocity would remain unchanged </y_choice>
+        <z_choice>the escape velocity would be reduced by half</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the term for the part of the secant contained between the points of intersection on a curve?</question>
+        <answer>CHORD</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the solution set of the following inequality: x&lt;sup&gt;2&lt;/sup&gt; - x - 2 &amp;le; 0</question>
+        <answer>-1 &amp;le; x &amp;le; 2</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The Hawaiian Islands originated from magma:</question>
+        <w_choice>intruding along the boundary between two lithospheric plates </w_choice>
+        <x_choice>formed within an island arc </x_choice>
+        <y_choice>injected along a mid-ocean fracture zone </y_choice>
+        <z_choice>coming from a hotspot within the mantle</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is classified as a silicate mineral:</question>
+        <w_choice>gypsum </w_choice>
+        <x_choice>malachite </x_choice>
+        <y_choice>halite </y_choice>
+        <z_choice>quartz</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A severe and chronic deficiency in what vitamin causes the disease known as pellagra:</question>
+        <w_choice>vitamin C </w_choice>
+        <x_choice>vitamin D </x_choice>
+        <y_choice>niacin </y_choice>
+        <z_choice>thiamine</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>ttonwood Y) American sycamore Z) basswood</question>
+        <answer>Z) BASSWOOD</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>This distributed information system was prevalent in the years before the World Wide Web:</question>
+        <w_choice>Gopher </w_choice>
+        <x_choice>SSL </x_choice>
+        <y_choice>LINUX </y_choice>
+        <z_choice>Fox</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Dynamic RAM is called such because:</question>
+        <w_choice>the value it holds can be dynamically changed at any time </w_choice>
+        <x_choice>the address space the RAM refers to can be dynamically changed </x_choice>
+        <y_choice>the value it holds must be dynamically refreshed every few milliseconds </y_choice>
+        <z_choice>the value it holds must be dynamically refreshed once a session</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following exhibits the least resistivity at 20&amp;deg;C:</question>
+        <w_choice>gold </w_choice>
+        <x_choice>tungsten </x_choice>
+        <y_choice>iron </y_choice>
+        <z_choice>copper</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a violin string is 0.5 meters long and has a mass of 3.0 grams, what tension, in Newtons, must be on the string to give a wave velocity of 14.14 meters per second?</question>
+        <answer>1.2</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>The coronal suture is found between what two bones?</question>
+        <answer>PARIETAL AND FRONTAL (accept in any order)</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following infectious agents is NOT properly matched with its disease:</question>
+        <w_choice>Trichophyton (read as:TRI-co-fie-ton) and ringworm </w_choice>
+        <x_choice>Hepatitis A and serum hepatitis </x_choice>
+        <y_choice>Rubella and German measles </y_choice>
+        <z_choice>Epstein Barr and infectious mononucleosis</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Polystyrene is produced by which of the following reactions:</question>
+        <w_choice>free radical vinyl polymerization from the monomer styrene </w_choice>
+        <x_choice>metalocene catalysis polymerization </x_choice>
+        <y_choice>graft copolymerization </y_choice>
+        <z_choice>butadiene polymerization</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following molecular shapes would you expect from O&lt;sub&gt;3&lt;/sub&gt;:</question>
+        <w_choice>bent </w_choice>
+        <x_choice>trigonal planar </x_choice>
+        <y_choice>linear </y_choice>
+        <z_choice>see-saw</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>When a one solar mass star becomes a red giant for the first time, its energy comes mainly from the fusion of helium forming into what final element?</question>
+        <answer>CARBON</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following distance-measuring techniques measures the farthest:</question>
+        <w_choice>radar ranging </w_choice>
+        <x_choice>stellar parallax </x_choice>
+        <y_choice>variable stars </y_choice>
+        <z_choice>standard candle/Tully-Fisher relation</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>In a normal distribution, a mean of a sample population, plus or minus 1 standard deviation, includes what percentage of the sample:</question>
+        <w_choice>16% </w_choice>
+        <x_choice>32% </x_choice>
+        <y_choice>68% </y_choice>
+        <z_choice>95%</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the 13&lt;sup&gt;th&lt;/sup&gt; term in the following arithmetic progression: 2, 7, 12, ...</question>
+        <answer>62</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>When two halves of a crystal aggregate are mirror images of each other and joined together in some definite, shared crystallographic orientation, such crystals are referred to as being:</question>
+        <w_choice>polymorphs </w_choice>
+        <x_choice>symmetrical </x_choice>
+        <y_choice>twinned </y_choice>
+        <z_choice>anhedral</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is FALSE about the Coriolis Effect:</question>
+        <w_choice>it is an apparent force due to the precession of the Earth </w_choice>
+        <x_choice>it is an apparent force due to the rotation of the Earth </x_choice>
+        <y_choice>it causes winds in the Northern Hemisphere to be deflected to the right </y_choice>
+        <z_choice>it causes winds in the Southern Hemisphere to be deflected to the left</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A wave with a wavelength of 40 meters and a height of 2 meters, will NOT be refracted in water with a depth of more than:</question>
+        <w_choice>1 meter </w_choice>
+        <x_choice>2 meters </x_choice>
+        <y_choice>10 meters </y_choice>
+        <z_choice>20 meters</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question> 5.5 Z) 7.0</question>
+        <answer>Y) 5.5</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which printer uses bits of plastic that effectively are melted onto the surface of the paper:</question>
+        <w_choice>thermal </w_choice>
+        <x_choice>ink jet </x_choice>
+        <y_choice>laser </y_choice>
+        <z_choice>dot matrix</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is true for a binary tree but not for a regular tree:</question>
+        <w_choice>it stores only zeros and ones </w_choice>
+        <x_choice>each parent node has no more than two children </x_choice>
+        <y_choice>its branches are ordered </y_choice>
+        <z_choice>nodes without children are called leaves</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Red light has a wavelength of:</question>
+        <w_choice>300-350 nanometers </w_choice>
+        <x_choice>450-500 nanometers </x_choice>
+        <y_choice>550-600 nanometers </y_choice>
+        <z_choice>650-700 nanometers</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Bose-Einstein condensates were initially created by using elements from what specific part of the periodic table:</question>
+        <answer>GROUP 1 (ACCEPT: ALKALI METALS)</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>From what vitamin is NAD derived?</question>
+        <answer>NIACIN</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Penicillium notatum is to penicillin as Bacillus subtilis (pronounced: SUT-ill-iss) is to:</question>
+        <answer>BACITRACIN</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following radioactive isotopes emits alpha particles:</question>
+        <w_choice>hydrogen-3 </w_choice>
+        <x_choice>cobalt-60 </x_choice>
+        <y_choice>carbon-14 </y_choice>
+        <z_choice>radium-226</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the molecular formula for the conjugate acid of the following Bronsted-Lowry base: HCO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;</question>
+        <answer>H&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;3&lt;/sub&gt;</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In North America, what is typically the most spectacular meteor shower in the month of August?</question>
+        <answer>PERSEIDS</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A bolometer (pronounced: bowl-O-meter) is used to:</question>
+        <w_choice>measure the energy output of the Sun </w_choice>
+        <x_choice>measure the length of a bowling alley </x_choice>
+        <y_choice>measure the size of celestial bodies </y_choice>
+        <z_choice>standardize the azimuth of a sextant</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>As the intensity of metamorphism increases, which of the following transformations occurs:</question>
+        <w_choice>granite to slate </w_choice>
+        <x_choice>schist to slate </x_choice>
+        <y_choice>gneiss to quartzite </y_choice>
+        <z_choice>limestone to marble</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following latitudes would you expect belts of high pressure to typically develop:</question>
+        <w_choice>30&amp;deg; North </w_choice>
+        <x_choice>0&amp;deg; </x_choice>
+        <y_choice>50&amp;deg; North </y_choice>
+        <z_choice>60&amp;deg; South</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is classified as a water- insoluble fiber:</question>
+        <w_choice>algal polysaccharides </w_choice>
+        <x_choice>pectin </x_choice>
+        <y_choice>lignin </y_choice>
+        <z_choice>gums</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Methods that cause hair to have curls usually rely on manipulating disulfide bonds in what amino acid?</question>
+        <answer>CYSTINE</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>The line spectra of low density gases is usually produced by the emission or absorption of light by:</question>
+        <w_choice>molecules </w_choice>
+        <x_choice>crystals </x_choice>
+        <y_choice>crystal lattices </y_choice>
+        <z_choice>individual atoms</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What was the last name of the father and son team that developed the theory and technique of X-ray diffraction by crystals?</question>
+        <answer>BRAGG</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Avery and Macleod attributed the transforming principle to what substance?</question>
+        <answer>DNA</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What other vitamin acts like an antagonist and has the most similar structure to vitamin K?</question>
+        <answer>VITAMIN E</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Reaction with a copper compound is a qualitative test for which functional group:</question>
+        <w_choice>alcohol </w_choice>
+        <x_choice>aldehyde </x_choice>
+        <y_choice>ketone </y_choice>
+        <z_choice>carboxylic acid</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Name the two elements that have atomic numbers less than that of lead that have no stable isotopes:</question>
+        <answer>TECHNETIUM AND PROMETHIUM (ACCEPT: Tc and Pm)</answer>
+    </fullq>
+
+</round>

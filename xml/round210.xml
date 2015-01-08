@@ -1,0 +1,411 @@
+<round id='210'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>For two sound sources heard simultaneously, one of which vibrates at 444 hertz and the other vibrates at 456 hertz, what is the beat frequency in beats per second?</question>
+        <answer>12 BEATS PER SECOND</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>In the 1950's, the Oak Ridge National Laboratory made a significant impact on medical treatment and diagnosis by providing which of the following to researchers and clinicians:</question>
+        <w_choice>x-ray machines </w_choice>
+        <x_choice>power sources for pace makers </x_choice>
+        <y_choice>radioisotopes </y_choice>
+        <z_choice>large amounts of technetium</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>In microbiology, a standard method of obtaining a pure culture is:</question>
+        <w_choice>centrifugation </w_choice>
+        <x_choice>streak plate </x_choice>
+        <y_choice>stab culture </y_choice>
+        <z_choice>liquid fermantation</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes REM sleep:</question>
+        <w_choice>active dreaming with desynchronized EEG </w_choice>
+        <x_choice>atonia, (read as: A-tone-ee-ah) with deep sleep </x_choice>
+        <y_choice>deep sleep with atonia and active dreaming </y_choice>
+        <z_choice>deep sleep with active dreaming</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Using standard chemical nomenclature, what is the chemical formula for perchloric acid?</question>
+        <answer>HClO&lt;sub&gt;4&lt;/sub&gt;</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which element is used in scientific research as a cooling agent for extremely low-temperature studies because at 4.2 K, it has the lowest boiling point of any known substance?</question>
+        <answer>HELIUM (ACCEPT: LIQUID HELIUM OR He)</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>A circle with a dot in the center is most commonly the astronomer's symbol for what?</question>
+        <answer>SUN</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the name for the constellation with the brightest star?</question>
+        <answer>CANIS MAJOR (ACCEPT: THE BIG DOG)</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Convert to both radians and degrees the angle that equals one-half of 3&amp;pi;/4 radians:</question>
+        <answer>3&amp;pi;/8 AND 67.5&amp;deg;</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>A merchant wants to mix 2 types of sugar that sell for $0.40 per gram and $0.60 per gram, respectively. If he wants a mixture of 5 grams that sells for $0.58 per gram, how many grams of each should he mix?</question>
+        <answer>0.5 GRAMS OF $0.40 PLUS 4.5 GRAMS OF $0.60</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Approximately what percent of the water in the hydrosphere is groundwater:</question>
+        <w_choice>10 </w_choice>
+        <x_choice>5 </x_choice>
+        <y_choice>2.5 </y_choice>
+        <z_choice>less than 1</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the term for a tidally generated wave that propagates up a relatively shallow and sloping estuary or river in a solitary wave form, the leading edge of which presents an abrupt rise in level?</question>
+        <answer>TIDAL BORE (ACCEPT: BORE)</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The development of this is usually considered by anthropologists and sociologists the main prerequisite for an advanced social, economic and political structure:</question>
+        <w_choice>art </w_choice>
+        <x_choice>technology </x_choice>
+        <y_choice>monetary system </y_choice>
+        <z_choice>agriculture</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What term derived from the Greek word for "shortcoming" generally means an apparent lag in effect behind what is causing it?</question>
+        <answer>HYSTERESIS</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In the Windows environment, which of the following file extensions represents a hidden file to replace pages or segments of data in memory:</question>
+        <w_choice>.dll (read as: dot, D, L, L) </w_choice>
+        <x_choice>.swp </x_choice>
+        <y_choice>.exe </y_choice>
+        <z_choice>.ini</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best represents the data transmission speed of a USB port:</question>
+        <w_choice>128 kilobits per second </w_choice>
+        <x_choice>480 megabits per second </x_choice>
+        <y_choice>650 megabits per second </y_choice>
+        <z_choice>12 megabits per second</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>As exemplified in beta decay, as an atom's atomic mass increases, more of these particles are needed to maintain nuclear stability:</question>
+        <answer>NEUTRONS</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If C is capacitance, Q is charge, and V is voltage across the capacitor, what mathematical formula is the most direct representation of the capacitance of a parallel plate capacitor:</question>
+        <answer>C = Q/V</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What specific physical state does Bacillus anthracis form that allows it to survive in an exposed environment for decades?</question>
+        <answer>SPORE (ACCEPT: ENDOSPORE)</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In apoptosis, what is programmed into the cell:</question>
+        <answer>DEATH (ACCEPT: CELL DEATH)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A trigonal planar arrangement of electronic orbitals around an atom in a molecule most generally implies what type of hybridization:</question>
+        <w_choice>sp </w_choice>
+        <x_choice>sp2 </x_choice>
+        <y_choice>sp3 </y_choice>
+        <z_choice>sp3d</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the general term for the process in which a crystalline hydrated solid loses water of crystallization to the air, whereby a powdery deposit is gradually formed:</question>
+        <answer>EFFLORESCENCE</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is believed to be the most likely composition of cosmic dust:</question>
+        <w_choice>carbonaceous, silicate or iron-bearing materials with some frozen gases </w_choice>
+        <x_choice>hydrogen, helium and lithium crystals </x_choice>
+        <y_choice>thorium, uranium and lead particles from dead stars </y_choice>
+        <z_choice>pure ice crystals with small amounts of ionized hydrogen</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The precise measurements of Wilson and Penzias of cosmic background radiation was in what region of the electromagnetic spectrum?</question>
+        <answer>MICROWAVE (ACCEPT: 7.35 CM)</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The sine of &amp;theta; (read as: theta) is positive if the angle terminates in what two Quadrants of the Cartesian coordinate system?</question>
+        <answer>I AND II (ACCEPT: 1 AND 2)</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the slope of a line that passes through the points (5, 3) and (-1, 1)?</question>
+        <answer>1/3</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>About how many years ago is it thought that the dominant ice-age cycle changed from 40,000 year periods to 100,000 year intervals with very large fluctuation:</question>
+        <w_choice>200,000 - 400,000 </w_choice>
+        <x_choice>600,000 - 800,000 </x_choice>
+        <y_choice>2 million - 2.5 million </y_choice>
+        <z_choice>4 million - 4.5 million</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is known to have created one of the largest tsunamis, also known as a mega-tsunami:</question>
+        <w_choice>subterranean earthquakes </w_choice>
+        <x_choice>suboceanic earthquakes </x_choice>
+        <y_choice>landslides </y_choice>
+        <z_choice>volcanic eruptions</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Which scientist and scholar is well known for such terms as "transcendental function", "archetypes" and "collective unconscious"?</question>
+        <answer>CARL JUNG (ACCEPT: JUNG)</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which famous primatologist, a protege of Louis Leaky, dedicated her life to research of gorillas and was most likely murdered by poachers in 1985:</question>
+        <w_choice>Jane Goodall </w_choice>
+        <x_choice>Shirley Sparling </x_choice>
+        <y_choice>Margaret Mead </y_choice>
+        <z_choice>Dian Fossey</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>What kind of viruses modify their appearance and change their program code periodically:</question>
+        <w_choice>multipartite </w_choice>
+        <x_choice>non-resident file </x_choice>
+        <y_choice>stealth </y_choice>
+        <z_choice>polymorphic</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>When working optimally, which broadband connection to the internet provides the fastest download speeds:</question>
+        <w_choice>cable </w_choice>
+        <x_choice>DSL </x_choice>
+        <y_choice>wireless satellite </y_choice>
+        <z_choice>MMDS</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following colors of light has the SMALLEST angle of refraction in normal glass:</question>
+        <w_choice>violet </w_choice>
+        <x_choice>green </x_choice>
+        <y_choice>orange </y_choice>
+        <z_choice>red</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>At 10 cents per kilowatt hour, how much does it cost to run a 1200 watt heater for 4 hours?</question>
+        <answer>48 CENTS</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following classes of antibodies will predominate upon a second exposure to an antigen:</question>
+        <w_choice>IgG </w_choice>
+        <x_choice>IgE </x_choice>
+        <y_choice>IgA </y_choice>
+        <z_choice>IgN</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What two monosaccharides make up the disaccharide sucrose?</question>
+        <answer>FRUCTOSE AND GLUCOSE (accept in any order)</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which of the gas laws specifically states that the volume of a fixed amount of gas at a constant pressure varies directly with its absolute temperature?</question>
+        <answer>CHARLES' LAW</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What common product is made by taking water that is filtered through hardwood ashes, evaporating it in iron pots, mixing what remains with tallow, and allowing it to cure for a few weeks:</question>
+        <answer>SOAP</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The angular distance of a star east of the Prime Meridian is most commonly referred to as the star's:</question>
+        <w_choice>deviation </w_choice>
+        <x_choice>gnomon angle </x_choice>
+        <y_choice>zenith point </y_choice>
+        <z_choice>right ascension</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The nominal galactic center lies on the galactic plane in the direction of what constellation?</question>
+        <answer>SAGITTARIUS (ACCEPT: THE ARCHER)</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Neglecting any amplification effects that might be produced by shoreline irregularities, what is the tallest wave-height that can reasonably be created by an earthquake-generated tsunami:</question>
+        <w_choice>3 meters </w_choice>
+        <x_choice>15 meters </x_choice>
+        <y_choice>75 meters </y_choice>
+        <z_choice>150 meters</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Launched by NASA in December of 1999 as part of the EOS Terra payload, what is the name of the instrument which provides high radiometric sensitivity that can study atmospheric, land, and ocean imaging in a single instrument that can also be custom tailored to the individual needs of the user:</question>
+        <answer>MODIS (ACCEPT: MODERATE-RESOLUTION IMAGING SPECTRORADIOMETER)</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes how well a balance can repeatedly indicate the same mass over a series of identical weighings under similar environmental conditions:</question>
+        <w_choice>precision </w_choice>
+        <x_choice>accuracy </x_choice>
+        <y_choice>linearity </y_choice>
+        <z_choice>readability</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Which genus of bacteria has been found to be the most successful at restoring the intestinal flora and relieving the symptoms of irritable bowel syndrome?</question>
+        <answer>LACTOBACILLUS</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What was the name eventually given to the particles that make up cathode rays?</question>
+        <answer>ELECTRONS</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Neglecting friction, what is the net force required, in Newtons, to accelerate a 500 Kg object at 3 m/sec&lt;sup&gt;2&lt;/sup&gt; in a horizontal direction:</question>
+        <answer>1500 NEWTONS</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Seventy percent of the platelets released from the bone marrow are in the peripheral circulation. Where are most of the rest stored?</question>
+        <answer>SPLEEN</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a naturally occurring amino acid that is NOT found in proteins?</question>
+        <w_choice>asparagine </w_choice>
+        <x_choice>phenylalanine </x_choice>
+        <y_choice>citrulline </y_choice>
+        <z_choice>threonine</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>When bonded together, which of the following pairs has the highest average bond dissociation energy:</question>
+        <w_choice>H and Br </w_choice>
+        <x_choice>H and F </x_choice>
+        <y_choice>C and Br </y_choice>
+        <z_choice>N and Cl</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Using standard chemical nomenclature, what is the chemical formula for phosphine?</question>
+        <answer>PH&lt;sub&gt;3&lt;/sub&gt;</answer>
+    </fullq>
+
+</round>

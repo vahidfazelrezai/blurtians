@@ -1,0 +1,411 @@
+<round id='111'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>any foreign substance added to water will cause a freezing point drop </w_choice>
+        <x_choice>a nonvolatile solute raises the boiling point of a solvent</x_choice>
+        <y_choice>methane has a higher boiling point than ethane</y_choice>
+        <z_choice>freezing point depression is a colligative property</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>According to standard chemical nomenclature, what is the formula for aluminum bicarbonate?</question>
+        <answer>Al(HCO3)3</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following types of biological molecules is digested by trypsin:</question>
+        <w_choice>proteins</w_choice>
+        <x_choice>nucleic acids </x_choice>
+        <y_choice>carbohydrates </y_choice>
+        <z_choice>lipids</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 choices that are typically considered human autoimmune dysfunctions: Rheumatoid arthritis; Lupus; shingles; Down’s syndrome</question>
+        <answer>RHEUMATOID ARTHRITIS; LUPUS</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is closest to the radius of a hydrogen nucleus:</question>
+        <w_choice>1 micrometer </w_choice>
+        <x_choice>1 angstrom </x_choice>
+        <y_choice>1 picometer </y_choice>
+        <z_choice>1 femtometer</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Consider a planet where g equals 5.0 meters per second squared. Ignoring friction, if an object started from rest, how far would it fall vertically off a cliff in 4.0 seconds, giving your answer in standard SI units?</question>
+        <answer>40 METERS (must give units) </answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>The graph of the relation y = −&amp;radic;(25 − x&lt;sup&gt;2&lt;/sup&gt;) is a:</question>
+        <w_choice>circle</w_choice>
+        <x_choice>semi-circle </x_choice>
+        <y_choice>parabola</y_choice>
+        <z_choice>straight line</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If y varies directly as x and z, and y = 12 when x = 4 and z = 5, find y when x = 10 and z = 20:</question>
+        <answer>120</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the third most common gas naturally found in the Earth’s clean, dry atmosphere?</question>
+        <answer>ARGON</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The Earth’s greenhouse effect is primarily caused by which of the following:</question>
+        <w_choice>incoming solar ultraviolet light is absorbed by the ozone layer</w_choice>
+        <x_choice>outgoing infrared solar radiation is trapped by the lower atmosphere</x_choice>
+        <y_choice>incoming infrared solar radiation is trapped by the magnetic field</y_choice>
+        <z_choice>outgoing X-rays are absorbed by the troposphere and reflected to the Earth’s surface</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Ed the entomologist is setting up mosquito traps in a farmer’s field in Nebraska. Which of the following would be the BEST mosquito attractant to ensure he traps the greatest number and variety of mosquitoes:</question>
+        <w_choice>oxygen </w_choice>
+        <x_choice>nitrogen </x_choice>
+        <y_choice>dry ice </y_choice>
+        <z_choice>methane</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Rounded to the nearest whole number, convert 3,000 meters per second into kilometers per hour:</question>
+        <answer>10,800</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is LEAST accurate:</question>
+        <w_choice>most stars visible to the unaided eye are part of the Milky Way galaxy</w_choice>
+        <x_choice>there are 88 constellations officially recognized by the IAU</x_choice>
+        <y_choice>a red supergiant has a hotter surface than our Sun</y_choice>
+        <z_choice>the constellation Leo is located within 9&amp;deg; of the ecliptic</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>the core of a red supergiant is hotter than the core of a main sequence K-type star</w_choice>
+        <x_choice>helium flash is something that occurs in red giant stars</x_choice>
+        <y_choice>the Pleiades is an open star cluster</y_choice>
+        <z_choice>there is more lithium than carbon in the universe</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Carbon monoxide, or CO, will be adsorbed (read as: ADD-sorbed) onto the surface of which of the following metals the MOST strongly:</question>
+        <w_choice>iron </w_choice>
+        <x_choice>nickel </x_choice>
+        <y_choice>cobalt </y_choice>
+        <z_choice>gold</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Arrange the following 3 choices in order of increasing bond energies: O&lt;sub&gt;2&lt;/sub&gt;; N&lt;sub&gt;2&lt;/sub&gt;; F&lt;sub&gt;2&lt;/sub&gt;</question>
+        <answer>F&lt;sub&gt;2&lt;/sub&gt;; O&lt;sub&gt;2&lt;/sub&gt;; N&lt;sub&gt;2&lt;/sub&gt;</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>At which of the following pH levels will human pepsin be most active:</question>
+        <w_choice>2 </w_choice>
+        <x_choice>4 </x_choice>
+        <y_choice>6 </y_choice>
+        <z_choice>8</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most plentiful class of immunoglobulins in human plasma?</question>
+        <answer>IgG (ACCEPT: G or IMMUNOGLOBULIN G)</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What constant is given as the amount of electric charge per mole of electrons?</question>
+        <answer>FARADAY CONSTANT (ACCEPT: FARADAY)</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes the direction of the force on an electron moving through a magnetic field:</question>
+        <w_choice>opposite to the direction of the velocity </w_choice>
+        <x_choice>the same direction as the velocity</x_choice>
+        <y_choice>the same direction as the magnetic field</y_choice>
+        <z_choice>perpendicular to the magnetic field</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a second quadrant angle in standard position:</question>
+        <w_choice>500&amp;deg;</w_choice>
+        <x_choice>–180&amp;deg;</x_choice>
+        <y_choice>–680&amp;deg; </y_choice>
+        <z_choice>930&amp;deg;</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in simplest radical form, rationalize the denominator of the following expression: −3&amp;radic;2 / (&amp;radic;3 − &amp;radic;5)</question>
+        <answer>(3&amp;radic;6 + 3&amp;radic;10)/2 (ACCEPT: 3(&amp;radic;6 + &amp;radic;10)/2 )</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following minerals occurs in small amounts in many igneous rocks, is black and shiny, often occurs in small hexagonal blocks, and is soft with good cleavage:</question>
+        <w_choice>biotite</w_choice>
+        <x_choice>olivine</x_choice>
+        <y_choice>plagioclase</y_choice>
+        <z_choice>quartz</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of basalt and gabbro:</question>
+        <w_choice>they formed from magma at the same temperature</w_choice>
+        <x_choice>they are derived from basaltic magma</x_choice>
+        <y_choice>they formed from magma with the same silica content</y_choice>
+        <z_choice>they are both intrusive igneous rocks</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A standard rain gauge consists of a metal canister open at the top in which a funnel drains rainwater into a narrow cylinder. Each time they are deployed to the field, a small amount of light oil is added to the cylinder. This is done to:</question>
+        <w_choice>deter birds from drinking the water</w_choice>
+        <x_choice>stop the canister from oxidizing</x_choice>
+        <y_choice>prevent the growth of blue-green algae</y_choice>
+        <z_choice>prevent water evaporation</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a widely-used analgesic and antipyretic medication which is not considered an NSAID (read as: en-say’d):</question>
+        <w_choice>acetylcysteine</w_choice>
+        <x_choice>acetaminophen</x_choice>
+        <y_choice>acetylsalicylic acid</y_choice>
+        <z_choice>ibuprophen</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is LEAST likely to occur for a stargazer observing from mid-northern latitudes during summer months:</question>
+        <w_choice>the planet Venus passing within a few degrees of the Moon a few hours after sunset</w_choice>
+        <x_choice>the Moon at perigee</x_choice>
+        <y_choice>the planet Saturn passing with 5 degrees of the Moon</y_choice>
+        <z_choice>the planet Mercury within 10 degrees of the zenith</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Through how many degrees does the Earth rotate in 8 hours?</question>
+        <answer>120</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The molal (read as: moe-lahl) is a concentration unit that is most appropriately used in experimental designs that determine:</question>
+        <w_choice>freezing point depression</w_choice>
+        <x_choice>osmotic pressure</x_choice>
+        <y_choice>density</y_choice>
+        <z_choice>vapor pressure lowering</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A 4.0 gram sample of calcium chloride contains 6.0 × 10&lt;sup&gt;22&lt;/sup&gt; cations. Giving your answer in scientific notation to the nearest whole number, determine the number of anions in 2 grams of CaCl&lt;sub&gt;2&lt;/sub&gt;. Assume the atomic mass of calcium is 40 and chloride is 35.</question>
+        <answer>6 × 10&lt;sup&gt;22&lt;/sup&gt;</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the main target of bacteria by the antibiotic penicillin:</question>
+        <w_choice>energy production</w_choice>
+        <x_choice>DNA synthesis</x_choice>
+        <y_choice>cell wall synthesis</y_choice>
+        <z_choice>translation</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common term for the form of protection when a non-poisonous frog has the same appearance as a poisonous frog?</question>
+        <answer>BATESIAN MIMICRY (ACCEPT: MIMICRY or WARNING MIMICRY) (DO NOT ACCEPT: MULLERIAN MIMICRY)</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>During positron emission, which of the following most likely occurs:</question>
+        <w_choice>a proton changes to an electron</w_choice>
+        <x_choice>a proton changes to a neutron</x_choice>
+        <y_choice>a neutron changes to an electron</y_choice>
+        <z_choice>a neutron changes to a proton</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 isotopes that release energy if they undergo fission: helium-4; hydrogen-2; uranium-235; iron-56</question>
+        <answer>URANIUM-235</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Identify the type of conic section represented by the equation, x&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt; + 10y + 16 = 0:</question>
+        <answer>CIRCLE</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the area, in centimeters squared and in simplest radical form, of a regular or equilateral triangle whose circumcircle has a radius of 8 centimeters:</question>
+        <answer>48&amp;radic;3</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What type of fog frequently forms in valleys when the wind is light and the ground cools until the dew point is reached?</question>
+        <answer>RADIATION FOG (ACCEPT: RADIATION or RADIATIONAL)</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Giving your answer as morning, afternoon, evening, or night, when does most radiational cooling occur for any location in the U.S.?</question>
+        <answer>NIGHT</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the sling psychrometer used to measure?</question>
+        <answer>HUMIDITY (ACCEPT: RELATIVE HUMIDITY; AMBIENT HUMIDITY)</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>From which of the following is camphor derived:</question>
+        <w_choice>petroleum distillate</w_choice>
+        <x_choice>the wood of an evergreen tree of the laurel family </x_choice>
+        <y_choice>the bark of a fir tree from the Mediterranean</y_choice>
+        <z_choice>the seed pod of the camphor herb</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>As seen from the Earth, what planet has the smallest maximum eastern elongation?</question>
+        <answer>MERCURY</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Choosing from noon, sunset, midnight or sunrise, at what time of the day does a new Moon rise for an observer at mid-northern latitudes in September?</question>
+        <answer>SUNRISE</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the electron capacity in each of the 4 sublevels s, p, d, and f, respectively?</question>
+        <answer>s = 2; p = 6; d = 10; f = 14</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A sample of oxygen gas is collected over water at 14&amp;deg;C. Knowing that the vapor pressure of water at 14&amp;deg;C is 1.6 kilopascals, and that the pressure of the resultant mixture is 120 kilopascals, find the pressure, to the first decimal place, exerted by the dry oxygen alone:</question>
+        <answer>118.4</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What cell in the peripheral blood is the immediate precursor of the macrophage?</question>
+        <answer>MONOCYTE</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 cells that are leukocytes: neutrophil; basophil; melanocyte; macrophage</question>
+        <answer>NEUTROPHIL; BASOPHIL</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>As opposed to spontaneous emission, what is the type of emission, first theorized by Albert Einstein, where a photon interacts with an atom’s electron which, when it returns to a ground state, emits a coherent photon?</question>
+        <answer>STIMULATED EMISSION (ACCEPT: STIMULATED)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 choices from the one with the LOWEST temperature to the one with the HIGHEST temperature: copper freezes; water boils; solar corona; lead melts</question>
+        <answer>WATER BOILS; LEAD MELTS; COPPER FREEZES; SOLAR CORONA</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify i&lt;sup&gt;17&lt;/sup&gt; (read as: i to the 17th power):</question>
+        <answer>i</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solve the following equation for x: 2&lt;sup&gt;7&lt;/sup&gt; × 2&lt;sup&gt;(x^2 − 2)&lt;/sup&gt; = 2&lt;sup&gt;21&lt;/sup&gt;</question>
+        <answer>4 OR –4 (ACCEPT: x = &amp;#177;4 )</answer>
+    </fullq>
+
+</round>

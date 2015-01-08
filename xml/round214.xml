@@ -1,0 +1,427 @@
+<round id='214'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The triple point of a substance can be represented in what type of graphical representation:</question>
+        <w_choice>Lewis diagram </w_choice>
+        <x_choice>phase diagram </x_choice>
+        <y_choice>energy diagram </y_choice>
+        <z_choice>time-temperature transformation diagram</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Based on the acid dissociation constants of the following acids, order the following 4 acids from the strongest to the weakest in acid strength: HBr; HCl; HF; HI</question>
+        <answer>HI; HBr; HCl; HF</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Color photography and the eventual development of the color television was advanced most directly by:</question>
+        <w_choice>Planck's quantum theory of light </w_choice>
+        <x_choice>Young's and Helmholtz's three color theory of light </x_choice>
+        <y_choice>the three color pigment theory </y_choice>
+        <z_choice>Kichoff's understanding of the photoelectric effect</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Ignoring friction and assuming g = 9.8 m/s&lt;sup&gt;2&lt;/sup&gt;, how high will a stone reach, in meters rounded to the first decimal place, if launched vertically from rest at 15 m/s?</question>
+        <answer>11.5 METERS</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Oligodendrocytes are responsible for producing what nerve coating that speeds nerve conduction:</question>
+        <answer>MYELIN SHEATH (ACCEPT: MYELIN)</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following are mostly under the control of the hypothalamus:</question>
+        <w_choice>metabolism, heart rate, sleep </w_choice>
+        <x_choice>metabolism, heart rate, ovulation </x_choice>
+        <y_choice>metabolism, heart rate, micturition </y_choice>
+        <z_choice>metabolism, heart rate, balance</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>To a stargazer in Ohio, a star far enough south of the celestial equator to be circumpolar such as Miaplacidus is:</question>
+        <w_choice>only seen for about 6 hours </w_choice>
+        <x_choice>only seen briefly for about half an hour on the horizon </x_choice>
+        <y_choice>only seen on the winter solstice </y_choice>
+        <z_choice>never seen</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Non-circumpolar stars that lie north of the celestial equator when viewed from Michigan will:</question>
+        <w_choice>spend less than 6 hours above the horizon </w_choice>
+        <x_choice>spend more than 6 hours but less than 12 hours above the horizon </x_choice>
+        <y_choice>spend more than 12 hours but less than 24 hours above the horizon </y_choice>
+        <z_choice>spend 24 hours above the horizon</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following trigonometric relationships is TRUE:</question>
+        <w_choice>sine &amp;theta; x cotangent &amp;theta; = 1 (read &amp;theta; as theta) </w_choice>
+        <x_choice>tangent &amp;theta; x cotangent &amp;theta; = 1 </x_choice>
+        <y_choice>secant &amp;theta; - cosine &amp;theta; = 1 </y_choice>
+        <z_choice>sine &amp;theta; + cosecant &amp;theta; = 1</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Given the points, (0, 0) and (-4/5, 3/5), find the distance between them:</question>
+        <answer>1 (ACCEPT: &amp;radic;1)</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT classified as an intrusive igneous rock:</question>
+        <w_choice>granite </w_choice>
+        <x_choice>diorite </x_choice>
+        <y_choice>rhyolite </y_choice>
+        <z_choice>gabbro</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Order the following three types of magma based on their typical percentage of dissolved gas, starting with the lowest: andesitic, basaltic, rhyolitic</question>
+        <answer>BASALTIC, ANDESITIC, RHYOLITIC</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The neutralization of the magnetic field around a body by encircling it with a conductor through which a current is maintained is called:</question>
+        <w_choice>demodulation </w_choice>
+        <x_choice>degaussing </x_choice>
+        <y_choice>debugging </y_choice>
+        <z_choice>dehissing</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>For his discovery of a new form of radiation in 1895, what person received the first Nobel prize in physics?</question>
+        <answer>WILHELM RONTGEN (ACCEPT: RONTGEN)</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In most microprocessors, cache memory built into the microprocessor is what kind of cache:</question>
+        <w_choice>L1 </w_choice>
+        <x_choice>L2 </x_choice>
+        <y_choice>L3 </y_choice>
+        <z_choice>L4</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>A component of the CPU, what does the acronym ALU stand for?</question>
+        <answer>ARITHIMETIC LOGIC UNIT</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Of the following, which is the most powerful tool available for the quantitative elemental analysis of metals in solutions:</question>
+        <w_choice>potentiometry </w_choice>
+        <x_choice>nuclear magnetic resonance spectrometry </x_choice>
+        <y_choice>atomic absorption spectrometry </y_choice>
+        <z_choice>liquid chromatography</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A sodium chloride solution in water has a weight percent of 6%. What mass of solution, in grams, contains 1.5 grams of sodium chloride?</question>
+        <answer>25</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following forms of ionizing radiation expends most of its energy over the shortest distance when passing through human tissue:</question>
+        <w_choice>alpha particles </w_choice>
+        <x_choice>beta particles </x_choice>
+        <y_choice>x-rays </y_choice>
+        <z_choice>gamma particles</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Consider a sailor off the coast of Cape Cod, Massachusetts. How far from a fog horn, in meters, is the sailor if it takes 5 seconds to hear the horn at 10&amp;deg;C?</question>
+        <answer>1685 (ACCEPT: 1680 TO 1690)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Okazaki (read as: OH-kah-zak-ee) fragments are joined by what specific enzyme?</question>
+        <answer>DNA LIGASE (ACCEPT: DNA POLYMERASE I)</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Assuming a man has Daltonism and marries a homozygous, normal woman, their children would most likely have which of the following genetic distributions:</question>
+        <w_choice>100% of the females would be carriers and 50% of the males would be carriers </w_choice>
+        <x_choice>100% of the females would be carriers and 100% of the males would be normal </x_choice>
+        <y_choice>50% of the females would be carriers and all of the males would have Daltonsim </y_choice>
+        <z_choice>both the females and the males would all have Daltonsim</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>What shape do interstellar dust particles have since the light emitted by stars is dimmed and partially polarized:</question>
+        <w_choice>sphere </w_choice>
+        <x_choice>cube </x_choice>
+        <y_choice>disk </y_choice>
+        <z_choice>rodlike</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What astronomical instrument, used to determine the position of celestial bodies, uses light in parallel rays falling on a mercury surface, which then pass through a prism and into a telescope?</question>
+        <answer>PRISMATIC ASTROLABE (ACCEPT: ASTROLABE OR IMPERSONAL ASTROLABE)</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>For a population of 100 individuals with a normal distribution, how many individuals will be found to fall greater than 1 standard deviation above the mean:</question>
+        <w_choice>12 </w_choice>
+        <x_choice>16 </x_choice>
+        <y_choice>32 </y_choice>
+        <z_choice>68</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solving for x, find the roots of the following equation: x&lt;sup&gt;2&lt;/sup&gt; - 2x - 2 = 0</question>
+        <answer>x = 1 &amp;plusmn; &amp;radic;3 (ACCEPT: x = 1 + &amp;radic;3 AND x = 1 - &amp;radic;3)</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following minerals has a hardness of 7, often has good crystal shape with 6 sides, varies from colorless to white, pink, purple and several other colors, and exhibits conchoidal fracture:</question>
+        <w_choice>quartz </w_choice>
+        <x_choice>diamond </x_choice>
+        <y_choice>pyroxene </y_choice>
+        <z_choice>olivine</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Calculate the percent relative humidity for air at 70&amp;deg;F containing 10 millibars of water vapor if the saturation vapor pressure is 25.0 millibars at that temperature:</question>
+        <answer>40%</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In population ecology, which of the following best defines the number of individuals of a species per unit of area:</question>
+        <w_choice>population size </w_choice>
+        <x_choice>population density </x_choice>
+        <y_choice>biomass </y_choice>
+        <z_choice>cohort</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Recent studies of Troglodytes indicate they are some of the most sensitive endangered life forms. In what specific environment do Troglodytes typically live?</question>
+        <answer>CAVES</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In Java, a vector is different from an array in that:</question>
+        <w_choice>it is unordered </w_choice>
+        <x_choice>it has no API to support it </x_choice>
+        <y_choice>it can store only integers </y_choice>
+        <z_choice>its size does not need to be explicitly declared</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following operating systems came first:</question>
+        <w_choice>UNIX </w_choice>
+        <x_choice>Linux </x_choice>
+        <y_choice>Windows 3.1 </y_choice>
+        <z_choice>OS/2</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the common name for the following compound: benzene with a methyl group on carbon #1 and a chlorine atom on carbon #2</question>
+        <w_choice>chlorotoluene (Pronounced: KLOR-o-tol-you-een) </w_choice>
+        <x_choice>o-chlorotoluene </x_choice>
+        <y_choice>p-chlorotoluene </y_choice>
+        <z_choice>m-chlorotoluene</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the oxidation number of the sulfur atom in H2SO4?</question>
+        <answer>+6 (ACCEPT: 6)</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>If e is energy, f is frequency, and h is Planck's constant, which of the following is NOT possible according to Planck's quantum hypothesis:</question>
+        <w_choice>e = hf </w_choice>
+        <x_choice>e = 0.5 hf </x_choice>
+        <y_choice>e = 1 hf </y_choice>
+        <z_choice>e = 2 hf</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Einstein proposed that the photoelectric effect was a test for which of the following:</question>
+        <w_choice>the wave nature of light </w_choice>
+        <x_choice>that light traveled a constant speed in a vacuum </x_choice>
+        <y_choice>the photon theory of light </y_choice>
+        <z_choice>the wave particle duality of light</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Give the common chemical name for where new bases are added to a DNA strand:</question>
+        <answer>3 PRIME HYDROXYL (ACCEPT: 3 PRIME END)</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which one of the following 5 intermediates of the citric acid cycle is considered a 6 carbon intermediate: citric acid, oxaloacetic acid, succinic acid, alpha ketogluteric acid, fumaric acidd</question>
+        <answer>CITRIC ACID</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is not a characteristic of the terrestrial planets:</question>
+        <w_choice>low average density </w_choice>
+        <x_choice>closely spaced orbits </x_choice>
+        <y_choice>craters in old surfaces </y_choice>
+        <z_choice>very few moons</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of Kepler's works in astronomy:</question>
+        <w_choice>Kepler gathered most of his data from his monitoring of the planets with a quadrant </w_choice>
+        <x_choice>Kepler very seldom observed the planets and looked through a telescope only a few times in his life </x_choice>
+        <y_choice>many of Kepler's computations were based on data gathered by Tycho Brahe </y_choice>
+        <z_choice>Kepler assumed planetary motion was not circular</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find sin 2&amp;theta; (read as: sine 2 theta) given that tan &amp;theta; (read as: tangent theta) equals minus three-fourths and &amp;theta; is in the second quadrant:</question>
+        <answer>- 24/25</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the solution set of the following equation: x&lt;sup&gt;2&lt;/sup&gt; + 6x + 6 = 0</question>
+        <answer>-3 &amp;plusmn; &amp;radic;3</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In keeping with developments in the science of physics, Freud incorporated which of the following into his personality theory:</question>
+        <w_choice>relativity </w_choice>
+        <x_choice>quantum theory </x_choice>
+        <y_choice>conservation of energy </y_choice>
+        <z_choice>entropy constantly increases</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Which of the following 5 metals has the lowest thermal conductivity: iron; lead; tin; magnesium; zinc</question>
+        <answer>LEAD</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a naturally occurring amino acid that is NOT found in proteins?</question>
+        <w_choice>threonine (read as: three-oh-neen) </w_choice>
+        <x_choice>histidine </x_choice>
+        <y_choice>ornithine (read as: oar-nih-thine) </y_choice>
+        <z_choice>isoleucine</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which two of the following 5 amino acids contain nonpolar R groups? valine, lysine, arginine, alanine, histidine</question>
+        <answer>VALINE, ALANINE</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If the Earth was the same mass but half its present diameter, by what multiple, to the first decimal place, would escape velocity increase?</question>
+        <answer>1.4</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the energy used in Kilowatt-hours if a current of 2 amps flows though a circuit whose resistance is 5 ohms for one hour?</question>
+        <answer>0.020 (ACCEPT: 0.020 KILOWATT - HOURS)</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What common organic molecule has a hydrocarbon phytol tail and a multi-ring structure with a magnesium metal ion in the center?</question>
+        <answer>CHLOROPHYLL (ACCEPT: ANY CHLOROPHYLL)</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Order the following 3 monosaccharides from the smallest to the largest: xylose, threose, glyceraldehyde</question>
+        <answer>GLYCERALDEHYDE, THREOSE, XYLOSE</answer>
+    </fullq>
+
+</round>

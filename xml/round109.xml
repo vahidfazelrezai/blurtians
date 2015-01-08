@@ -1,0 +1,411 @@
+<round id='109'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the magnitude of the focal length of a spherically curved convex mirror in air, where R stands for the radius of curvature:</question>
+        <w_choice>R divided by 1.22</w_choice>
+        <x_choice>R divided by 2</x_choice>
+        <y_choice>R divided by 1.5</y_choice>
+        <z_choice>R times 4</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>An emergency floodlight draws 1 ampere from its battery pack. How many coulombs will flow through the light in 4 hours?</question>
+        <answer>14,400</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>About how many calories per gram will it take to sublimate water at standard pressure:</question>
+        <w_choice>180</w_choice>
+        <x_choice>360</x_choice>
+        <y_choice>540</y_choice>
+        <z_choice>720</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A Buchner (read as: BYOU-kh-ner) funnel is a piece of laboratory glassware often used in chemistry labs for which of the following procedures:</question>
+        <w_choice>combustion</w_choice>
+        <x_choice>filtration</x_choice>
+        <y_choice>centrifugation</y_choice>
+        <z_choice>distillation</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following tissues is most directly responsible for the growth in height of a tree:</question>
+        <w_choice>apical meristem</w_choice>
+        <x_choice>shoot terminus</x_choice>
+        <y_choice>terminal cambial</y_choice>
+        <z_choice>cambium terminus</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What specific cells and how many of them border each stomal pore?</question>
+        <answer>GUARD CELLS; 2</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>If e&lt;sup&gt;(x/5)&lt;/sup&gt; = 30, which of the following is the value of x, assuming that the natural log of 2 = 0.7, and the natural log of 15 = 2.7:</question>
+        <w_choice>15</w_choice>
+        <x_choice>16</x_choice>
+        <y_choice>17</y_choice>
+        <z_choice>18</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If the area of a regular pentagon is 280 square centimeters, what is the length, in centimeters, of each side if the apothem is 16 centimeters?</question>
+        <answer>7</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Tree growth is often very stunted and gnarly at the tree line of high mountains in North America. Known as Krummholz formations, this is primarily caused by:</question>
+        <w_choice>winds</w_choice>
+        <x_choice>subsidence</x_choice>
+        <y_choice>lowered atmospheric pressure</y_choice>
+        <z_choice>low sunlight levels</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is generally NOT true of the alpine versus arctic tundra biomes:</question>
+        <w_choice>alpine tundra does not contain permafrost whereas arctic tundra does contain permafrost</w_choice>
+        <x_choice>alpine tundra is warmer and has a longer growing season than arctic tundra</x_choice>
+        <y_choice>alpine tundra has a lower species diversity than arctic tundra</y_choice>
+        <z_choice>alpine tundra has less severe winters than arctic tundra</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Name 2 of the following 4 choices that are the 2 main logical reasoning methods used in science: inductive; synthetic; observational; deductive</question>
+        <answer>INDUCTIVE; DEDUCTIVE</answer>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>To the nearest whole number, convert 50&amp;deg;F into kelvin:</question>
+        <answer>283</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>the star Sirius at its brightest has an apparent magnitude of about negative 1.5</w_choice>
+        <x_choice>metal-rich stars sometimes have planets</x_choice>
+        <y_choice>typical binoculars allow observation of stars with apparent magnitudes of about 9.0</y_choice>
+        <z_choice>the Sun has an apparent magnitude of about negative 12</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Astronomers will often refer to certain stars as low metal content stars. In this sense astronomers consider metals as any element:</question>
+        <w_choice>heavier than helium </w_choice>
+        <x_choice>heavier than carbon </x_choice>
+        <y_choice>heavier than copper </y_choice>
+        <z_choice>heavier than iron</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following MOST directly determines the permittivity of a material:</question>
+        <w_choice>ability of the material to magnetize </w_choice>
+        <x_choice>electrical susceptibility</x_choice>
+        <y_choice>electrical insulation capacity</y_choice>
+        <z_choice>electrical conductivity</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What are the SI units for permittivity?</question>
+        <answer>FARADS PER METER</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is one of the main reasons why oxygenates are used as gasoline additives:</question>
+        <w_choice>allow for more complete combustion</w_choice>
+        <x_choice>decrease sulfur buildup in engine pistons </x_choice>
+        <y_choice>prevent water condensation in stored fuels </y_choice>
+        <z_choice>corrosion inhibition</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Consider the following equilibrium reaction, PCl&lt;sub&gt;5(gas)&lt;/sub&gt; &#8596; PCl&lt;sub&gt;3(gas)&lt;/sub&gt; + Cl&lt;sub&gt;2(gas)&lt;/sub&gt;. If a 2 mole sample of PCl&lt;sub&gt;5&lt;/sub&gt; dissociates to give 0.2 moles of Cl&lt;sub&gt;2&lt;/sub&gt; at equilibrium, find the molar amounts, to the 1st decimal place, of PCl&lt;sub&gt;5&lt;/sub&gt; at equilibrium:</question>
+        <answer>1.8</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>During what phase of meiosis-one do homologous chromosomes exchange genetic information?</question>
+        <answer>PROPHASE-ONE (ACCEPT: PROPHASE)</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Order the following 3 choices from the EARLIEST stage to the LATEST stage of ovarian follicle development, and identify which of the structures is typically the LARGEST: secondary follicle; corpus luteum; corpus albicans</question>
+        <answer>SECONDARY FOLLICLE; CORPUS LUTEUM; CORPUS ALBICANS; LARGEST = CORPUS LUTEUM</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>A circle has a diameter of 32 meters. Find the degree measure of the central angle of a sector of the circle if its arc length measures 8&amp;pi; meters:</question>
+        <answer>90</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the sum of the first 10 terms of the arithmetic sequence whose first three terms are 7, 11, and 15:</question>
+        <answer>250</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the most common type of ocean tide throughout the world and is the type found along the U.S. Pacific coast:</question>
+        <w_choice>diurnal</w_choice>
+        <x_choice>semidiurnal </x_choice>
+        <y_choice>mixed</y_choice>
+        <z_choice>zonal</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following regions of the world’s oceans are you most likely to find the greatest uniformity in density changes with increasing depth:</question>
+        <w_choice>equator</w_choice>
+        <x_choice>tropics</x_choice>
+        <y_choice>high latitudes </y_choice>
+        <z_choice>desert latitudes</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a jaw-less fish:</question>
+        <w_choice>lungfish </w_choice>
+        <x_choice>catfish </x_choice>
+        <y_choice>lamprey </y_choice>
+        <z_choice>sturgeon</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>In the northern hemisphere, name all of the following 4 northern degree latitudes that will experience a 12-hour length of day during the vernal equinox: 0&amp;deg;; 10&amp;deg;; 15&amp;deg;; 20&amp;deg;</question>
+        <answer>ALL</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>As a comet approaches the Sun, most of its icy substances are released during what phase change process?</question>
+        <answer>SUBLIMATION</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>During which of the following orbital arrangements can a transit occur for the planet Venus:</question>
+        <w_choice>opposition</w_choice>
+        <x_choice>greatest eastern elongation </x_choice>
+        <y_choice>superior conjunction</y_choice>
+        <z_choice>inferior conjunction</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the general term for the process of making different types of semiconductors by adding slight amounts of impurities into the silicon matrix?</question>
+        <answer>DOPING</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What specific type of semiconductor is produced by doping silicon with arsenic?</question>
+        <answer>N-TYPE</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The reaction CuCl&lt;sub&gt;2&lt;/sub&gt; + Na&lt;sub&gt;2&lt;/sub&gt;S &amp;#8594; CuS + 2NaCl&lt;sub&gt;2&lt;/sub&gt;, is an example of what class of chemical reaction:</question>
+        <w_choice>synthesis</w_choice>
+        <x_choice>single replacement </x_choice>
+        <y_choice>double replacement </y_choice>
+        <z_choice>decomposition</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 species that contain an odd number of electrons: O&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;1-&lt;/sup&gt;; O&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;; SO&lt;sub&gt;2&lt;/sub&gt;; CO</question>
+        <answer>O&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;1-&lt;/sup&gt;</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the most common term for an area of primitive cells in plants where active cell division occurs:</question>
+        <w_choice>meristem</w_choice>
+        <x_choice>ground tissue </x_choice>
+        <y_choice>primary cells </y_choice>
+        <z_choice>germinal tissue</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the layer typically found between 2 plant cell walls of adjoining plant cells which is composed of pectin?</question>
+        <answer>MIDDLE LAMELLA</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the name for the test that can be used to visually determine whether or not a relation defined by a graph represents a function?</question>
+        <answer>VERTICAL LINE TEST (ACCEPT: VERTICAL LINE)</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the x and y intercepts of the line passing through the point (4, 8) that is perpendicular to the line 3x – 6y – 12 = 0:</question>
+        <answer>X-INTERCEPT = (8, 0) (ACCEPT: 8); Y-INTERCEPT = (0, 16) (ACCEPT: 16)</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a medium or coarse-grained rock that consists primarily of plagioclase feldspar and pyroxene and is essentially the plutonic equivalent of basalt:</question>
+        <w_choice>diorite </w_choice>
+        <x_choice>rhyolite </x_choice>
+        <y_choice>andesite </y_choice>
+        <z_choice>gabbro</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Scoria is most typically described as having which of the following textures:</question>
+        <w_choice>phaneritic </w_choice>
+        <x_choice>fragmental </x_choice>
+        <y_choice>porphyritic </y_choice>
+        <z_choice>vesicular</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Blepharitis (read as: bleff-ah-rye-tis) in humans is an inflammation of the:</question>
+        <w_choice>urinary bladder </w_choice>
+        <x_choice>eyelid</x_choice>
+        <y_choice>fingernail</y_choice>
+        <z_choice>tongue</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a principal component of a siderite meteorite:</question>
+        <w_choice>neptunium</w_choice>
+        <x_choice>carbon</x_choice>
+        <y_choice>iron</y_choice>
+        <z_choice>erbium</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which 2 of the following 4 factors most directly determine the apparent visual magnitude of a star: distance from Earth; intrinsic brightness; color; age</question>
+        <answer>DISTANCE FROM EARTH; INTRINSIC BRIGHTNESS</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What 2 characteristics of Uranus are most commonly noted as the reasons why Uranus was not discovered until the late 1700’s?</question>
+        <answer>APPARENT MAGNITUDE; ORBITAL PERIOD ( ACCEPT: BRIGHTNESS or MAGNITUDE)</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In the electrolysis of water, if the production of each molecule of oxygen requires 4 units of electricity, each hydrogen molecule will require how many units of electricity?</question>
+        <answer>2</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the maximum number of 100-watt light bulbs that can run on a 110-volt residential circuit protected by a 15-amp fuse without blowing the fuse?</question>
+        <answer>16</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What are the 2 alkenes (read as: al-KEENS) with the shortest carbon chains and lowest molecular weights?</question>
+        <answer>ETHYLENE; PROPYLENE (ACCEPT: ETHENE; PROPENE)</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Arrange the following 4 metals in order of increasing reactivity in dilute HCl: zinc; aluminum; gold; calcium</question>
+        <answer>GOLD; ZINC; ALUMINUM; CALCIUM</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which one of basic plant cell types has a primary and secondary cell wall that is dead when mature?</question>
+        <answer>SCLERENCHYMA</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 plants that produce seeds: cycads; ferns; mosses; conifers</question>
+        <answer>CYCADS; CONIFERS</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the general name for a substance that facilitates a chemical reaction by providing an alternative reaction pathway with a lower activation energy while remaining unaltered?</question>
+        <answer>CATALYST</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>You need to prepare 500 milliliters of a 0.100 molar NaOH solution from a 0.250 molar solution. What volume, in milliliters, of the 0.250 molar solution must be diluted to 500 milliliters?</question>
+        <answer>200</answer>
+    </fullq>
+
+</round>

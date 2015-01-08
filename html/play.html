@@ -1,0 +1,130 @@
+<h2>Single Team Play!</h2>
+
+<br>
+
+<span id="select_prompt">Select a round: 
+    <select id="select_round" class="round_selection">
+        <option value="101">Set 1, Round 1</option>
+        <option value="102">Set 1, Round 2</option>
+        <option value="103">Set 1, Round 3</option>
+        <option value="104">Set 1, Round 4</option>
+        <option value="105">Set 1, Round 5</option>
+        <option value="106">Set 1, Round 6</option>
+        <option value="107">Set 1, Round 7</option>
+        <option value="108">Set 1, Round 8</option>
+        <option value="109">Set 1, Round 9</option>
+        <option value="110">Set 1, Round 10</option>
+        <option value="111">Set 1, Round 11</option>
+        <option value="112">Set 1, Round 12</option>
+        <option value="113">Set 1, Round 13</option>
+        <option value="114">Set 1, Round 14</option>
+        <option value="115">Set 1, Round 15</option>
+        <option value="116">Set 1, Round 16</option>
+        <option value="117">Set 1, Round 17</option>
+        <option value="201">Set 2, Round 1</option>
+        <option value="202">Set 2, Round 2</option>
+        <option value="203">Set 2, Round 3</option>
+        <option value="204">Set 2, Round 4</option>
+        <option value="205">Set 2, Round 5</option>
+        <option value="206">Set 2, Round 6</option>
+        <option value="207">Set 2, Round 7</option>
+        <option value="208">Set 2, Round 8</option>
+        <option value="209">Set 2, Round 9</option>
+        <option value="210">Set 2, Round 10</option>
+        <option value="211">Set 2, Round 11</option>
+        <option value="212">Set 2, Round 12</option>
+        <option value="213">Set 2, Round 13</option>
+        <option value="214">Set 2, Round 14</option>
+        <option value="215">Set 2, Round 15</option>
+        <option value="216">Set 2, Round 16</option>
+        <option value="217">Set 2, Round 17</option>
+    </select>
+(These rounds are from <a href="http://science.energy.gov/wdts/nsb/high-school/high-school-regionals/hs-rules-forms-resources/sample-science-bowl-questions/">here</a>.)
+    <br>
+    <br>
+</span>
+
+<button id="play_button" onclick="startPlay();" onmouseover="playSound('/mp3/time.mp3');">
+    Play!
+</button>
+
+
+<div id="instructions">
+<br>
+<p><b>Instructions for playing:</b></p>
+<p>Upon clicking "Play!" a question will appear with a designated subject (biology, chemistry, Earth and space sciences, energy, general science, math, or physics) and a type (multiple choice or short answer). After the question has been completely read, start the timer by clicking on the button the upper-right corner; there will be five seconds for toss up questions and twenty seconds, with a five-second warning, for bonus. If the time runs out before an answer is given, click the button in the upper-right corner. If a blurt or incorrect interrupt occurs, click the appropriate blue button under the timer. If an answer is given to a multiple choice question, the correctness will be automatically determined. If an answer is given to a short answer question, the user will have to assess the correctness of the answer. Finally, clicking "Next Question" repeats this process for the remainder of the round. This was originally intended for a single team practicing with a non-participating reader.</p>
+</div>
+
+
+<div id="question">
+    <div id="question_info">
+    
+    </div>
+
+    <div id="question_text">
+    
+    </div>
+
+    <div id="MC_answer">
+        <span id="choice_w" class="choice" onmouseover="choiceOver('choice_w');" onmouseout="choiceOut('choice_w');" onclick="choiceClick('W')"></span> <br>
+        <span id="choice_x" class="choice" onmouseover="choiceOver('choice_x');" onmouseout="choiceOut('choice_x');" onclick="choiceClick('X')"></span> <br>
+        <span id="choice_y" class="choice" onmouseover="choiceOver('choice_y');" onmouseout="choiceOut('choice_y');" onclick="choiceClick('Y')"></span> <br>
+        <span id="choice_z" class="choice" onmouseover="choiceOver('choice_z');" onmouseout="choiceOut('choice_z');" onclick="choiceClick('Z')"></span> <br>
+    </div>
+    
+    <div id="SA_answer">
+        <br>
+    
+        <button id="show_button" onclick="showAnswer();">
+            Show Answer
+        </button>
+        
+        <div id="answer_display">
+        
+        </div>
+        
+        <br>
+        
+        <button id="correct_button" type="button" onclick="endQuestion('correct');">Given answer was correct.</button>
+        <button id="incorrect_button" type="button" onclick="endQuestion('incorrect');">Given answer was incorrect.</button>
+
+    </div>
+    
+    <button id="blurt_button" type="button" onclick="endQuestion('blurt');">
+        Blurt
+    </button>
+    
+    <button id="interrupt_button" type="button" onclick="interruptClick();">
+        Interrupt
+    </button>
+    
+    <div id="interrupt_display">Interrupt...</div>
+
+    
+    <div id="result">
+        <br>
+            
+        <div id="result_display">
+        	
+        </div>
+
+        <br>
+                        
+        <button id="next_button" type="button" onclick="nextQuestion();">
+            Next Question
+        </button>
+    </div>
+    
+</div>
+
+<div id="timer">
+    <button id="timer_button" type="button" onclick="timerStart();">
+        Start Timer
+    </button>
+    <div id="timer_display">
+
+    </div>
+    <button id="timer_prompt" type="button" onclick="endQuestion('time')">
+        Ran out of time
+    </button>
+</div>

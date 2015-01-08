@@ -1,0 +1,435 @@
+<round id='207'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT considered a state function of a system in a reaction:</question>
+        <w_choice>work </w_choice>
+        <x_choice>enthalpy </x_choice>
+        <y_choice>temperature </y_choice>
+        <z_choice>volume</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the name of the law that states that the overall enthalpy change for a reaction is equal to the sum of the enthalpy changes for the individual steps in the reaction:</question>
+        <answer>HESS'S LAW (ACCEPT: HESS)</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>A beam of white light is incident on one face of a prism. Which of the following colors will emerge on the other side at the lowest angle with respect to the primary beam:</question>
+        <w_choice>violet </w_choice>
+        <x_choice>yellow </x_choice>
+        <y_choice>red </y_choice>
+        <z_choice>blue</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Consider a lever with a 4-gram mass located 12 centimeters from its fulcrum. A 6-gram mass is placed on the opposite side of the lever. How far, in centimeters, must the 6-gram mass be placed from the fulcrum to equally balance the 4-gram mass?</question>
+        <answer>8 CENTIMETERS</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the substrate for which catalase has the greatest affinity?</question>
+        <answer>HYDROGEN PEROXIDE (ACCEPT: H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;)</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following kinds of microscopy will most commonly employ freeze fracture preparation of tissue specimens:</question>
+        <w_choice>bright field microscopy </w_choice>
+        <x_choice>scanning electron microscopy </x_choice>
+        <y_choice>Normarsky microscopy </y_choice>
+        <z_choice>transmission electron microscopy</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Cepheid variables are a large and important group of:</question>
+        <w_choice>yellow giants and super giants </w_choice>
+        <x_choice>red giants </x_choice>
+        <y_choice>blue giants </y_choice>
+        <z_choice>pulsating quasars</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the name of the simple astronomical instrument consisting of a vertical stick placed in a sunny spot to cast a shadow?</question>
+        <answer>GNOMON</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the derivative of the following function: f(x) = sin(ln x) (read as: f of x equals the sine of the natural log of x)</question>
+        <answer>cos(ln x)/x</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Using the Cartesian coordinate system, find the distance between the points (2, 3) and (-3, 1):</question>
+        <w_choice>&amp;radic;29 </w_choice>
+        <x_choice>&amp;radic;7 </x_choice>
+        <y_choice>&amp;radic;5 </y_choice>
+        <z_choice>&amp;radic;39</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>What percentage of the earth's total volcanic activity occurs under the ocean?</question>
+        <w_choice>30% </w_choice>
+        <x_choice>45% </x_choice>
+        <y_choice>65% </y_choice>
+        <z_choice>90%</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true about the Earth's troposphere:</question>
+        <w_choice>within the layer, temperature decreases with altitude </w_choice>
+        <x_choice>it is terminated by the tropopause </x_choice>
+        <y_choice>it contains the jet stream </y_choice>
+        <z_choice>within the layer, temperature increases with altitude</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Galena is a primary ore of which of the following metals:</question>
+        <w_choice>zinc </w_choice>
+        <x_choice>lead </x_choice>
+        <y_choice>germanium </y_choice>
+        <z_choice>tungsten</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>According to Aristotle, the portion of the Cosmos lower than the moon is made of what four elements?</question>
+        <answer>EARTH, WATER, AIR, FIRE (accept in any order)</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The letter "T" in 10 Base-T wiring refers to:</question>
+        <w_choice>Teflon coated </w_choice>
+        <x_choice>telephone wire </x_choice>
+        <y_choice>tetrahedral packing </y_choice>
+        <z_choice>twisted pair</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In Windows 98, what screen would you access to change device resources and troubleshoot resource conflicts:</question>
+        <w_choice>Device Performance Console </w_choice>
+        <x_choice>Device Add/Remove </x_choice>
+        <y_choice>Device Changer </y_choice>
+        <z_choice>Device Manager</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a manufactured fiber composed of regenerated cellulose or of regenerated cellulose in which substituents have replaced more than 15% of the hydrogens of the hydroxyl groups:</question>
+        <w_choice>polyester </w_choice>
+        <x_choice>silk </x_choice>
+        <y_choice>rayon </y_choice>
+        <z_choice>nylon</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>If the temperature of a 4L tank of gas changes from 200K to 500K, at constant pressure what is the new volume of gas, in liters:</question>
+        <answer>10</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>According to the work of Coulomb, if the charge on either one of two tiny objects was doubled, by what multiple would the total force on the particles increase?</question>
+        <answer>2 TIMES</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>In the Bragg equation which is conventionally written as, n&amp;lambda; = 2d sin N (Read as: n lambda equals two d sine phi), which of the following is the correct description of the angle phi:</question>
+        <w_choice>the complementary angle with respect to the normal to the crystal surface </w_choice>
+        <x_choice>the angle between the incident ray and the normal to the crystal surface </x_choice>
+        <y_choice>the angle between the incident ray and the crystal surface </y_choice>
+        <z_choice>the internal angle of reflection of the crystal</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What scientist in 1936, building on the discoveries of Szent-Gyorgyi, (Pronounced: SENT- GEE-or-gee) postulated the basic reactions of the tricarboxylic (read as: tri-car- box-ill-ick) acid cycle?</question>
+        <answer>KREBS</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>At which of the following wavelengths will photosynthesis in a spinach plant be greatest:</question>
+        <w_choice>475 nanometers </w_choice>
+        <x_choice>550 nanometers </x_choice>
+        <y_choice>600 nanometers </y_choice>
+        <z_choice>750 nanometers</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following planets sees the Sun rising from the west and setting in the east during its Autumn and Spring equinoxes?</question>
+        <w_choice>Mars </w_choice>
+        <x_choice>Saturn </x_choice>
+        <y_choice>Uranus </y_choice>
+        <z_choice>Mercury</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Who is the author of the book titled "On the Revolution of the Heavenly Spheres" which rejected the Earth-centric universe?</question>
+        <answer>COPERNICUS</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What percent of a normally distributed sample lies within 2 standard deviations of the mean?</question>
+        <answer>95%</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the smallest integer that satisfies the following inequality: x/2 + x/3 &amp;gt; 5</question>
+        <answer>7</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A wave base is defined as the depth below an ocean wave in deep water below which stirring due to wind is negligible, and is approximately equal to:</question>
+        <w_choice>1/8 of its wavelength </w_choice>
+        <x_choice>1/4 of its wavelength </x_choice>
+        <y_choice>1/2 of its wavelength </y_choice>
+        <z_choice>3/4 of its wavelength</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A clastic particle falling within the size range of 1/16&lt;sup&gt;th&lt;/sup&gt; mm to 2 mm is called:</question>
+        <w_choice>silt </w_choice>
+        <x_choice>sand </x_choice>
+        <y_choice>clay </y_choice>
+        <z_choice>pebble</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following woods is most desirable for fence posts in wet environments:</question>
+        <w_choice>locust </w_choice>
+        <x_choice>oak </x_choice>
+        <y_choice>alder </y_choice>
+        <z_choice>hickory</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>BenzoPyrenes are food toxins that can be found in low concentrations in:</question>
+        <w_choice>charcoal-broiled meats </w_choice>
+        <x_choice>uncooked shellfish </x_choice>
+        <y_choice>raw eggs </y_choice>
+        <z_choice>wild mushrooms</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>The elapsed time between the initiation of a request for data and the receipt of the first bit or byte of that data is called:</question>
+        <answer>ACCESS TIME (ACCEPT: DISK ACCESS TIME)</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a port that transmits data in a sort of wave, 8 bits across, in which each bit goes in the same direction at the same time:</question>
+        <w_choice>LPT </w_choice>
+        <x_choice>serial </x_choice>
+        <y_choice>USB </y_choice>
+        <z_choice>FireWire</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A substance with an acid dissociation constant, or K&lt;sub&gt;a&lt;/sub&gt;, of 1 x 10&lt;sup&gt;-9&lt;/sup&gt; would be considered a:</question>
+        <w_choice>weak acid </w_choice>
+        <x_choice>strong acid </x_choice>
+        <y_choice>weak base </y_choice>
+        <z_choice>strong base</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which Law states that the rate of effusion of a gas is inversely proportional to the square root of its molar mass?</question>
+        <answer>GRAHAMS' LAW</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>According to quantum electrodynamics, what is exchanged that gives rise to the electromagnetic force between 2 charged particles?</question>
+        <answer>PHOTONS</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What are the spin quantities for a gauge boson, a lepton, and a kaon, respectively?</question>
+        <answer>1; 1/2; 0</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>A nucleosome is composed of what general class of proteins?</question>
+        <answer>HISTONES</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>In the cloning of plants such as orchids, the most desirable tissue to begin culturing in vitro is:</question>
+        <w_choice>radial cambium </w_choice>
+        <x_choice>shoot meristematic tissue </x_choice>
+        <y_choice>amyloplasts </y_choice>
+        <z_choice>stem internodes</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the Greek name meaning sparkling or scorching for the star, alpha Canis Majoris?</question>
+        <answer>SIRIUS</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>One important difference between spiral and elliptical galaxies is that:</question>
+        <w_choice>spiral galaxies contain Population II stars </w_choice>
+        <x_choice>spiral galaxies contain clouds of gas and are still forming stars </x_choice>
+        <y_choice>spiral galaxies contain a massive black hole </y_choice>
+        <z_choice>spiral galaxies are formed by a more rapid accumulation of mass</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What parameter, usually signified by a lower case r, describes the direction and strength of a straight-line relationship between two quantifiable variables?</question>
+        <answer>CORRELATION (ACCEPT: PEARSON'S CORRELATION or CORRELATION COEFFICIENT or PEARSON'S R, or THE PEARSON PRODUCT MOMENT CORRELATION)</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In terms of &amp;pi;, what is the area of a sector in a circle whose central angle is 40&amp;deg; bounded by two radii of 6?</question>
+        <answer>4&amp;pi;</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A flurry of recent reports in neurology and psychology points to protein translation in cerebral cortex dendrites leading to changes in synapses vital to what biological process:</question>
+        <w_choice>voluntary motor control </w_choice>
+        <x_choice>stem cell repair </x_choice>
+        <y_choice>myelination </y_choice>
+        <z_choice>learning</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A common type of distortion in CRT monitors in which horizontal and vertical lines bend inwards towards the center of the display is called:</question>
+        <w_choice>spiral distortion </w_choice>
+        <x_choice>barrel distortion </x_choice>
+        <y_choice>trapezoid distortion </y_choice>
+        <z_choice>pincushion distortion</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A racemic mixture is a solution that contains:</question>
+        <w_choice>a 50:50 mixture of (+) and (-) isomers </w_choice>
+        <x_choice>greater than 50% of the (+) isomers </x_choice>
+        <y_choice>greater than 50% of the (-) isomers </y_choice>
+        <z_choice>only one species of isomer</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Separation of proteins by centrifugation in a sucrose density gradient is based on:</question>
+        <w_choice>size and shape only </w_choice>
+        <x_choice>size only </x_choice>
+        <y_choice>density only </y_choice>
+        <z_choice>size, shape, and density</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Which 2 of the following 4 parameters most directly yield the product used in the Lawson criterion for nuclear fusion: ion density; fusion temperature; isotope half-life; energy confinement time</question>
+        <answer>ION DENSITY AND ENERGY CONFINEMENT TIME (accept in any order)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>The toroidal magnetic field in the Tokamak fusion confinement is oriented in which of the following directions:</question>
+        <w_choice>uniformly throughout the toroid </w_choice>
+        <x_choice>oblique to the toroid axis </x_choice>
+        <y_choice>perpendicular to the toroid axis </y_choice>
+        <z_choice>parallel to the surface of the toroid</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which germ layer in mammals is predominantly responsible for the gut lining and digestive glands?</question>
+        <answer>ENDODERM</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Shistosomia mansoni is to shistosomiasis as Trypanasoma cruzi (Pronounced as TRY-pana-soma CREW-zeye) is to:</question>
+        <answer>CHAGAS' DISEASE</answer>
+    </fullq>
+
+</round>

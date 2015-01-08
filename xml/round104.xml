@@ -1,0 +1,411 @@
+<round id='104'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is TRUE:</question>
+        <w_choice>chimpanzees are an ancestor of Homo sapiens</w_choice>
+        <x_choice>bipedal motion dominated hominoid ancestors by about 30 million years ago</x_choice>
+        <y_choice>humans and modern apes have a common ancestor</y_choice>
+        <z_choice>Neanderthals were ancestors to modern humans</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Order the following 5 taxonomic group with the MOST members to the one with the FEWEST members: genus; order; phylum; class; family</question>
+        <answer>PHYLUM; CLASS; ORDER; FAMILY; GENUS</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is an element that is very important to human life, is contained in vitamin B-12, belongs to a group of transition metals, and has magnetic properties like iron:</question>
+        <w_choice>selenium</w_choice>
+        <x_choice>cobalt</x_choice>
+        <y_choice>zinc</y_choice>
+        <z_choice>manganese</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the pH of a 1 molar NaOH solution at 25&amp;deg;C?</question>
+        <answer>14</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the most common instrument used for measuring gas pressure:</question>
+        <w_choice>manometer</w_choice>
+        <x_choice>anemometer</x_choice>
+        <y_choice>tensitometer</y_choice>
+        <z_choice>flow-meter</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is TRUE of a sound wave traveling in dry air at STP at a constant velocity:</question>
+        <w_choice>if frequency increases, wavelength increases</w_choice>
+        <x_choice>if frequency increases, wavelength decreases</x_choice>
+        <y_choice>if frequency decreases, wavelength decreases</y_choice>
+        <z_choice>if frequency increases, wavelength stays the same</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If the shortest leg of a 30-60-90 right triangle is 6 inches, what is the measure, in inches, of the other 2 sides?</question>
+        <answer>12 AND 6&amp;radic;3</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Consider triangle ABC, where the measure of angle A = 20&amp;deg;, B = 117&amp;deg;, and C = 43&amp;deg;. Arrange the 3 sides in order of increasing length</question>
+        <answer>BC; AB; AC</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Ocean tides of diminished range are called:</question>
+        <w_choice>spring tides</w_choice>
+        <x_choice>neap tides</x_choice>
+        <y_choice>diurnal tides</y_choice>
+        <z_choice>semi-diurnal tides</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following was a time when glaciation was minimal on Earth:</question>
+        <w_choice>Cretaceous Period</w_choice>
+        <x_choice>Quaternary Period</x_choice>
+        <y_choice>Holocene Epoch</y_choice>
+        <z_choice>Pleistocene Epoch</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>1 bar equals how many Pascals?</question>
+        <answer>100,000 (ACCEPT: 1 × 10&lt;sup&gt;5&lt;/sup&gt; or 10&lt;sup&gt;5&lt;/sup&gt;)</answer>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Meteorologists commonly use the hectopascal for air pressure. 1,000 hectopascals equals how many millibars?</question>
+        <answer>1,000</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What planet of our solar system has the most nitrogen-rich atmosphere?</question>
+        <answer>EARTH</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Most of the galaxies in the universe are classified as which of the following:</question>
+        <w_choice>spiral</w_choice>
+        <x_choice>elliptical</x_choice>
+        <y_choice>irregular</y_choice>
+        <z_choice>dwarf</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the common name for the product of human lachrymal (read as: LACK-reh-mal) glands?</question>
+        <answer>TEARS</answer>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 plants that have their seeds typically dispersed by wind: dandelion; milkweed; maize; lupine</question>
+        <answer>DANDELION; MILKWEED</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a weak electrolyte:</question>
+        <w_choice>ammonia</w_choice>
+        <x_choice>dilute sulfuric acid</x_choice>
+        <y_choice>1 molar sodium chloride</y_choice>
+        <z_choice>dilute perchloric acid</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A molecular solid will most typically have which of the following melting points:</question>
+        <w_choice>very high</w_choice>
+        <x_choice>high to very high</x_choice>
+        <y_choice>low</y_choice>
+        <z_choice>variable</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What particle of an atom is most directly responsible for the emission of light when an atom is excited by electromagnetic radiation?</question>
+        <answer>ELECTRON</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the wavelength, in meters, of a wave moving at 500 meters per second if its frequency is 20 Hertz?</question>
+        <answer>25</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify the following expression: x&lt;sup&gt;1/2&lt;/sup&gt; x&lt;sup&gt;2/5&lt;/sup&gt;</question>
+        <answer>x&lt;sup&gt;9/10&lt;/sup&gt;</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the slope of a line perpendicular to the line given by the graph of the equation, –5x = –6y + 4</question>
+        <answer>–6/5</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>When rain freezes into pellets while falling to the ground during a winter storm, the most accurate forecast would have predicted:</question>
+        <w_choice>hail</w_choice>
+        <x_choice>snow</x_choice>
+        <y_choice>freezing rain</y_choice>
+        <z_choice>sleet</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Identify each of the following 3 rocks, respectively, as igneous, metamorphic, or sedimentary: marble; pumice; conglomerate</question>
+        <answer>MARBLE = METAMORPHIC; PUMICE = IGNEOUS; CONGLOMERATE = SEDIMENTARY</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Bioluminescence is a phenomenon most common in which of the following environments:</question>
+        <w_choice>marine</w_choice>
+        <x_choice>fresh water</x_choice>
+        <y_choice>land</y_choice>
+        <z_choice>atmosphere</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a mixing incompatibility of common household products that can produce toxic products:</question>
+        <w_choice>vinegar and baking soda</w_choice>
+        <x_choice>vinegar and bleach</x_choice>
+        <y_choice>vinegar and borax</y_choice>
+        <z_choice>castile soap and salt</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the primary characteristic of the Jovian planets:</question>
+        <w_choice>high axial spin rates</w_choice>
+        <x_choice>low mean density</x_choice>
+        <y_choice>retrograde orbits</y_choice>
+        <z_choice>prominent layer of liquid-metallic hydrogen</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which one of the Gas Giant planets emits the LEAST amount of energy?</question>
+        <answer>URANUS</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Eggs exit a chicken’s body through what specific structure:</question>
+        <w_choice>rectal plexus</w_choice>
+        <x_choice>cloaca (read as: KLO-aye-ka) Y) rostrum</x_choice>
+        <y_choice>spiculum</y_choice>
+        <z_choice>WER: X) CLOACA</z_choice>
+        <answer_choice>C</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>iple Choice In which of the following areas of the human body is the zygomatic (read as: ZYE-go-MAT-ick) arch found:</question>
+        <answer>s</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>iple Choice In which of the following areas of the human body is the zygomatic (read as: ZYE-go-MAT-ick) arch found:</question>
+        <answer>Y) HEAD</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the bond order between the 2 carbon atoms in acetylene?</question>
+        <answer>3</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>According to standard chemical nomenclature and indicating the proper charge, what is the formula for the sulfite ion?</question>
+        <answer>SO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;2–&lt;/sup&gt; (ACCEPT: SO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;–2&lt;/sup&gt;)</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>How many neutrons does the most common isotope of hydrogen have?</question>
+        <answer>ZERO</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>How many neutrons and how many protons are present in a single oxygen-15 nucleus, respectively?</question>
+        <answer>NEUTRONS = 7; PROTONS = 8</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT a Pythagorean triple:</question>
+        <w_choice>15, 20, 25</w_choice>
+        <x_choice>10, 24, 26</x_choice>
+        <y_choice>16, 24, 30</y_choice>
+        <z_choice>33, 44, 55</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Evaluate the following expression when a = 13 , b = 4, c = –1, and d=–5: 2[3a–(b+c)–4d]</question>
+        <answer>36</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Cirrus clouds are typically found at elevations of:</question>
+        <w_choice>20,000 feet and above</w_choice>
+        <x_choice>10,000 to 20,000 feet</x_choice>
+        <y_choice>5,000 to 10,000 feet</y_choice>
+        <z_choice>2,000 to 5,000 feet</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Andesitic magmas typically erupt above:</question>
+        <w_choice>hot spots</w_choice>
+        <x_choice>divergent plate boundaries</x_choice>
+        <y_choice>subduction zones</y_choice>
+        <z_choice>fissure eruptions</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the main reason why Africanized honey bees are much more dangerous to humans and animals than European honey bees:</question>
+        <w_choice>they defend their nests more intensely</w_choice>
+        <x_choice>their venom is 10-times more potent</x_choice>
+        <y_choice>they can sting multiple times</y_choice>
+        <z_choice>they are larger and carry more venom</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>In most cars, what acts as the circuit ground?</question>
+        <answer>THE BODY (ACCEPT: FRAME or CHASSIS)</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>From mid-northern latitudes, during which of the following months would the constellation Orion be most prominent in the southern sky at about 10 PM:</question>
+        <w_choice>April</w_choice>
+        <x_choice>July</x_choice>
+        <y_choice>August</y_choice>
+        <z_choice>December</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the most common term for the apparent dividing line between night and day on the Moon?</question>
+        <answer>TERMINATOR</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>From which of the following is the cell wall of plants mostly composed:</question>
+        <w_choice>protein</w_choice>
+        <x_choice>lipid monolayer</x_choice>
+        <y_choice>lipid bilayer</y_choice>
+        <z_choice>polysaccharide</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the common biological name for the product of human sublingual glands?</question>
+        <answer>SALIVA</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the atomic sublevel with the next highest energy after the 4p sublevel:</question>
+        <w_choice>4d</w_choice>
+        <x_choice>4f</x_choice>
+        <y_choice>5s</y_choice>
+        <z_choice>5p</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Give the electronic configuration for sulfur, located in Period 3 and Group 16 of the Periodic Table:</question>
+        <answer>1s&lt;sup&gt;2&lt;/sup&gt;2s&lt;sup&gt;2&lt;/sup&gt;2p&lt;sup&gt;s&lt;/sup&gt;63&lt;sup&gt;2&lt;/sup&gt;3p&lt;sup&gt;4&lt;/sup&gt; (ACCEPT: [Ne] 3s&lt;sup&gt;2&lt;/sup&gt;3p&lt;sup&gt;4&lt;/sup&gt;)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Jan is riding her bike northward on Main Street at 20 kilometers per hour and applies her brakes. In what direction would a physicist MOST likely record her acceleration?</question>
+        <answer>SOUTH</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If 200 coulombs pass through a wire in 0.5 seconds, what is the average current, in amps, passing through the wire?</question>
+        <answer>400</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common color for the calyx (read as: KAL-IX) of angiosperms?</question>
+        <answer>GREEN</answer>
+    </fullq>
+
+</round>

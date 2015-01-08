@@ -1,0 +1,415 @@
+<round id='203'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>In Galileo's experiments on balls rolling down an inclined plane, he had originally hypothesized:</question>
+        <w_choice>that all objects have inertia </w_choice>
+        <x_choice>that all balls underwent uniform acceleration </x_choice>
+        <y_choice>the 2&lt;sup&gt;nd&lt;/sup&gt; law of motion </y_choice>
+        <z_choice>the 3&lt;sup&gt;rd&lt;/sup&gt; law of motion</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the centripetal force, in Newtons, that is required to cause a 10 kilogram body to move at 3 meters per second in uniform circular motion with a radius of 10 meters?</question>
+        <answer>9 NEWTONS</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Give the genus and species name for the first bacterium shown to be the cause of a disease:</question>
+        <answer>BACILLUS ANTHRACIS</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In the late 1800's, who was the first person to isolate and grow numerous pathogenic Monerans?</question>
+        <answer>ROBERT KOCH</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following groups of elements have the strongest or highest electron affinities, corresponding to the largest release of energy:</question>
+        <w_choice>group 1A </w_choice>
+        <x_choice>group 2A </x_choice>
+        <y_choice>group 7A </y_choice>
+        <z_choice>group 8A</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What element is a corrosive, greenish-yellow gas, is widely used in the manufacturing of polymers such as Teflon, and is the 13&lt;sup&gt;th&lt;/sup&gt; most abundant element in the Earth's crust?</question>
+        <answer>FLUORINE (ACCEPT: F)</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Containing roughly ten times more gas than Earth's, why does Titan's atmosphere extend some ten times farther into space than does our own?</question>
+        <answer>WEAKER GRAVITATIONAL PULL (ACCEPT: SMALLER MASS)</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the most common term for the imaginary band on either side of the ecliptic where the path of the Sun, Moon, and planets are generally found?</question>
+        <answer>THE ZODIAC</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>On a blueprint, if three-quarters of an inch represents 1 foot, then 2 inches will represent what distance, in feet, expressed as the most reduced compound fraction?</question>
+        <answer>2 2/3 (ACCEPT: 2.66)</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>How old is Michelle if 4 years ago she was one-half the age she will be 10 years from now?</question>
+        <answer>18</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Groundwater that is rich in calcium and magnesium bicarbonates is termed:</question>
+        <w_choice>hard water </w_choice>
+        <x_choice>soft water </x_choice>
+        <y_choice>well water </y_choice>
+        <z_choice>recharge water</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following descriptions is NOT true of eskers:</question>
+        <w_choice>they were formed above glaciers by the widening of crevasses </w_choice>
+        <x_choice>they are low, steep-sided ridges of sand and gravel </x_choice>
+        <y_choice>deposits were laid down by running water </y_choice>
+        <z_choice>their deposits are roughly sorted and bedded</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What major biome occurs only in the Northern Hemisphere and is composed of both Low Arctic and High Arctic areas?</question>
+        <answer>TUNDRA</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Give the respective SI multipliers for the following prefixes: exa; peta; and giga</question>
+        <answer>10&lt;sup&gt;18&lt;/sup&gt;; 10&lt;sup&gt;15&lt;/sup&gt;; 10&lt;sup&gt;9&lt;/sup&gt;</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A Java stock ticker that runs within the user's Web browser is an example of:</question>
+        <w_choice>an applet </w_choice>
+        <x_choice>liteware </x_choice>
+        <y_choice>firmware </y_choice>
+        <z_choice>a taskbar</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>What is the octal equivalent of the binary number 1100 (read as: one, one, zero, zero)?</question>
+        <w_choice>11 </w_choice>
+        <x_choice>14 </x_choice>
+        <y_choice>2 </y_choice>
+        <z_choice>4</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following moves in the form of a longitudinal compression wave:</question>
+        <w_choice>ocean wave </w_choice>
+        <x_choice>sound wave </x_choice>
+        <y_choice>light wave </y_choice>
+        <z_choice>electromagnetic wave</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming g = 9.8 m/sec2, what is the weight on Earth, in Newtons, of a 70 kilogram person?</question>
+        <answer>686 NEWTONS</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following Orders does NOT belong to the Class Insecta:</question>
+        <w_choice>Lepidoptera </w_choice>
+        <x_choice>Diptera </x_choice>
+        <y_choice>Isoptera </y_choice>
+        <z_choice>Chelicerata</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following diseases is NOT caused by bacteria:</question>
+        <w_choice>strep throat </w_choice>
+        <x_choice>toxic shock syndrome </x_choice>
+        <y_choice>scarlet fever </y_choice>
+        <z_choice>influenza</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the pH of a solution at 25&amp;deg;C that has a hydrogen ion concentration of 0.001?</question>
+        <answer>3</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which 3 Noble gases undergo no chemical reactions and form no known compounds?</question>
+        <answer>HELIUM, NEON, ARGON (ACCEPT: He, Ne, Ar)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What gas makes up most of the atmosphere of Mars?</question>
+        <answer>CARBON DIOXIDE (ACCEPT: CO&lt;sub&gt;2&lt;/sub&gt;)</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Longitude is to right ascension as latitude is to:</question>
+        <answer>DECLINATION</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In order, what are the prime numbers between 30 and 50?</question>
+        <answer>31, 37, 41, 43, 47</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the prime factorization of 1050:</question>
+        <answer>2x3x5x5x7 (ACCEPT: 2x3x5&lt;sup&gt;2&lt;/sup&gt;x7)</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the term for wave activity between the line of breakers and the shore, produced as an ocean wave steepens and falls forward?</question>
+        <answer>SURF</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Distinctly and finely stratified layers of silt and clay deposited in lakes of glacial origin are known as:</question>
+        <w_choice>varves </w_choice>
+        <x_choice>moraines </x_choice>
+        <y_choice>drumlins </y_choice>
+        <z_choice>eskers</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>One knot is approximately equal to how many kilometers per hour?</question>
+        <w_choice>0.6 </w_choice>
+        <x_choice>1.9 </x_choice>
+        <y_choice>1.65 </y_choice>
+        <z_choice>1.0</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What term describes the ability of a microscope to remain very nearly in focus when switching from one objective lens to another:</question>
+        <answer>PARFOCAL (ACCEPT: PARFOCALITY)</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The process of converting 3D information to a 2D screen image is called:</question>
+        <w_choice>texturing </w_choice>
+        <x_choice>rendering </x_choice>
+        <y_choice>rastering </y_choice>
+        <z_choice>modeling</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>What is the minimum amount of RAM required for the proper execution of Windows 2000 Professional:</question>
+        <w_choice>80 MB </w_choice>
+        <x_choice>64 MB </x_choice>
+        <y_choice>40 MB </y_choice>
+        <z_choice>32 MB</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Ultrasonic sound frequencies are typically considered to be:</question>
+        <w_choice>above 20,000 kilohertz </w_choice>
+        <x_choice>below 20,000 kilohertz </x_choice>
+        <y_choice>above 20,000 Hertz </y_choice>
+        <z_choice>below 20,000 Hertz</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following will deposit the greatest amount of energy per unit path in human tissue:</question>
+        <w_choice>gamma ray </w_choice>
+        <x_choice>x-ray </x_choice>
+        <y_choice>beta particles </y_choice>
+        <z_choice>alpha particles</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>One species benefits while the other is unaffected is most specifically an example of what symbiotic relationship?</question>
+        <answer>COMMENSALISM</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the term for the epidermal rupture in cork cells, common to the birch tree, that allows air to diffuse trough the bark?</question>
+        <answer>LENTICEL</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What does the acronym MSDS, the safety information sheet for a particular chemical substance, stand for?</question>
+        <answer>MATERIAL SAFETY DATA SHEET</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>If an atom X, which has an electronegativity of 3.5, bonds with atom Y, which has an electronegativity of 0.9, what type of bond is most likely prevalent:</question>
+        <w_choice>ionic </w_choice>
+        <x_choice>polar covalent </x_choice>
+        <y_choice>non-polar covalent </y_choice>
+        <z_choice>neutral</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the common astronomical term that derives its name from the Latin word meaning ocean or "seas" that is used to label the darker and smoother parts of the moon's surface:</question>
+        <answer>MARIA</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What celestial phenomenon most directly causes a comet's tail to point away from the Sun:</question>
+        <answer>THE SOLAR WIND</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The Alpine-Himalayan mountain chain formed by:</question>
+        <w_choice>rifting </w_choice>
+        <x_choice>transform faulting </x_choice>
+        <y_choice>continental collision </y_choice>
+        <z_choice>continent to ocean subduction</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following minerals is classified as a native element:</question>
+        <w_choice>gypsum </w_choice>
+        <x_choice>quartz </x_choice>
+        <y_choice>graphite </y_choice>
+        <z_choice>clay</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>In Freudian theory, libidinal drives reside in what division of the personality?</question>
+        <answer>ID</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A typical 6-ounce brewed cup of tea contains about how many milligrams of caffeine:</question>
+        <w_choice>30 </w_choice>
+        <x_choice>70 </x_choice>
+        <y_choice>110 </y_choice>
+        <z_choice>150</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Pitch in an airplane is typically controlled by which of the following:</question>
+        <w_choice>horizontal stabilizer </w_choice>
+        <x_choice>aileron </x_choice>
+        <y_choice>vertical stabilizer </y_choice>
+        <z_choice>swing arm</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the wavelength, in meters, of a sound wave that has a frequency of 3,500 hertz and a speed in a certain medium of 350 meters per second?</question>
+        <answer>0.1 METERS</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the anatomical term for movement of a bone that results in a decrease in the angle of a joint, bringing bones together?</question>
+        <answer>FLEXION</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following trees does NOT have simple, toothed leaves:</question>
+        <w_choice>Quaking Aspen </w_choice>
+        <x_choice>Eastern Cottonwood </x_choice>
+        <y_choice>White Birch </y_choice>
+        <z_choice>Yellow Buckeye</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The concentration of a solution expressed in the number of gram-equivalent weights of solute per liter of solution is called:</question>
+        <w_choice>normality </w_choice>
+        <x_choice>molality </x_choice>
+        <y_choice>equivalent weight </y_choice>
+        <z_choice>molarity</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In the chemical reaction that expands a typical car air bag, when sodium azide is broken down, what main toxic product is released in the first reaction?</question>
+        <answer>SODIUM (ACCEPT: SODIUM HYDROXIDE)</answer>
+    </fullq>
+
+</round>

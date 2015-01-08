@@ -1,0 +1,395 @@
+<round id='116'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following wavelengths does DNA absorb the best:</question>
+        <w_choice>3,900 angstroms </w_choice>
+        <x_choice>260 nanometers </x_choice>
+        <y_choice>340 nanometers </y_choice>
+        <z_choice>540 nanometers</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is closest to the diameter of a plasmodesmata (read as: PLAS-mo-dez-MAH-tah):</question>
+        <w_choice>2 angstroms </w_choice>
+        <x_choice>60 nanometers </x_choice>
+        <y_choice>80 microns</y_choice>
+        <z_choice>180 microns</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Name the 2 different bond angles present in a molecule with octahedral geometry, such as in SF&lt;sub&gt;6&lt;sub&gt;:</question>
+        <answer>90; 180</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In a titration experiment, it takes 20.0 milliliters of a 0.05 molar barium hydroxide, Ba(OH)&lt;sub&gt;2&lt;sub&gt;, solution to neutralize 40 milliliters of a nitric acid, or HNO&lt;sub&gt;3&lt;sub&gt;, solution to the equivalence point. Calculate the molarity of HNO&lt;sub&gt;3&lt;sub&gt;, rounded to the second decimal place:</question>
+        <answer>0.05</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>By words or numbers, identify all of the following 4 choices that MUST be true for 2 objects in thermal equilibrium: &lt;br&gt; 1) they both must radiate no energy in any direction &lt;br&gt; 2) they must be at the same temperature &lt;br&gt; 3) they both must have the same thermal expansion coefficients &lt;br&gt; 4) they must have the same internal energy</question>
+        <answer>2</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>How many kilojoules of thermal energy, rounded to the first decimal place, must be lost from a 250-gram block of Teflon with a specific heat of 1 kilojoule per kilogram kelvin, to lower the block’s temperature from 125&amp;deg;C to 75&amp;deg;C?</question>
+        <answer>12.5 (ACCEPT: –12.5)</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If a point has polar coordinates (3, &amp;pi;), what are the rectangular coordinates?</question>
+        <answer>(–3, 0)</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The graph of the polar equation, r = 5 – 5 cosine &amp;theta; is a cardioid. In which two quadrants is most of the area of this cardioid?</question>
+        <answer>II AND III (ACCEPT: 2 AND 3 or SECOND AND THIRD)</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a coarse-grained igneous rock primarily containing plagioclase feldspar, amphibole and biotite:</question>
+        <w_choice>gabbro </w_choice>
+        <x_choice>basalt </x_choice>
+        <y_choice>diorite </y_choice>
+        <z_choice>granite</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Of the 3 basic types of magma on Earth, which one generally has the LOWEST eruptive temperature?</question>
+        <answer>RHYOLITIC (ACCEPT: RHYOLITE)</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the source of alpha radiation most often used in household ionization smoke detectors:</question>
+        <w_choice>americium-241 </w_choice>
+        <x_choice>uranium-238 </x_choice>
+        <y_choice>radium-226</y_choice>
+        <z_choice>iron-59</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Calculate the heating degree day in the U.S. if the day’s high temperature is 70&amp;deg;F and the low is 30&amp;deg;F:</question>
+        <answer>15</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Order the following 3 stages from the EARLIEST to the LATEST in the evolution of a G-type star of 2 solar masses: red giant; T-tauri; white dwarf</question>
+        <answer>T-TAURI; RED GIANT; WHITE DWARF</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>If a star has a surface temperature of 3,000 degrees kelvin, a core temperature of 100 million Kelvin, and a luminosity of 2,000-times our Sun, choosing from upper right, upper left, lower left, and lower right, where on an H-R diagram would it most likely be found?</question>
+        <answer>UPPER RIGHT</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What reduced coenzyme donates its electrons to complex-one in the electron transport system?</question>
+        <answer>NADH</answer>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>In a double reciprocal plot of Michaelis-Menton kinetics, what is the effect of a competitive inhibitor:</question>
+        <w_choice>change in the vertical axis intercept</w_choice>
+        <x_choice>change in the slope only</x_choice>
+        <y_choice>change in the horizontal axis intercept only</y_choice>
+        <z_choice>change in both vertical and horizontal axes intercepts</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the bond order for each oxygen-oxygen bond in the ozone or O&lt;sub&gt;3&lt;sub&gt; molecule?</question>
+        <answer>3/2 (ACCEPT: 1.5)</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Hydrogen gas effuses through a pinhole opening from one compartment to another about how many times as fast as nitrogen gas:</question>
+        <w_choice>2.4-times </w_choice>
+        <x_choice>3.7-times </x_choice>
+        <y_choice>5.3-times </y_choice>
+        <z_choice>8.2-times</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes why the optical spectrum of an atom exists as discrete lines and not as a continuous spectrum:</question>
+        <w_choice>atoms have electrons with unit charge </w_choice>
+        <x_choice>all atoms when excited emit light</x_choice>
+        <y_choice>all energy levels of atoms are quantized </y_choice>
+        <z_choice>all electrons have spin</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes one of Maxwell’s equations that is a mathematical conceptualization of Faraday’s law:</question>
+        <w_choice>a magnetic B-field is a solenoid vector field</w_choice>
+        <x_choice>an EMF induced in a conductor opposes that motion</x_choice>
+        <y_choice>induced currents are caused by the magnetic field and in opposition to the opposed flux </y_choice>
+        <z_choice>a time-varying B-field produces an E-field</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>At x = −1/2 , the graph of y = x&lt;sup&gt;3&lt;sup&gt; is:</question>
+        <w_choice>increasing and concave up </w_choice>
+        <x_choice>increasing and concave down </x_choice>
+        <y_choice>decreasing and concave up </y_choice>
+        <z_choice>decreasing and concave down</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The point (3, 2) is reflected across the graph of y = 6 and the resulting point is then reflected across the graph of y = x. What are the coordinates of the final point?</question>
+        <answer>(10, 3)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>According to EPA nationwide emission trends for common air pollutants and excluding fires and dust, which of the following accounted for the least amount of emissions in the past 5 years:</question>
+        <w_choice>volatile organic compounds </w_choice>
+        <x_choice>carbon monoxide</x_choice>
+        <y_choice>sulfur dioxide</y_choice>
+        <z_choice>particulate matter</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Without leap days every 4 years, the winter solstice would start on what month and day after 70 years?</question>
+        <answer>JANUARY 7 (ACCEPT: JANUARY 6 TO 8)</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In what layer of Earth’s atmosphere do most meteors experience the most heating?</question>
+        <answer>MESOSPHERE</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 layers of the atmosphere where temperature typically increases as altitude increases: troposphere; stratosphere; mesosphere; thermosphere</question>
+        <answer>STRATOSPHERE; THERMOSPHERE</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is LEAST likely to occur when viewed from mid-northern latitudes in the month of August:</question>
+        <w_choice>Venus passing within 2&amp;deg; of Saturn</w_choice>
+        <x_choice>Neptune at opposition</x_choice>
+        <y_choice>the Moon at apogee on the 1&lt;sup&gt;st&lt;sup&gt; of the month and perigee at the 29&lt;sup&gt;th&lt;sup&gt; of the month </y_choice>
+        <z_choice>the Moon passing within 5&amp;deg; of Uranus</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following was seen from mid-northern latitudes by casual stargazers as a bright light in August of 2008 at midnight, about 1/2 way up the southern horizon:</question>
+        <w_choice>Venus </w_choice>
+        <x_choice>Vega </x_choice>
+        <y_choice>Jupiter </y_choice>
+        <z_choice>Uranus</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the primary calcium-binding protein in eukaryotic cells, that is about 148 amino acids long, and has a wide variety of functions often through kinases and phosphatases (read as: foss-fah-TAY-sis)?</question>
+        <answer>CALMODULIN</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the RNA complementary sequence of the following sequence: 5’CCGCGA 3’ (read as: 5-prime, CCGCGS, 3-prime)</question>
+        <w_choice>5’ UCGCGG 3’ (read as: 5-prime, UCGCGG, 3-prime) </w_choice>
+        <x_choice>5’ GGCGCU 3’</x_choice>
+        <y_choice>5’ GGCGCT 3’</y_choice>
+        <z_choice>5’ TCGCGG 3’</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>For the following 3 processes, predict whether the change in enthalpy, or ∆S&amp;deg; (read as: delta S naught), is positive or negative, respectively: &lt;br&gt; 1) decomposition of ammonium nitrate &lt;br&gt; 2) sublimation of dry ice &lt;br&gt; 3) condensation of gaseous iodine to liquid iodine</question>
+        <answer>1)+; 2)+; 3)–</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Consider the following equilibrium reaction, PCl&lt;sub&gt;5(gas)&lt;sub&gt; &amp;#8594; PCl&lt;sub&gt;3(gas)&lt;sub&gt; + Cl&lt;sub&gt;2(gas)&lt;sub&gt;. If a 1-liter flask contains 0.02 moles of PCl&lt;sub&gt;3&lt;sub&gt; and 0.02 moles of Cl&lt;sub&gt;2&lt;sub&gt; at equilibrium, how many moles of PCl&lt;sub&gt;5&lt;sub&gt; are in the flask. Assume the equilibrium constant is 5 × 10&lt;sup&gt;-2&lt;sup&gt;.</question>
+        <answer>8 × 10&lt;sup&gt;-3&lt;sup&gt; (ACCEPT: 0.008)</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>During beta minus decay, what nucleon type is reduced by one? </question>
+        <answer>NEUTRON</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of the Hall effect:</question>
+        <w_choice>it can be used to measure the strength of a magnetic field</w_choice>
+        <x_choice>it is a consequence of a current carrying wire in a magnetic field</x_choice>
+        <y_choice>it was one of the first direct indications that negative charges are what move in conductors </y_choice>
+        <z_choice>it cannot distinguish between positive and negative particles</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What are the Ice Cube observatory under construction at the South Pole and the ANTARES telescope off the coast of France primarily designed to detect?</question>
+        <answer>NEUTRINOS</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>During the winter solstice in the northern hemisphere, which of the following northern latitude positions will have a day length of 10.1 hours:</question>
+        <w_choice>30&amp;deg;</w_choice>
+        <x_choice>40&amp;deg; </x_choice>
+        <y_choice>50&amp;deg;</y_choice>
+        <z_choice>60&amp;deg;</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>During the past 500,000 years, there have been how many periods of major glaciation on Earth:</question>
+        <w_choice>2 </w_choice>
+        <x_choice>3 </x_choice>
+        <y_choice>4 </y_choice>
+        <z_choice>5</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A rising parcel of air reaches the lifting condensation level at 2,000 meters at a dew point temperature of 15&amp;deg;C. At 3,000 meters, the temperature of this parcel of air will on average be:</question>
+        <w_choice>15&amp;deg;C </w_choice>
+        <x_choice>10&amp;deg;C </x_choice>
+        <y_choice>6&amp;deg;C </y_choice>
+        <z_choice>3&amp;deg;C</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Of the following 5 functions identify all that are NOT differentiable for all real numbers: |x| (read as: absolute value of x); cosine(x); tangent(x); e&lt;sup&gt;x&lt;sup&gt;; the greatest integer function</question>
+        <answer>|x|; TAN(x); THE GREATEST INTEGER FUNCTION </answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The curve defined by the equation, Ax&lt;sup&gt;2&lt;sup&gt; + Bx + Cy&lt;sup&gt;2&lt;sup&gt; + Dy + E = 0, can be an ellipse if which of the constants are positive?</question>
+        <answer>A AND C</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What 3 elements are most prominent in the carbon fusion cycle? </question>
+        <answer>CARBON; NITROGEN; OXYGEN</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>If the surface of a star is 15,000 kelvin, at what wavelength, in nanometers rounded to the nearest whole number, does it emit its maximum energy?</question>
+        <answer>200</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What cell type is MOST directly responsible for secreting the bone matrix in developing humans?</question>
+        <answer>OSTEOBLASTS (DO NOT ACCEPT: OSTEOCYTE)</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What specific human bone cell is antagonistic to osteoblasts and is known to cause apoptosis (read as: A-pop-TOE-sis) of osetoblasts in vitro?</question>
+        <answer>OSTEOCLASTS</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Of the following 5 alkanes, which one has the LEAST combined strain energy from angle strain and torsional strain: [read slowly] cyclopropane; cyclobutane; cyclopentane; cyclohexane; cyclo-octane</question>
+        <answer>CYCLOHEXANE</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the conformation that the ring structure of cyclohexane adopts to reach a strain-free value?</question>
+        <answer>CHAIR</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the name of the universal constant that relates atomic spectra of elements to that of hydrogen?</question>
+        <answer>RYDBERG CONSTANT (ACCEPT: RYDBERG)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming the universal gravitational constant is 6.67 × 10&lt;sup&gt;-11&lt;sup&gt; newton-meters squared per kilogram squared, what is the gravitational attraction, in newtons, between two, 10-kilogram perfectly uniform spheres separated by a center-to-center distance of 10 meters?</question>
+        <answer>6.67 × 10&lt;sup&gt;-11&lt;sup&gt;</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Intestinal absorption of what vitamin is most directly dependent on intrinsic factor?</question>
+        <answer>B&lt;sub&gt;12&lt;sub&gt;</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What plant hormone is primarily responsible for apical dominance in angiosperms?</question>
+        <answer>AUXIN (ACCEPT: INDOLE-ACETIC ACID or IAA)</answer>
+    </fullq>
+
+</round>

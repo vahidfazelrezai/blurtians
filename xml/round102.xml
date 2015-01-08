@@ -1,0 +1,379 @@
+<round id='102'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the scientific term for the ratio between the density of a given substance to that of water when both are at the same temperature?</question>
+        <answer>SPECIFIC GRAVITY (ACCEPT: RELATIVE DENSITY)</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following pure substances has the highest melting point at 1 atmosphere of pressure:</question>
+        <w_choice>magnesium oxide</w_choice>
+        <x_choice>diamond</x_choice>
+        <y_choice>sodium chloride</y_choice>
+        <z_choice>cesium chloride</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the MOST common anatomical synonym for ventral, when locating a part of the human body in relation to another part?</question>
+        <answer>ANTERIOR</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What are the names for the pyrimidine bases found in DNA?</question>
+        <answer>CYTOSINE; THYMINE</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>According to one of the most common color triangles, if blue and green are primary colors, what is the third primary color?</question>
+        <answer>RED</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the pattern of light and dark lines produced when coherent light is passed through two horizontal slits in a thin opaque sheet, causing superposition of waves projected on a wall?</question>
+        <answer>INTERFERENCE PATTERN (ACCEPT: INTERFERENCE)</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the smaller of two integers whose sum is 19 and whose product is 48?</question>
+        <answer>3</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following numbers is evenly divisible by both 11 and 3:</question>
+        <w_choice>7791</w_choice>
+        <x_choice>7553</x_choice>
+        <y_choice>5181</y_choice>
+        <z_choice>8769</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is best classified as a plutonic intrusive rock:</question>
+        <w_choice>obsidian</w_choice>
+        <x_choice>granite</x_choice>
+        <y_choice>basalt</y_choice>
+        <z_choice>pumice</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The principle constituent of most granites is:</question>
+        <w_choice>feldspar</w_choice>
+        <x_choice>muscovite</x_choice>
+        <y_choice>calcite</y_choice>
+        <z_choice>dolomite</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The related quantities charted on a line graph are most often called:</question>
+        <w_choice>results</w_choice>
+        <x_choice>lines</x_choice>
+        <y_choice>sets</y_choice>
+        <z_choice>variables</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>How many grams of sodium chloride is in 2,000 milliliters of 0.9% NaCl solution?</question>
+        <answer>18</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What basic force of the universe is most responsible for holding the planets of our solar system in their orbits?</question>
+        <answer>GRAVITY</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What are the proper names of the 5 celestial bodies called wanderers by Greek astronomers because they had unusual paths in the sky throughout the year?</question>
+        <answer>MERCURY; VENUS; MARS; JUPITER; SATURN (in any order)</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Group 1 cations and group 7 anions combine to form:</question>
+        <w_choice>metal alloys</w_choice>
+        <x_choice>alkali halides</x_choice>
+        <y_choice>alkaloids</y_choice>
+        <z_choice>organometallic compounds</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Give the chemical name for the compound formed when pure iron and pure sulfur are mixed together and heated:</question>
+        <answer>IRON SULFIDE (ACCEPT: IRON(II) SULFIDE or FERROUS SULFIDE)</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>From what chamber of the human heart does blood carried by the left pulmonary artery leave?</question>
+        <answer>RIGHT VENTRICLE</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What human gland or organ produces tri-iodothyronine (read as: TRY- I-OH-doh-THY-row-neen)?</question>
+        <answer>THYROID</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>A white-colored object illuminated by a green light will appear as what color to the human eye?</question>
+        <answer>GREEN</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>A child learns that mixing approximately equal amounts of the paint colors orange and green produces brown. This is an example of:</question>
+        <w_choice>additive color mixing</w_choice>
+        <x_choice>summative color generation</x_choice>
+        <y_choice>subtractive color synthesis</y_choice>
+        <z_choice>neutral coloration</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>One-fifth of 0.04% is equal to:</question>
+        <w_choice>8 x 10&lt;sup&gt;-2&lt;/sup&gt;</w_choice>
+        <x_choice>8 x 10&lt;sup&gt;-3&lt;/sup&gt;</x_choice>
+        <y_choice>8 x 10&lt;sup&gt;-4&lt;/sup&gt;</y_choice>
+        <z_choice>8 x 10&lt;sup&gt;-5&lt;/sup&gt;</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the prime factorization of 240:</question>
+        <answer>2 x 2 x 2 x 2 x 3 x 5 (ACCEPT: 2&lt;sup&gt;4&lt;/sup&gt; x 3 x 5)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>When spreading centers reach above the ocean’s surface, they typically form which of the following types of volcanoes:</question>
+        <w_choice>shield</w_choice>
+        <x_choice>composite</x_choice>
+        <y_choice>stratovolcano</y_choice>
+        <z_choice>cinder cone</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Mount Vesuvius in Italy is a typical:</question>
+        <w_choice>mud volcano</w_choice>
+        <x_choice>caldera</x_choice>
+        <y_choice>cinder cone</y_choice>
+        <z_choice>composite volcano</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>The fertilizer potash provides plants with what element necessary for healthy growth and which is also the seventh most abundant element on Earth?</question>
+        <answer>POTASSIUM (ACCEPT: K)</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>From what protein is gelatin, which is used as a food additive, most commonly derived?</question>
+        <answer>COLLAGEN</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>First proposed by Georges Lemaitre, what is the name, most likely coined by Fred Hoyle, for the theory that the universe originated at a finite time many eons ago from an extremely compressed hot state?</question>
+        <answer>BIG BANG</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In what constellation is the star Polaris found?</question>
+        <answer>URSA MINOR (DO NOT ACCEPT: LITTLE DIPPER)</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the pH of a solution with a pOH of 6.8 at 25&amp;deg;C?</question>
+        <answer>7.2</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following substances is water soluble:</question>
+        <w_choice>ethanol</w_choice>
+        <x_choice>dichloro-methane</x_choice>
+        <y_choice>chloroform</y_choice>
+        <z_choice>benzene</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Yersinia, Drosophila and Homo are all what taxonomical category?</question>
+        <answer>GENUS (ACCEPT: GENERA)</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>From what monosaccharide is cellulose primarily composed?</question>
+        <answer>GLUCOSE (ACCEPT: Β-D-GLUCOPYRANOSYL or D-GLUCOSE)</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Although in many respects difficult to define, what term is MOST often described as a push or a pull that can cause an object to accelerate?</question>
+        <answer>FORCE</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the MOST common term for the inwardly directed force exerted on an object to keep the object moving in a circle?</question>
+        <answer>CENTRIPETAL (ACCEPT: CENTRIPETAL FORCE)</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in centimeters, what is the length of a side of a square whose diagonal measures 12&amp;radic;2 centimeters?</question>
+        <answer>12</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Multiply the following 4 numbers and give your answer in scientific notation: 30,000 x 3,000 x 30 x 0.1</question>
+        <answer>2.7 x 10&lt;sup&gt;8&lt;/sup&gt;</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the oldest Eon on the Geological Time Scale within which the first organisms appeared between 550 million and 3.4 billion years ago?</question>
+        <answer>PRECAMBRIAN</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Homo sapiens evolved during which geological era of the Geological Time Scale?</question>
+        <answer>CENOZOIC</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Anthropogenic means:</question>
+        <w_choice>generated by humans</w_choice>
+        <x_choice>created many years ago</x_choice>
+        <y_choice>carried in primate genes</y_choice>
+        <z_choice>harmful to elderly people</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>The primary anthropogenic cause of acid rain is the emission of what 2 gases?</question>
+        <answer>SULFUR OXIDES; NITROGEN OXIDES (in any order) (ACCEPT: SULFUR DIOXIDE or SO&lt;sub&gt;2&lt;/sub&gt; AND NITROGEN DIOXIDE or NO&lt;sub&gt;2&lt;/sub&gt;) (DO NOT ACCEPT: SULFURIC ACID or NITRIC ACID)</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the primary elemental product of stellar hydrogen fusion?</question>
+        <answer>HELIUM</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In the equatorial celestial coordinate system, what terms are synonymous with longitude and latitude, respectively?</question>
+        <answer>LONGITUDE = RIGHT ASCENSION; LATITUDE = DECLINATION</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the atomic number for the ground state element with the following electron configuration: 1s&lt;sup&gt;2&lt;/sup&gt;2s&lt;sup&gt;2&lt;/sup&gt;2p&lt;sup&gt;5&lt;/sup&gt; (read as: 1, s, 2; 2, s, 2; 2, p, 5)</question>
+        <answer>9</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>How many grams of KCl, with a molar mass of 75, are needed to make 1 liter of a 3 molar solution?</question>
+        <answer>225</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in standard form, what is the last term in the binomial expansion of the following: (x + y)&lt;sup&gt;6&lt;/sup&gt;</question>
+        <answer>y&lt;sup&gt;6&lt;/sup&gt;</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify the following expression by combining like terms: 12.03A – 4.03B – 0.03(A – 40)</question>
+        <answer>12A – 4.03B + 1.2</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What specific law of motion most directly implies that every action has an equal and opposite reaction?</question>
+        <answer>NEWTON’S THIRD LAW (ACCEPT: THIRD LAW)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Jay walks to his car and drives to the store. The trip takes 20 minutes. Jay figures how far he traveled on foot and by car and divides the distance by how long the trip took. Which of the following BEST describes what Jay has computed:</question>
+        <w_choice>total velocity</w_choice>
+        <x_choice>average acceleration</x_choice>
+        <y_choice>average speed</y_choice>
+        <z_choice>instantaneous velocity</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>The sinoatrial (read as: sine-oh-AYE-tree-al) node is located in what human organ?</question>
+        <answer>HEART</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In what chamber of the human heart is the sinoatrial (read as: sine- oh-AYE-tree-al) node located?</question>
+        <answer>RIGHT ATRIUM</answer>
+    </fullq>
+
+</round>
