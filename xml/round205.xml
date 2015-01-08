@@ -1,0 +1,407 @@
+<round id='205'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Bacteria that can oxidize inorganic substances for energy are called:</question>
+        <answer>CHEMOAUTOTROPHS (ACCEPT: CHEMOTROPHS, CHEMOSYNTHETICS, OR CHEMOLITHOTROPHS)</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the common botanical term for the response a cell or plant has towards or away from a stimulus?</question>
+        <answer>TAXIS</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>If you were looking to purchase magnesium sulfate in a retail store in the U.S., which of the following would you be correct in buying:</question>
+        <w_choice>alum </w_choice>
+        <x_choice>cream of tartar </x_choice>
+        <y_choice>soda ash </y_choice>
+        <z_choice>Epsom salt</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Using proper chemical nomenclature, finish balancing the following equation: Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; + 3CO yields what, assuming the iron is totally reduced:</question>
+        <answer>2Fe + 3CO&lt;sub&gt;2&lt;/sub&gt;</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the current, in amperes, running through a 200-watt light bulb running on a 100 volt power source:</question>
+        <answer>2 AMPERES</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the centripetal force, in Newtons, required for a 12 kilogram body traveling at 2 meters per second in a perfect circle with a radius of 4 meters?</question>
+        <answer>12 NEWTONS</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Adastea, Amalthea and Callisto are moons of what planet?</question>
+        <answer>JUPITER</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the standard distance a star would need to be placed for it to appear as bright as its absolute magnitude?</question>
+        <answer>10 PARSECS (ACCEPT: 26 LIGHT YEARS)</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In algebra, what is a second degree polynomial equation most commonly called?</question>
+        <answer>QUADRATIC (ACCEPT: QUADRATIC EQUATION)</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the area of an equilateral triangle whose side is 6?</question>
+        <answer>9&amp;radic;3 (ACCEPT: 15 - 16)</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Cleavage is caused by a mineral's crystal lattice having:</question>
+        <w_choice>planes that contain relatively fewer or weaker chemical bonds </w_choice>
+        <x_choice>planes that contain relatively more numerous or stronger chemical bonds </x_choice>
+        <y_choice>planes that contain many hydrogen bonds </y_choice>
+        <z_choice>planes that contain only covalent chemical bonds</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes glacial till:</question>
+        <w_choice>well sorted and stratified </w_choice>
+        <x_choice>well sorted and poorly stratified </x_choice>
+        <y_choice>poorly stratified and poorly sorted </y_choice>
+        <z_choice>stratified and poorly sorted</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>What color light does water absorb the most:</question>
+        <w_choice>red </w_choice>
+        <x_choice>yellow </x_choice>
+        <y_choice>green </y_choice>
+        <z_choice>blue</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The primary contributors of phosphorous to the Phosphorous Cycle are:</question>
+        <w_choice>animal waste products </w_choice>
+        <x_choice>volcanic gasses </x_choice>
+        <y_choice>weathering of rocks </y_choice>
+        <z_choice>lightning</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>How fast data flows on a given transmission path and the width of the range of frequencies that a signal occupies on a given transmission medium is generally known as:</question>
+        <answer>BANDWIDTH</answer>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Data travels on a 100MHz, 64-bit bus at how many megabytes per second?</question>
+        <answer>800</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Animals that produce eggs that develop and hatch outside of the body are called:</question>
+        <w_choice>viviparous (pronounced: viv-IP-a-rous) </w_choice>
+        <x_choice>ovoviviparous (pronounced: oh-voe-viv-IP-a-rous) </x_choice>
+        <y_choice>oviparous (pronounced: oh-VIP-a-rous) </y_choice>
+        <z_choice>parity</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Cherries, plums, and peaches belong to what genus?</question>
+        <answer>PRUNUS</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A tetrahedral arrangement of electronic orbitals around an atom in a molecule generally implies what type of hybridization:</question>
+        <w_choice>sp </w_choice>
+        <x_choice>sp2 </x_choice>
+        <y_choice>sp3 </y_choice>
+        <z_choice>sp3d</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the name for a plastic or ceramic funnel that has a flat stage on which a filter paper can be placed that is intended for use under suction with a thick-walled side-arm flask designed to withstand the changes in pressure that occur when the flask is connected to a suction pump?</question>
+        <answer>BUCHNER FUNNEL (ACCEPT: BUCHNER)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a 60 kilogram object displaces 30 kilograms of water when immersed, what will its apparent weight be?</question>
+        <answer>30 KILOGRAMS (ACCEPT: 30 KG OR 30,000 GRAMS)</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming all the following substances are in pure form, order them from the WORST electrical conductor to the BEST electrical conductor: aluminum, water, iron, gold</question>
+        <answer>WATER, IRON, ALUMINUM, GOLD</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>At less than 8% solar mass, what is the common term for a potential star that does not gather enough mass to initiate core nuclear fusion and become a main sequence star?</question>
+        <answer>BROWN DWARF</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Why did ancient Greek astronomers ascribe the term "planet" to certain celestial objects?</question>
+        <w_choice>they shined very brightly </w_choice>
+        <x_choice>they wandered in their paths through the heavens </x_choice>
+        <y_choice>they were believed to be the home of the gods </y_choice>
+        <z_choice>they did not twinkle</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the sum of the interior angles of a 6-sided polygon?</question>
+        <answer>720&amp;deg;</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the solution set of the following equation: 2/(2x-3) = 2/(4x+1)</question>
+        <answer>-2</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a long, narrow, steep-sided arm of the sea, usually formed by entrance of the sea into a deep glacial trough:</question>
+        <w_choice>fjord (pronounced: fee-ord) </w_choice>
+        <x_choice>moraine </x_choice>
+        <y_choice>delta </y_choice>
+        <z_choice>alluvial fan</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Ocean sediments that form from the precipitation of dissolved organic chemicals in seawater are classified as:</question>
+        <w_choice>terrigenous </w_choice>
+        <x_choice>hydrogenous </x_choice>
+        <y_choice>biogenous </y_choice>
+        <z_choice>siliceous</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>An animal that primarily eats fruit is called a:</question>
+        <w_choice>frugivore </w_choice>
+        <x_choice>herbivore </x_choice>
+        <y_choice>omnivore </y_choice>
+        <z_choice>detritivore</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Modified tropical grasslands characterized by alternating wet and dry seasons that produce areas typical of grasslands are called:</question>
+        <w_choice>tall grass prairies </w_choice>
+        <x_choice>short grass prairies </x_choice>
+        <y_choice>chaparrals </y_choice>
+        <z_choice>savannas</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Software for which the source code is furnished and users agree NOT to limit the distribution of improvements is called:</question>
+        <w_choice>public-domain </w_choice>
+        <x_choice>freeware </x_choice>
+        <y_choice>open-source </y_choice>
+        <z_choice>shareware</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the three-bit natural binary code equivalent of the decimal value 5/8?</question>
+        <answer>0.101</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following trees has a distinctive variegated bark with a leopard-like pattern of light and dark greens?</question>
+        <w_choice>American Sycamore </w_choice>
+        <x_choice>Linden </x_choice>
+        <y_choice>Manchurian Maple </y_choice>
+        <z_choice>Persimmon</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>According to the classical taxonomical system, order the following from the most general taxonomic group to the most specific group: order, genus, kingdom, class, family, species</question>
+        <answer>KINGDOM, CLASS, ORDER, FAMILY, GENUS, SPECIES</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What laboratory method uses a Liebig condenser arranged almost horizontally such that when the liquid mixture is heated and vapors are produced, they enter the condenser and then flow away from the flask to be collected, and is used when only one volatile fraction is to be collected:</question>
+        <answer>SIMPLE DISTILLATION (ACCEPT: DISTILLATION) (DO NOT ACCEPT: FRACTIONAL DISTILLATION)</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Of the following liquids, which is normally basic:</question>
+        <w_choice>milk </w_choice>
+        <x_choice>Pepsi </x_choice>
+        <y_choice>laundry detergent </y_choice>
+        <z_choice>pure water</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT considered a form of transverse wave:</question>
+        <w_choice>radio wave </w_choice>
+        <x_choice>electromagnetic wave </x_choice>
+        <y_choice>sound wave </y_choice>
+        <z_choice>ocean wave</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>What is the average acceleration of a cyclist traveling on a straight path from 0 to 25 kilometers per hour in a minute and 40 seconds:</question>
+        <w_choice>2.5 km per hour </w_choice>
+        <x_choice>0.25 km per hour </x_choice>
+        <y_choice>2.5 km per hour per second </y_choice>
+        <z_choice>0.25 km per hour per second</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the main part of the Small Bear constellation also commonly called?</question>
+        <answer>LITTLE DIPPER</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which law states that galaxies are receding from one another at velocities directly proportional to the distances separating them?</question>
+        <answer>HUBBLE'S LAW (ACCEPT: HUBBLE OR HUBBLE'S)</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Convert 300&amp;deg; into radians:</question>
+        <answer>5&amp;pi;/3</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the following number: When the number, one-half of the number, and one-quarter of the number are added, and then 8 is subtracted, the result is 2 less than twice the number:</question>
+        <answer>-24</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In Plate Tectonic theory, a transform fault is associated with:</question>
+        <w_choice>places where crust is being generated </w_choice>
+        <x_choice>places where crust is being destroyed </x_choice>
+        <y_choice>places where crust is being neither generated nor destroyed </y_choice>
+        <z_choice>places where crust is being both generated and destroyed</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>crust is being both generated and destroyed</question>
+        <answer>ional Science Bowl B Round 5 Page 11 TOSS-UP</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>mmon name for the horizontal enlarged stem of Solanum tuberosum?</question>
+        <answer>POTATO (ACCEPT: TUBER)</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>treme cold and presence of permafrost X) taiga has moderately wet summers and long cold winters Y) chaparral has hot wet summers and moderate dry winters Z) temperate grasslands have occasional droughts with warm summers and cool to cold winters</question>
+        <answer>Y) CHAPARRAL HAS HOT WET SUMMERS AND MODERATE DRY WINTERS</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The largest worldwide use for hydrogen gas is in the production of:</question>
+        <w_choice>methanol </w_choice>
+        <x_choice>ammonia </x_choice>
+        <y_choice>water </y_choice>
+        <z_choice>hydrogen fluoride</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>If you wanted to prepare the ester, methyl acetate, which of the following could you start with:</question>
+        <w_choice>formic acid and ethanol </w_choice>
+        <x_choice>acetic acid and ethanol </x_choice>
+        <y_choice>acetic acid and methanol </y_choice>
+        <z_choice>formic acid and methanol</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Which scientist's publication entitled "New Experiments Physiomechanical, Touching the Spring of the Air, and its Effects" first enunciated the empirical relationship that states that the pressure of a given quantity of gas varies inversely as its volume, at constant temperature?</question>
+        <answer>ROBERT BOYLE (ACCEPT: BOYLE)</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a car, traveling at 15 miles/hr, travels 22 feet per second, how many feet per second will it travel at 120 miles/hr?</question>
+        <answer>176</answer>
+    </fullq>
+
+</round>

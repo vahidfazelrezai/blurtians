@@ -1,0 +1,419 @@
+<round id='108'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The reaction Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; + 4H&lt;sub&gt;2&lt;/sub&gt; &amp;#8594; 3Fe + 4H&lt;sub&gt;2&lt;/sub&gt;O, is an example of what class of chemical reaction:</question>
+        <w_choice>decomposition</w_choice>
+        <x_choice>single replacement</x_choice>
+        <y_choice>combustion</y_choice>
+        <z_choice>combination</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Find the mass percent composition, rounded to the nearest whole number, for each atom in KClO&lt;sub&gt;3&lt;/sub&gt;. Assume the atomic masses of potassium = 39, chlorine = 35, and oxygen = 16</question>
+        <answer>K=32%; Cl=29%; O=39%</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the highest level of structural organization in myoglobin:</question>
+        <w_choice>primary</w_choice>
+        <x_choice>secondary</x_choice>
+        <y_choice>tertiary</y_choice>
+        <z_choice>quaternary</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 choices that are characteristic of E. coli: gram negative; an enteric organism; non-motile; bacillus</question>
+        <answer>GRAM NEGATIVE; AN ENTERIC ORGANISM; BACILLUS (ACCEPT: ALL BUT NON-MOTILE)</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following colors of light has the greatest angle of refraction in normal glass:</question>
+        <w_choice>yellow</w_choice>
+        <x_choice>green</x_choice>
+        <y_choice>orange</y_choice>
+        <z_choice>blue</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>If a beam of white light passes through a prism, which of the following colors color will emerge on the other side at the lowest angle with respect to the incident beam:</question>
+        <w_choice>orange</w_choice>
+        <x_choice>indigo</x_choice>
+        <y_choice>green</y_choice>
+        <z_choice>blue</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>all central angles in a regular polygon are equal</w_choice>
+        <x_choice>irregular polygons are not considered to have centers and have no central angles</x_choice>
+        <y_choice>the circumcircle of a regular polygon is the circle that passes through at least one vertex</y_choice>
+        <z_choice>all regular polygons are convex</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the sum of all interior angles, in degrees, in a regular polygon having 100 sides:</question>
+        <answer>17,640</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Because of Earth’s rotation and shape, ocean currents are intensified along which of the following borders of all oceans:</question>
+        <w_choice>northern</w_choice>
+        <x_choice>southern</x_choice>
+        <y_choice>eastern</y_choice>
+        <z_choice>western</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT generally characteristic of a passive continental margin:</question>
+        <w_choice>relatively wide continental shelf</w_choice>
+        <x_choice>oceanic trench</x_choice>
+        <y_choice>terrigenous sediment</y_choice>
+        <z_choice>continental rise</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The sea nettle is the Bering Sea’s most common:</question>
+        <w_choice>jellyfish</w_choice>
+        <x_choice>crab</x_choice>
+        <y_choice>sea urchin</y_choice>
+        <z_choice>walleye pollock</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>1 cubic foot per second equals approximately how many gallons per minutes:</question>
+        <w_choice>256</w_choice>
+        <x_choice>449</x_choice>
+        <y_choice>646</y_choice>
+        <z_choice>724</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which of the terrestrial planets has the lowest albedo?</question>
+        <answer>MERCURY</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Most of the hydrogen that makes up the planet Jupiter is in what phase?</question>
+        <answer>LIQUID</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the theoretical end of a titration:</question>
+        <w_choice>end point</w_choice>
+        <x_choice>indicator point</x_choice>
+        <y_choice>equivalence point</y_choice>
+        <z_choice>standardization point</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In a strong acid-base titration, what is the pH of the solution when the equivalence point is reached?</question>
+        <answer>7</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What specific class of antibodies is most commonly responsible for degranulation of basophils or mast cells?</question>
+        <answer>IgE (ACCEPT: IMMUNOLGLOBULIN E)</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a group of about 20 proteins that aid in the attraction and phagocytosis of microorganisms by macrophages:</question>
+        <w_choice>alpha interferons</w_choice>
+        <x_choice>complement system</x_choice>
+        <y_choice>TNF</y_choice>
+        <z_choice>hemopoietins</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What property of a wave is generally said to increase during constructive interference?</question>
+        <answer>AMPLITUDE</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the Law or principal dictating that the amount of a substance that is released or deposited from an electrode is directly proportional to the amount of electric current passing through the circuit?</question>
+        <answer>FARADAY’S FIRST LAW OF ELECTROLYSIS (ACCEPT: FARADAY’S FIRST LAW or FARADAY’S LAW OF ELECTROLYSIS)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find 2 mean proportionals between the numbers 3 and 24:</question>
+        <answer>6 AND 12</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the numerical value of the geometric mean of the following 4 values: 2&lt;sup&gt;1&lt;/sup&gt;; 2&lt;sup&gt;3&lt;/sup&gt;; 2&lt;sup&gt;8&lt;/sup&gt;; 2&lt;sup&gt;8&lt;/sup&gt;</question>
+        <answer>32 (DO NOT ACCEPT: 2&lt;sup&gt;5&lt;/sup&gt;)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Many of the driest locales on Earth are situated between which of the following latitudes:</question>
+        <w_choice>0&amp;deg; to 15&amp;deg;</w_choice>
+        <x_choice>15&amp;deg; to 30&amp;deg;</x_choice>
+        <y_choice>30&amp;deg; to 45&amp;deg;</y_choice>
+        <z_choice>45&amp;deg; to 60&amp;deg;</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of breccia rock:</question>
+        <w_choice>it is sedimentary</w_choice>
+        <x_choice>its color is variable</x_choice>
+        <y_choice>its texture consists of rounded pebbles, cobbles and boulders</y_choice>
+        <z_choice>fragments may be any type of igneous, metamorphic, or sedimentary rocks</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In the northern hemisphere, which of the following degrees latitude would experience a length of day of 6 months:</question>
+        <w_choice>0</w_choice>
+        <x_choice>30</x_choice>
+        <y_choice>60</y_choice>
+        <z_choice>90</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a substance that is generally considered friable:</question>
+        <w_choice>concrete</w_choice>
+        <x_choice>topaz</x_choice>
+        <y_choice>quartz</y_choice>
+        <z_choice>perlite</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>From what specific celestial body do meteor showers originate?</question>
+        <answer>COMET(S)</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Of which of the following is the Hubble Law most directly a consequence:</question>
+        <w_choice>Doppler shift</w_choice>
+        <x_choice>Kirchoff’s second law</x_choice>
+        <y_choice>Kepler’s second law</y_choice>
+        <z_choice>Drake’s equation</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A sample of gas is heated from 300K to 500K. If the container is sealed and of fixed volume, which of the following will remain constant:</question>
+        <w_choice>the average kinetic energy of the gas molecules</w_choice>
+        <x_choice>the average speed of the gas molecules</x_choice>
+        <y_choice>the density of the gas</y_choice>
+        <z_choice>the pressure of the gas</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following does NOT have the electron configuration of argon:</question>
+        <w_choice>O&lt;sup&gt;2-&lt;/sup&gt;</w_choice>
+        <x_choice>Cl&lt;sup&gt;-&lt;/sup&gt;</x_choice>
+        <y_choice>S&lt;sup&gt;2-&lt;/sup&gt;</y_choice>
+        <z_choice>K&lt;sup&gt;+&lt;/sup&gt;</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In angiosperm seed development, what fuses with the second sperm nucleus to form the endosperm?</question>
+        <answer>2 POLAR NUCLEI (ACCEPT: 2 OR BOTH POLAR NUCLEI or POLAR NUCLEI) (DO NOT ACCEPT: POLAR NUCLEUS)</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In what specific part of a eukaryotic cell will pyruvate be converted into acetyl Co-enzyme A?</question>
+        <answer>MITOCHONDRION (ACCEPT: MITOCHONDRIA)</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following are the most important calibration references that Celsius used to devise his temperature scale:</question>
+        <w_choice>melting point and boiling point of water</w_choice>
+        <x_choice>ice-point and freeze-thaw point of water</x_choice>
+        <y_choice>specific gravity of water</y_choice>
+        <z_choice>boiling point and steam point of water</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the MOST reliable measure of the remaining percentage of stored energy in a lead acid battery:</question>
+        <w_choice>pH of the electrolyte</w_choice>
+        <x_choice>voltage remaining in the battery as measured on a voltmeter</x_choice>
+        <y_choice>amount of oxygen gas released</y_choice>
+        <z_choice>specific gravity of the electrolyte</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>There are 10 people on a bus who, when ranked from youngest to oldest, all differ from those on the bus closest in age to them by the same number of years. If the youngest is 6 and the oldest is 51, what is the common difference in their age?</question>
+        <answer>5</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solve the following equation for all real values of x: (x + 3)&lt;sup&gt;2&lt;/sup&gt; = 16</question>
+        <answer>1 AND –7</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>When geologists find pillow basalts in ancient rock sequences, which of the following BEST explains their presence:</question>
+        <w_choice>the area was once underwater</w_choice>
+        <x_choice>volcanic bombs and lapilli landed on snow or ice and quickly cooled</x_choice>
+        <y_choice>they hardened in mid-air, sometimes forming a tear-drop shape</y_choice>
+        <z_choice>nearby volcanoes erupted enormous quantities of ash</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the general name for the myriad of suspended particles or aerosols in the Earth’s atmosphere that allow rain droplets to undergo coalescence?</question>
+        <answer>CONDENSATION NUCLEI</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is closest to the meaning of the suffix ‘tropic’ (read as: troh-PIK):</question>
+        <w_choice>hot</w_choice>
+        <x_choice>wet</x_choice>
+        <y_choice>changing</y_choice>
+        <z_choice>under</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following locations has water at its highest temperature ever been recorded in nature:</question>
+        <w_choice>within gullies on Venus</w_choice>
+        <x_choice>in very deep ocean hydrothermal vents along the mid-Atlantic ridge</x_choice>
+        <y_choice>at the bottom of Yellowstone Lake in Yellowstone National Park</y_choice>
+        <z_choice>within volcanic vents high atop Hawaii’s Kilauea volcano</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the most accurate term astronomers use for the time it takes for a planet to orbit the Sun relative to the stars?</question>
+        <answer>SIDEREAL PERIOD</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What terrestrial planet has the longest sidereal period?</question>
+        <answer>MARS</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In the electrolysis of a copper chloride solution, what forms at the cathode and anode, respectively?</question>
+        <answer>CATHODE = COPPER (ACCEPT: Cu); ANODE = CHLORINE (ACCEPT: CHLORINE GAS or Cl&lt;sub&gt;2&lt;/sub&gt;)</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>According to standard chemical nomenclature, what is the formula for ammonium sulfate?</question>
+        <answer>(NH&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>How many human ova are produced by a full round of meiosis from a single primary oocyte?</question>
+        <answer>1</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 animals for which L-ascorbate is an essential nutrient: humans; dogs; cats; horses</question>
+        <answer>HUMANS</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In triboelectric charging, when one object loses electrons, the object that accepts the charges acquires the same number of charges that the other object has lost. What law most directly governs this equal exchange?</question>
+        <answer>CONSERVATION OF CHARGE</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Consider an organ pipe open at both ends. For a standing wave in the pipe, what is the wavelength of the fundamental tone, in terms of the pipe’s length?</question>
+        <answer>2 (ACCEPT: 2 PIPE LENGTHS)</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in standard form, give the equation of the circle with center at (0, 0) and diameter of 6:</question>
+        <answer>x&lt;sup&gt;2&lt;/sup&gt; + y&lt;sup&gt;2&lt;/sup&gt; = 9</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the degree measure of the angle formed by 2 secants intersecting outside a circle if the measures of the intercepted arcs are 80&amp;deg; and 34&amp;deg;?</question>
+        <answer>23</answer>
+    </fullq>
+
+</round>

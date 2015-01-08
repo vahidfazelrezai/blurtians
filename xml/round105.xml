@@ -1,0 +1,423 @@
+<round id='105'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The conversion of solid CaSO&lt;sub&gt;4&lt;/sub&gt; into solid CaO and SO&lt;sub&gt;2&lt;/sub&gt; gas is an example of what class of chemical reaction:</question>
+        <w_choice>decomposition</w_choice>
+        <x_choice>hydrolysis</x_choice>
+        <y_choice>combustion</y_choice>
+        <z_choice>single replacement</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the oxidation number of chromium in the chromate ion, or CrO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2–&lt;/sup&gt;?</question>
+        <answer>6 (ACCEPT: +6) (DO NOT ACCEPT: –6)</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common term for the method Louis Pasteur used to create the first rabies vaccine?</question>
+        <answer>ATTENUATION</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes how Pasteur attenuated the rabies virus to create an effective vaccine:</question>
+        <w_choice>by heat-treating the purified virus</w_choice>
+        <x_choice>by treating the live virus with a weak solution of formaldehyde</x_choice>
+        <y_choice>by passing the rabies infection through a successive series of rabbits</y_choice>
+        <z_choice>by purifying the protein from the viral capsids</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>The nucleus of what element is the same as an alpha particle?</question>
+        <answer>HELIUM</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 choices that would typically be considered to supply electromotive force: transformers; generators; batteries; conductors</question>
+        <answer>TRANSFORMERS; GENERATORS; BATTERIES (ACCEPT: ALL BUT CONDUCTORS)</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify the following without the use of negative exponents: (−24x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;5&lt;/sup&gt;) / (10y&lt;sup&gt;6&lt;/sup&gt;z&lt;sup&gt;2&lt;/sup&gt;)</question>
+        <answer>(–12x&lt;sup&gt;3&lt;/sup&gt;) / (5yz&lt;sup&gt;2&lt;/sup&gt;)</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>It takes 20 minutes for Janis to prepare lunch. When Kristen helps, it only takes 12 minutes. How many minutes would it take Kristen to prepare the same lunch if she worked alone?</question>
+        <answer>30</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is commonly accepted as the engine that most directly drives plate tectonic motion:</question>
+        <w_choice>mantle convection</w_choice>
+        <x_choice>volcanic off-gassing</x_choice>
+        <y_choice>a molten iron core</y_choice>
+        <z_choice>gravitational pull of the Moon and Sun</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Although scientists are unable to obtain samples by drilling, they believe the predominant mineral in the mantle is:</question>
+        <w_choice>iron pyrite</w_choice>
+        <x_choice>potassium feldspar</x_choice>
+        <y_choice>quartz</y_choice>
+        <z_choice>olivine</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>What is the MOST accurate term for predicting values of data that are located between known data points on a line graph:</question>
+        <w_choice>extrapolation</w_choice>
+        <x_choice>extension</x_choice>
+        <y_choice>interpolation</y_choice>
+        <z_choice>cheating</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Convert 0.001 grams per cubic millimeter into kilograms per cubic meter:</question>
+        <answer>1,000 (ACCEPT: 1 × 10&lt;sup&gt;3&lt;/sup&gt;)</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The luminosity of a star is most directly related to the star’s:</question>
+        <w_choice>relative magnitude</w_choice>
+        <x_choice>magnitude</x_choice>
+        <y_choice>distance from Earth</y_choice>
+        <z_choice>intrinsic brightness</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>At which of the following locations would Betelgeuse most likely be found by a stargazer at mid-northern latitudes during January at about midnight:</question>
+        <w_choice>at the beginning of the handle of the big dipper</w_choice>
+        <x_choice>at the zenith near the star Vega</x_choice>
+        <y_choice>about 10&amp;deg; north of Orion’s belt in the southern sky</y_choice>
+        <z_choice>in the northern sky just above the star Capella</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Ca(OH)&lt;sub&gt;2&lt;/sub&gt;, NaOH, and Ba(OH)&lt;sub&gt;2&lt;/sub&gt;, are all:</question>
+        <w_choice>weak bases</w_choice>
+        <x_choice>completely ionized in water</x_choice>
+        <y_choice>alkali halides</y_choice>
+        <z_choice>standard buffers</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following compounds is most SOLUBLE in water at 10&amp;deg;C:</question>
+        <w_choice>KNO&lt;sub&gt;3&lt;/sub&gt;</w_choice>
+        <x_choice>CaSO&lt;sub&gt;4&lt;/sub&gt;</x_choice>
+        <y_choice>BaSO&lt;sub&gt;4&lt;/sub&gt;</y_choice>
+        <z_choice>AgBr</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following molecules do methanogens (read as: meth-AN-oh-gens) most often use as their final electron acceptor in their generation of energy:</question>
+        <w_choice>hydrogen</w_choice>
+        <x_choice>carbon dioxide</x_choice>
+        <y_choice>methane</y_choice>
+        <z_choice>oxygen</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the general biological term for organisms that synthesize organic molecules from inorganic molecules using light as an energy source?</question>
+        <answer>PHOTOAUTOTROPHS (ACCEPT: PHOTOTROPHS)</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST explains why gravitational acceleration on Earth varies from one place to another:</question>
+        <w_choice>the Sun’s gravitational pull varies irregularly</w_choice>
+        <x_choice>the Earth is not a uniform sphere</x_choice>
+        <y_choice>the Moon and the Sun exert a complex combination of gravitational pulls on the Earth</y_choice>
+        <z_choice>the changing angular momentum of the Earth varies during its yearly orbit</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a wave has a frequency of 500 hertz, what is its period, in seconds?</question>
+        <answer>0.002 (ACCEPT: 2 × 10&lt;sup&gt;–3&lt;/sup&gt;)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In a circle with diameter AB, if the radius is 6 centimeters, find the length in centimeters, giving your answer in terms of &amp;pi;, of the arc AB:</question>
+        <answer>6&amp;pi;</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the area, in square centimeters, of a rhombus with a diagonal of 6 centimeters and a side of 5 centimeters:</question>
+        <answer>24</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>Mount Everest is a volcanic mountain</w_choice>
+        <x_choice>shield volcanoes have surface slopes of only a few degrees</x_choice>
+        <y_choice>the depression on the top of a typical composite volcano is known as a crater</y_choice>
+        <z_choice>Mount Kilimanjaro is a stratovolcano</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following are likely to form in the crater of a stratovolcano following a catastrophic eruption, such as what happened several times in Mount Saint Helens:</question>
+        <w_choice>cinder cones</w_choice>
+        <x_choice>lava domes</x_choice>
+        <y_choice>flood basalts</y_choice>
+        <z_choice>spatter cones</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Biomagnification is MOST likely to result in the concentration of toxic chemicals in:</question>
+        <w_choice>chemoautotrophs</w_choice>
+        <x_choice>eutrophic lakes</x_choice>
+        <y_choice>primary consumers</y_choice>
+        <z_choice>primary producers</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>HDPE is a tough plastic often used for the manufacture of toys. What monomer is the primary repeating unit in this polymer?</question>
+        <answer>ETHYLENE (ACCEPT: ETHENE)</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The formation of what is referred to as “metallic hydrogen” on some of the our solar system’s planets is driven by what basic force?</question>
+        <answer>GRAVITY</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following would typically appear to be the farthest away from the ecliptic:</question>
+        <w_choice>the planet Mars</w_choice>
+        <x_choice>the constellation Leo</x_choice>
+        <y_choice>the Sun</y_choice>
+        <z_choice>the constellation Cassiopeia</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The electronegativity of oxygen is 3.4 and the electronegativity of calcium is 1.0. Which of the following best describes the formation of the calcium oxide:</question>
+        <w_choice>2 electrons are transferred from calcium to oxygen</w_choice>
+        <x_choice>2 electrons are transferred from oxygen to calcium</x_choice>
+        <y_choice>2 electrons are shared between calcium and oxygen</y_choice>
+        <z_choice>1 electron is shared and another is transferred from calcium to oxygen</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the chemical formula for the conjugate base of HNO&lt;sub&gt;2&lt;/sub&gt;?</question>
+        <answer>NO&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;–&lt;/sup&gt;</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>By words or numbers, name all of the following 3 functions that meiosis accomplishes: &lt;br&gt;1) reducing the copies of alleles in the ovum and sperm &lt;br&gt;2) reducing the numbers of chromosomes in the ovum and sperm &lt;br&gt;3) increasing genetic diversity through chromosomal exchange events</question>
+        <answer>ALL</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which one of the basic 3 plant cell types has irregularly thickened cell walls, retains its cytoplasm, and functions in structural support?</question>
+        <answer>COLLENCHYMA</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the part of an electric motor that functions as an electromagnet:</question>
+        <w_choice>ballast</w_choice>
+        <x_choice>relay</x_choice>
+        <y_choice>armature</y_choice>
+        <z_choice>brushes</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Using g rounded to the first decimal place, how much does an 80-kilogram person weigh on Earth, giving your answer in proper SI units?</question>
+        <answer>784 NEWTONS (must give units)</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>A jar of 100 marbles contains only 2 colors of marbles, red and blue. If there are 13 red marbles for every 12 blue marbles, how many blue marbles are in the jar?</question>
+        <answer>48</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solve the following inequality for x: &#124;3 – 2x&#124; &amp;le; 7 (read as: the absolute value of, 3 minus 2x, close absolute value, is less than or equal to 7)</question>
+        <answer>–2 &amp;le; x &amp;le; 5 (ACCEPT: 5 &amp;ge; x &amp;ge; –2)</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is igneous and pyroclastic in nature, and is of variable composition:</question>
+        <w_choice>pumice</w_choice>
+        <x_choice>obsidian</x_choice>
+        <y_choice>gabbro</y_choice>
+        <z_choice>tuff</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following are clastic in origin:</question>
+        <w_choice>chalk</w_choice>
+        <x_choice>coal</x_choice>
+        <y_choice>gypsum</y_choice>
+        <z_choice>sandstone</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is an all but obsolete battery technology stopped by government regulations in this country because of toxicity issues:</question>
+        <w_choice>nickel-cadmium cells</w_choice>
+        <x_choice>mercury-oxide cells</x_choice>
+        <y_choice>zinc-air cells</y_choice>
+        <z_choice>aluminum-air cells</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best explains why carbon monoxide is very harmful to animals:</question>
+        <w_choice>it binds very strongly to hemoglobin</w_choice>
+        <x_choice>it is an irritant to the alveolar lining</x_choice>
+        <y_choice>it is a highly potent neurotoxin</y_choice>
+        <z_choice>it causes a severe allergic reaction</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What terrestrial planet has the most elliptical orbit?</question>
+        <answer>MERCURY</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Although you might expect this planet to be visible to the unaided eye because of its maximum apparent magnitude value of about +5.8, what planet is unlikely to be seen by most stargazers since it requires nearly ideal viewing conditions?</question>
+        <answer>URANUS</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following ions does NOT have a noble gas electron configuration in ionic compounds:</question>
+        <w_choice>Ca&lt;sup&gt;2+&lt;/sup&gt;</w_choice>
+        <x_choice>F&lt;sup&gt;–&lt;/sup&gt;</x_choice>
+        <y_choice>Al&lt;sup&gt;3+&lt;/sup&gt;</y_choice>
+        <z_choice>Na&lt;sup&gt;–&lt;/sup&gt;</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Charles law is particularly useful in explaining which of the following:</question>
+        <w_choice>dry air is more dense than humid air</w_choice>
+        <x_choice>CO&lt;sub&gt;2&lt;/sub&gt; escapes from a bottle of soda when opened</x_choice>
+        <y_choice>the change in enthalpy when nitrogen and oxygen react to form nitrogen dioxide</y_choice>
+        <z_choice>a hot-air balloon rises when the air in the balloon is heated</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What are the common names for the 2 functional groups that combine to form a peptide bond?</question>
+        <answer>AMINO; CARBOXYL (ACCEPT: AMINE AND CARBOXYLIC ACID)</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What 2 ions are most directly involved with the conduction of a nerve cell message down an axon?</question>
+        <answer>SODIUM AND POTASSIUM (ACCEPT: Na&lt;sup&gt;+&lt;/sup&gt; AND K&lt;sup&gt;+&lt;/sup&gt;)</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>A boat’s velocity has a northward velocity component of 15 kilometers per hour and an eastward component of 10 kilometers per hour. Which of the following BEST represents the direction of the boat’s motion:</question>
+        <w_choice>35 kilometers per hour northeast</w_choice>
+        <x_choice>35 kilometers per hour southwest</x_choice>
+        <y_choice>18 kilometers per hour northeast</y_choice>
+        <z_choice>12 kilometers per hour northeast</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What are the frequencies of the first and second overtones, respectively, for a string vibrating at a fundamental frequency of 440 hertz?</question>
+        <answer>FIRST = 880; SECOND = 1320</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Assuming that the natural log of 5 = 1.6, find, to the first decimal place, the natural log of 5&lt;sup&gt;1/3&lt;/sup&gt;:</question>
+        <answer>0.5</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Factor the following expression completely: 100x&lt;sup&gt;2&lt;/sup&gt; – 25y&lt;sup&gt;2&lt;/sup&gt;</question>
+        <answer>25(2x + y)(2x – y)</answer>
+    </fullq>
+
+</round>

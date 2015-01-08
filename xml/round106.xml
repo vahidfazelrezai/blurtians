@@ -1,0 +1,407 @@
+<round id='106'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following most commonly functions to limit current to one direction:</question>
+        <w_choice>capacitor</w_choice>
+        <x_choice>transformer</x_choice>
+        <y_choice>resistor</y_choice>
+        <z_choice>diode</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Debbie pushes a 10-kilogram box of books with a horizontal force of 500 newtons. What is the acceleration of the box, giving your answer in standard SI units, if friction is neglected?</question>
+        <answer>50 METERS PER SECOND SQUARED (ACCEPT: 50 METERS PER SECOND PER SECOND)</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>If pure water is at its boiling point at standard pressure, how many additional calories of heat are needed to convert 1 gram of water from the liquid to the vapor state?</question>
+        <answer>540</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the name for the straight-chain alkane containing 5 carbons?</question>
+        <answer>PENTANE</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In what part of photosynthesis, named after its discoverers, is NADPH used to produce 3-carbon sugar phosphate molecules?</question>
+        <answer>CALVIN CYCLE (ACCEPT: CALVIN-BENSON CYCLE or CALVIN-BENSON- BASSHAM CYCLE)</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>For every carbon dioxide molecule fixed in the Calvin-Benson cycle, how many NADPH molecules are utilized?</question>
+        <answer>2</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the specific name for a common tangent that intersects the segment joining the centers of 2 circles?</question>
+        <answer>INTERNAL COMMON TANGENT (ACCEPT: INTERNAL or INTERNAL TANGENT)</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>A flagpole casts a 100-foot long shadow. If a 6-foot tall person standing at the base of the pole casts an 8-foot shadow, how many feet tall is the flagpole?</question>
+        <answer>75</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following happens to the shells of snails and limpets as seawater becomes increasingly acidic:</question>
+        <w_choice>they begin to dissolve</w_choice>
+        <x_choice>they become thicker</x_choice>
+        <y_choice>they develop much later in the organism’s life</y_choice>
+        <z_choice>they become darker</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Continental margins facing the edges of diverging tectonic plates are called:</question>
+        <w_choice>passive margins</w_choice>
+        <x_choice>Pacific-type margins</x_choice>
+        <y_choice>transform fault margins</y_choice>
+        <z_choice>active margins</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Giving your answer to the first decimal place, an increase of 1&amp;deg;C is equivalent to an increase of how many degrees Fahrenheit?</question>
+        <answer>1.8</answer>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Convert 140&amp;deg;F into degrees Celsius:</question>
+        <answer>60</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best explains from where most of the dust that covers the surface of the Moon came:</question>
+        <w_choice>weathering when the Moon was young and had an atmosphere</w_choice>
+        <x_choice>interstellar dust deposited over billions of years</x_choice>
+        <y_choice>from rock pulverized from many impacts</y_choice>
+        <z_choice>from its original makeup of a soft, silicate rock</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What physical property of stars is most directly responsible for how long they will continue fusion?</question>
+        <answer>MASS</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the device in a galvanic cell that completes the electric circuit by connecting the two sides of the cell with an inert electrolyte:</question>
+        <w_choice>electrolytic reservoir</w_choice>
+        <x_choice>cathode</x_choice>
+        <y_choice>conducting wire</y_choice>
+        <z_choice>salt bridge</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>How many joules are in a single watt-hour?</question>
+        <answer>3,600</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>If the electronegativity difference in the bonding atoms is intermediate in strength, what general type of bond is typically formed?</question>
+        <answer>POLAR COVALENT (DO NOT ACCEPT: COVALENT)</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a molecule having a nonpolar covalent bond:</question>
+        <w_choice>bromine gas</w_choice>
+        <x_choice>hydrogen fluoride</x_choice>
+        <y_choice>water</y_choice>
+        <z_choice>hydrogen bromide</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following organ systems of the human body do chief cells primarily function:</question>
+        <w_choice>excretory</w_choice>
+        <x_choice>digestive</x_choice>
+        <y_choice>nervous</y_choice>
+        <z_choice>reproductive</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What section of the small intestine is the first to receive gastric contents?</question>
+        <answer>DUODENUM</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solve the following equation for x over the integers: x&lt;sup&gt;2&lt;/sup&gt; = 3x</question>
+        <answer>0; 3</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer as a fraction reduced to lowest terms, solve the following equation for x: (2/3) x − 1/4 = (10/6) x + 1/2</question>
+        <answer> – 3/4</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is best used to date the age of the Earth to about 4.5 billion years old:</question>
+        <w_choice>uranium-235</w_choice>
+        <x_choice>uranium-238</x_choice>
+        <y_choice>potassium-40</y_choice>
+        <z_choice>carbon-14</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a ubiquitous trace mineral found in many igneous, metamorphic and clastic sedimentary rocks, and has been used to date Earth’s oldest rocks at 4-plus billion years:</question>
+        <w_choice>titanite</w_choice>
+        <x_choice>tremolite</x_choice>
+        <y_choice>zircon</y_choice>
+        <z_choice>beryl</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>only a few harmful algal bloom species actually produce toxins that are poisonous to people</w_choice>
+        <x_choice>algal blooms occur in marine and freshwater environments</x_choice>
+        <y_choice>algal blooms can occur in the open ocean far from any coastal inlets</y_choice>
+        <z_choice>pollution is always to blame for harmful algal blooms along coastal waters</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>500 metric gigatons is approximately equal to how many pounds:</question>
+        <w_choice>1.1 trillion</w_choice>
+        <x_choice>11 trillion</x_choice>
+        <y_choice>110 trillion</y_choice>
+        <z_choice>1,100 trillion</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>If a star is seen just above the eastern horizon at sunset, where would it most likely be found just before the following sunrise:</question>
+        <w_choice>just above the eastern horizon</w_choice>
+        <x_choice>half-way up in the eastern sky</x_choice>
+        <y_choice>low in the western sky</y_choice>
+        <z_choice>directly overhead</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the MOST common organic molecule in the atmosphere of the planet Uranus?</question>
+        <answer>METHANE (ACCEPT: CH4)</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Radon is primarily produced naturally on Earth most directly from the decay of what element?</question>
+        <answer>RADIUM</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>By words or numbers, name all of the following 4 choices that are TRUE for an object moving at a constant speed: &lt;br&gt; 1) it must have a constant velocity &lt;br&gt; 2) it must be constantly moving in the same direction &lt;br&gt; 3) it can be accelerating &lt;br&gt; 4) it must have a constant weight</question>
+        <answer>3) IT CAN BE ACCELERATING</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following are elements in the Periodic Table whose outer shell electrons are on two principal energy levels:</question>
+        <w_choice>alkali metals</w_choice>
+        <x_choice>noble gases</x_choice>
+        <y_choice>alkaline Earth metals</y_choice>
+        <z_choice>transition elements</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>According to standard chemical nomenclature and indicating the proper charge, what is the formula for potassium perchlorate?</question>
+        <answer>KClO4</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What specific type of microscopy passes a beam of electrons through an ultra-thin specimen that is usually stained with an electron opaque substance, producing an image which can be captured by a charged coupled device?</question>
+        <answer>TRANSMISSION ELECTRON MICROSCOPY (ACCEPT: TEM) (DO NOT ACCEPT: SCANNING ELECTRON MICROSCOPY OR SEM)</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 objects found in the human body from the SMALLEST to the LARGEST: mitochondrion; ribosome; erythrocyte; average monocyte</question>
+        <answer>RIBOSOME; MITOCHONDRION; ERYTHROCYTE; AVERAGE MONOCYTE</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Pyrex glass contains many of the same components as soda lime glass but in addition contains at least 5%:</question>
+        <w_choice>boric acid</w_choice>
+        <x_choice>pure silica</x_choice>
+        <y_choice>clay</y_choice>
+        <z_choice>dyes</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes the function of boric acid in the manufacture of Pyrex or borosilicate glass:</question>
+        <w_choice>makes the glass more scratch-resistant</w_choice>
+        <x_choice>makes the glass more brittle</x_choice>
+        <y_choice>reduces the linear coefficient of expansion of the glass</y_choice>
+        <z_choice>reduces the effect of detrimental ultraviolet light exposure</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following are intrusive masses of igneous rock that extend downward to unknown depths and do not show signs of a definite floor:</question>
+        <w_choice>laccolith</w_choice>
+        <x_choice>batholith</x_choice>
+        <y_choice>sill</y_choice>
+        <z_choice>volcanic neck</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT a common mineral in igneous rock but rather an accessory that typically occurs in small amounts:</question>
+        <w_choice>quartz</w_choice>
+        <x_choice>muscovite</x_choice>
+        <y_choice>plagioclase</y_choice>
+        <z_choice>orthoclase</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify the following rational expression: (5y − 3x&lt;sup&gt;2&lt;/sup&gt;)/(9y&lt;sup&gt;2&lt;/sup&gt; + 5x)</question>
+        <answer>CANNOT BE FURTHER SIMPLIFIED (ACCEPT: (5y − 3x&lt;sup&gt;2&lt;/sup&gt;)/(9y&lt;sup&gt;2&lt;/sup&gt; + 5x) or THE SAME)</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Factor the following expression completely: 12x&lt;sup&gt;2&lt;/sup&gt; + 24x – 36</question>
+        <answer>12(x + 3)(x – 1) (ACCEPT: 12(x – 1)(x + 3))</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>To the first decimal place, how many astronomical units is the average radius of the Earth’s orbit around the Sun?</question>
+        <answer>1.0</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>How many degrees above the celestial equator is the north celestial pole?</question>
+        <answer>90</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the electric charge and mass of the carrier particle for the electromagnetic force?</question>
+        <answer>BOTH ARE ZERO</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If the intensity of a sound is 10,000 times as loud as another sound, by how many decibels do the two sounds differ?</question>
+        <answer>40</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>hydrogen gas found in nature exists as a monatomic molecule</w_choice>
+        <x_choice>when 2 oxygen atoms combine to form O&lt;sub&gt;2&lt;/sub&gt;, energy is released</x_choice>
+        <y_choice>when chlorine gains 1 electron, it becomes larger</y_choice>
+        <z_choice>noble gases tend not to bond because of their stable valence configurations</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Knowing that the chemical name for gypsum is calcium sulfate dihydrate, gypsum is what percent water by weight? Assume the atomic masses of calcium = 40; sulfur = 32 and oxygen = 16.</question>
+        <answer>21</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the term for the transfer of genes by viruses from one prokaryote to another:</question>
+        <w_choice>transduction</w_choice>
+        <x_choice>conjugation</x_choice>
+        <y_choice>transformation</y_choice>
+        <z_choice>relaxation</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 3 transport systems that directly require energy to operate: active transport; facilitated diffusion; sodium potassium pump</question>
+        <answer>ACTIVE TRANSPORT; SODIUM POTASSIUM PUMP (ACCEPT: ALL BUT FACILITATED DIFFUSION)</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the general name for a hypothetical gas that obeys Boyles’s law at all temperatures and pressures?</question>
+        <answer>IDEAL GAS (ACCEPT: IDEAL)</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of ideal gases:</question>
+        <w_choice>2 or more gases form homogeneous mixtures in all proportions</w_choice>
+        <x_choice>collisions between gas particles are both elastic and inelastic</x_choice>
+        <y_choice>they diffuse rapidly</y_choice>
+        <z_choice>they assume the shapes of their containers</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+</round>

@@ -1,0 +1,419 @@
+<round id='213'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which of the human plasma proteins plays the greatest role in osmoregulation?</question>
+        <answer>ALBUMIN</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which 2 of the following 5 genera of organisms are not Monerans? &lt'br&gt; Leishmania, (read: LIE-shh-mania), Rickettsia, Neisseria, (read: NYE-sear-e-ah) Echinococcus, (read: E-kine-o-coccus), Klebsiella (read as: KLEB-see-ella)</question>
+        <answer>LEISHMANIA, ECHINOCOCCUS</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>In the typical titration of a weak acid, such as 0.1 molar acetic acid, with a strong base, such as 0.1 molar sodium hydroxide, what is the best description of the characteristic titration curve:</question>
+        <w_choice>at the equivalence point, the pH is primarily controlled by the acetate ion </w_choice>
+        <x_choice>at the equivalence point, the pH drops dramatically </x_choice>
+        <y_choice>the second equivalence point is primarily controlled by the hydroxide ion </y_choice>
+        <z_choice>the pH at the equivalence point is almost always 7</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Calculate the density, in grams per liter, of diatomic helium gas at 100K and at a pressure of 2 atmospheres:</question>
+        <answer>2</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If 8 coulombs of charge pass through a conductor in 1/2 second, how many amperes did the conductor carry?</question>
+        <answer>16 AMPERES</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming the velocity of light is 300,000 kilometers per second in a vacuum, what is the velocity of light, in kilometers/sec, in a transparent substance with a refractive index of 1.25?</question>
+        <answer>240,000 (ACCEPT: 240,000 km/sec)</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Tripling the distance to a star will typically reduce its apparent brightness by about how many times?</question>
+        <answer>9</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Assuming that the Hubble constant = 40 km/sec/megaparsec, how far away, in megaparsecs, is a galaxy whose red shift is 20,000 km/sec?</question>
+        <answer>500 MEGAPARSECS</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>If one considers the distribution of the means of 5 groups, such a distribution is most accurately referred to as a:</question>
+        <w_choice>sample distribution </w_choice>
+        <x_choice>sampling distribution </x_choice>
+        <y_choice>composite distribution </y_choice>
+        <z_choice>population distribution</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If the area of a right triangle ABC is 6 and leg BC is one-third the length of leg AB, what is the length of AB?</question>
+        <answer>6</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is responsible for the changing of the seasons:</question>
+        <w_choice>the Earth's axis is not perpendicular to the ecliptic </w_choice>
+        <x_choice>the Earth's orbit is elliptical </x_choice>
+        <y_choice>the Earth's axis precesses </y_choice>
+        <z_choice>the Sun moves through space</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following surfaces would exhibit the highest albedo:</question>
+        <w_choice>bare rock </w_choice>
+        <x_choice>an ocean at sunrise </x_choice>
+        <y_choice>an ocean at sunset </y_choice>
+        <z_choice>an ice field</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The profundal zone of a lake is the:</question>
+        <w_choice>bottom of the lake </w_choice>
+        <x_choice>area between the shore and water extending to a depth of about 10 meters </x_choice>
+        <y_choice>upper layer below which the temperature drops </y_choice>
+        <z_choice>deeper part where light does not penetrate</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following chemicals is most predominant in chocolate:</question>
+        <w_choice>tyrosine </w_choice>
+        <x_choice>theophylline </x_choice>
+        <y_choice>theobromine </y_choice>
+        <z_choice>caffeine</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>One of the ways to start a computer running Windows 95 or 98 in Safe Mode is to:</question>
+        <w_choice>press control and F1 key at any time </w_choice>
+        <x_choice>restart and hold the Escape key </x_choice>
+        <y_choice>press Control + Alt + Delete key at the same time </y_choice>
+        <z_choice>restart and hold down F5 key</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Give the Binary, Octal, and Hexadecimal equivalents for the decimal number 9:</question>
+        <answer>BINARY = 1001; OCTAL = 11; HEXADECIMAL = 9</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>When biologists use bacterial conjugation to map genomes, what electrical appliance is most often used to interrupt conjugation?</question>
+        <answer>BLENDER (ACCEPT: KITCHEN BLENDER)</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the most accurate name for a molecule of glycerol with all three hydroxyl groups esterified to fatty acids :</question>
+        <w_choice>triacylglycerol (read as: tri-acyl-gliss-er-ol) </w_choice>
+        <x_choice>fatty glycerol </x_choice>
+        <y_choice>esterified lipid </y_choice>
+        <z_choice>triesterglyceride (read as: tri-ester-gliss-er-ide)</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is incorrect:</question>
+        <w_choice>C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;11&lt;/sub&gt;CHO is an aldehyde </w_choice>
+        <x_choice>C&lt;sub&gt;11&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;0 is an alkane </x_choice>
+        <y_choice>C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;11&lt;/sub&gt;OH is an alcohol </y_choice>
+        <z_choice>C&lt;sub&gt;5&lt;/sub&gt;H&lt;sub&gt;11&lt;/sub&gt;NH&lt;sub&gt;2&lt;/sub&gt; is an amine</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 ionic solids in terms of their lattice energies, going from the highest to the lowest: LiF; MgI&lt;sub&gt;2&lt;/sub&gt;; KF; NaF</question>
+        <answer>MgI&lt;sub&gt;2&lt;/sub&gt;; LiF; NaF; KF</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Murray Gell-Mann coined the name of these point-like entities that make up hadrons from a novel by James Joyce:</question>
+        <answer>QUARKS</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>To the nearest meter per second, what is the speed of sound in air if the temperature of the air is 15&amp;deg;C?</question>
+        <answer>340 (ACCEPT: 341 METERS PER SECOND)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Most astrophysicists believe that the universe is:</question>
+        <w_choice>isotropic and homogeneous </w_choice>
+        <x_choice>isotropic and non-homogeneous </x_choice>
+        <y_choice>anistotropic and homogeneous </y_choice>
+        <z_choice>anisotropic and non-homogeneous</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Of the following 5 planets, name all that can be in opposition to the Sun: Venus, Saturn, Mercury, Mars, Jupiter</question>
+        <answer>SATURN, MARS, AND JUPITER (accept in any order)</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Who was the first person known to have proved that the number of primes is infinite, calling them "numbers measured by no number but a unit alone"?</question>
+        <answer>EUCLID</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>A circle has a diameter of 20 and a minor arc whose interior angle is 90&amp;deg;. In terms of &amp;pi;, what is the arc length?</question>
+        <answer>5&amp;pi;</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best approximates the relative humidity in the stratosphere:</question>
+        <w_choice>1% </w_choice>
+        <x_choice>10% </x_choice>
+        <y_choice>35% </y_choice>
+        <z_choice>50%</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Name the 3 cloud families based on their shape:</question>
+        <answer>CUMULUS, STRATUS, CIRRUS (in any order)</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>According to Aristotle, the celestial bodies are made of what fifth element?</question>
+        <answer>ETHER</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>If you wanted to see the detailed internal structures of living unstained organisms, which type of microscope would you use:</question>
+        <w_choice>bright-field </w_choice>
+        <x_choice>dark-field </x_choice>
+        <y_choice>phase-contrast </y_choice>
+        <z_choice>scanning-tunneling</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In workflow modeling, which of the following is NOT part of the ACID properties of transactions:</question>
+        <w_choice>Atomicity </w_choice>
+        <x_choice>Consistency Preservation </x_choice>
+        <y_choice>Invertibility </y_choice>
+        <z_choice>Durability</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT a storage class specification in C programming:</question>
+        <w_choice>auto </w_choice>
+        <x_choice>switch </x_choice>
+        <y_choice>register </y_choice>
+        <z_choice>static</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following would be LEAST likely to diffuse through a typical plasma membrane:</question>
+        <w_choice>propane </w_choice>
+        <x_choice>methanol </x_choice>
+        <y_choice>potassium ions </y_choice>
+        <z_choice>carbon dioxide</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following cell types does phosphocreatine provide the greatest role:</question>
+        <w_choice>hepatocyte </w_choice>
+        <x_choice>parafollicular cell </x_choice>
+        <y_choice>endothelial cell </y_choice>
+        <z_choice>a skeletal muscle cell</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>An aldehyde is a class of compounds that contains a carbonyl group bonded to:</question>
+        <w_choice>2 carbon atoms </w_choice>
+        <x_choice>one or more hydrogen atoms </x_choice>
+        <y_choice>one or more nitrogen atoms </y_choice>
+        <z_choice>2 sulfur atoms</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Order the following three lipids from lowest to highest melting points: lauric acid, myristic acid, palmitic acid</question>
+        <answer>LAURIC ACID, MYRISTIC ACID, PALMITIC ACID</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>A jet traveling at 800 kilometers per hour has how many more times the kinetic energy than the same jet traveling at 1/2 that speed?</question>
+        <answer>4 TIMES</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What color would be produced when mixing magenta and cyan pigments?</question>
+        <answer>BLUE</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>What planet is usually obscured by the sun and never seen against a dark sky:</question>
+        <w_choice>Mars </w_choice>
+        <x_choice>Venus </x_choice>
+        <y_choice>Mercury </y_choice>
+        <z_choice>Jupiter</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following illustrative techniques would sunspots occur nearer the solar equator as the cycle of sunspot activity progresses:</question>
+        <w_choice>Kirkwood's chart </w_choice>
+        <x_choice>Maunder's diagram </x_choice>
+        <y_choice>Hubble's chart </y_choice>
+        <z_choice>HR diagram</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true about statistical correlation:</question>
+        <w_choice>correlation typically distinguishes between explanatory and response variables </w_choice>
+        <x_choice>the correlation "r" always lies between +1 and -1 </x_choice>
+        <y_choice>a negative correlation indicates a negative association </y_choice>
+        <z_choice>correlation is usually strongly affected by outlying observations</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the sine of the angle &amp;theta; (pronounced: theta) whose terminal side passes through the points (4, -3)?</question>
+        <answer>-3/5 (ACCEPT: -0.6)</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In meteorology, a center where air spirals inward around a low-pressure center and designated on weather maps by the letter "L" is called:</question>
+        <w_choice>a center of divergence </w_choice>
+        <x_choice>coriolis inversion </x_choice>
+        <y_choice>gradient wind </y_choice>
+        <z_choice>cyclonic flow</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In order and starting with the highest, name the 3 boundaries that separate the 4 thermal layers in the Earth's atmosphere:</question>
+        <answer>MESOPAUSE, STRATOPAUSE, TROPOPAUSE</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>If one parent has an AB blood type and the other parent has an O blood type, what blood types will the children possibly inherit?</question>
+        <answer>A AND B (DO NOT ACCEPT: AB)</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Southern blot is to DNA sequences as Northern blot is to:</question>
+        <w_choice>amino acid sequences </w_choice>
+        <x_choice>RNA sequences </x_choice>
+        <y_choice>DNA sequences </y_choice>
+        <z_choice>hybrid DNA/RNA sequences</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The starch amylopectin is:</question>
+        <w_choice>unbranched with alpha 1,6 linkages between the monomers </w_choice>
+        <x_choice>highly branched with alpha 1,4 linkages at its branch points </x_choice>
+        <y_choice>highly branched with alpha 1,6 linkages at its branch points </y_choice>
+        <z_choice>unbranched with alpha 1,4 linkages between the monomers</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In the following reaction, H&lt;sub&gt;2&lt;/sub&gt; + Cl&lt;sub&gt;2&lt;/sub&gt; &amp;#8594; 2HCl, assume the bond dissociation of H&lt;sub&gt;2&lt;/sub&gt; is 430 kilojoules per mole, of Cl&lt;sub&gt;2&lt;/sub&gt; is 240 kilojoules per mole, and of HCl is 400 kilojoules per mole. What is the standard enthalpy change, or &amp;Delta;H&amp;deg;, (read as: delta H degree) for the reaction, in kilojoules:</question>
+        <answer>-130</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What are the four most common names for the four fundamental forces of nature:</question>
+        <answer>GRAVITATION, ELECTROMAGNETISM, STRONG, WEAK</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a race car driver fully engages the brakes of his car traveling at 150 kilometers per hour, how many times farther will the car skid than if it was traveling at 50 kilometers per hour when the brakes were engaged?</question>
+        <answer>9 TIMES</answer>
+    </fullq>
+
+</round>

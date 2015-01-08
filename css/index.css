@@ -1,0 +1,100 @@
+body {
+    background-color : #FEE6CC;
+    margin : 0;
+}
+
+#container {
+    background-color : #FEE6CC;
+    min-height : 100%;
+    height : auto;
+}
+
+#header {
+    background-color : #FEE6CC;
+    position : absolute;
+    left : 0%;
+    right : 0%;
+    height : 132px;
+}
+
+#title {
+    color : #990000;
+    font-size : 40px;
+    font-family : "Georgia";
+    font-weight : bold;
+    text-align : center;
+    position : absolute;
+    left : 10%;
+    right : 10%;
+    line-height : 100px;
+    cursor : default;
+}
+
+
+#menu {
+    position : absolute;
+    top : 100px;
+    left : 20px;
+    bottom : 24px;
+    width : 125px;
+    z-index : 2;
+}
+
+
+.menu_button {
+    font-size : 18px;
+    text-align : right;
+    line-height : 40px;
+    padding : 0px 14px;
+    width : 100%;
+    border-style : solid;
+    border-right-style : none;
+    border-width : 2px;
+    border-color : #990000;
+    border-top-left-radius : 25px;
+    border-bottom-left-radius : 25px;
+    cursor : pointer;
+}
+
+
+#content {
+    color : #400000;
+    background-color : #EEEEEE;
+    position : absolute;
+    top : 100px;
+    left : 173px;
+    right : 24px;
+    bottom : 24px;
+    padding : 30px;
+    border-style : solid;
+    border-width : 2px;
+    border-color : #990000;
+    border-radius : 15px;
+    border-top-left-radius : 0px;
+    overflow : auto;
+}
+
+h1,h2,h3,h4,h5,h6,li {
+padding : 0;
+margin : 0;
+}
+
+a:link {
+    text-decoration : none;
+    color : #AA0000;
+}
+
+a:visited {
+    text-decoration : none;
+    color : #AA0000;
+}
+
+a:hover {
+    text-decoration : underline;
+    color : #EE0000;
+}
+
+a:active {
+    text-decoration : underline;
+    color : #EE0000;
+}

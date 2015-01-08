@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<!--
+PEA Science Bowl Website
+written by Vahid Fazel-Rezai
+last updated later than 9:00 PM, September 30, 2013
+-->
+
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Blurtians Science Bowl</title>
+
+<link rel="stylesheet" type="text/css" href="css/index.css">
+<link rel="stylesheet" type="text/css" href="css/play.css">
+<link rel="stylesheet" type="text/css" href="css/links.css">
+
+<script src="javascript/jquery.js"></script>
+<script src="javascript/index.js"></script>
+<script src="javascript/play.js"></script>
+<script src="javascript/enterquestions.js"></script>
+
+</head>
+
+
+<body onload="change_display(0)">
+
+<div id="container"> 
+
+    <div id="header">
+        <span id="title">Blurtians Science Bowl</span>
+    </div>
+
+    <div id="menu">
+        <div class="menu_button" onmouseover="button_over(0)" onmouseout="button_out(0)" 
+            onclick="change_display(0)">Home</div>
+        <div class="menu_button" onmouseover="button_over(1)" onmouseout="button_out(1)" 
+            onclick="change_display(1)">Play</div>
+        <div class="menu_button" onmouseover="button_over(2)" onmouseout="button_out(2)" 
+            onclick="change_display(2)">Statistics</div>
+        <div class="menu_button" onmouseover="button_over(3)" onmouseout="button_out(3)" 
+            onclick="change_display(3)">Enter Questions</div>
+        <div class="menu_button" onmouseover="button_over(4)" onmouseout="button_out(4)" 
+            onclick="change_display(4)">Links</div>
+
+    </div>
+
+    <span id="content">
+
+    </span>
+    
+</div>
+
+</body>
+</html>

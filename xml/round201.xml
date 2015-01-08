@@ -1,0 +1,371 @@
+<round id='201'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common term for the substance recognized as foreign and able to elicit antibody production:</question>
+        <answer>ANTIGEN</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Mendel succeeded in forming the basis of modern hereditary theory in part because of his training:</question>
+        <w_choice>as a printer of rare and scientific documents </w_choice>
+        <x_choice>in calligraphy of scientific manuscripts for the Royal Austrian Science Society </x_choice>
+        <y_choice>in probability and mathematics </y_choice>
+        <z_choice>as a scientific apostolic nuncio</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which of the halogens is a liquid at room temperature:</question>
+        <answer>BROMINE</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the general term for a salt of one of the halogens?</question>
+        <answer>HALIDE</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the unit for electric current equal to 1 coulomb per second?</question>
+        <answer>AMPERE (ACCEPT: AMP)</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the most dense at standard temperature and pressure:</question>
+        <w_choice>10 kilograms of pure water </w_choice>
+        <x_choice>10 kilograms of tungsten </x_choice>
+        <y_choice>2 kilograms of silver </y_choice>
+        <z_choice>1 kilogram of mercury</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>As of the summer of 2001, what planet was shown to have the most known moons orbiting it in our solar system?</question>
+        <answer>SATURN</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is another name for minor planets, starlike bodies, or planetoids, the vast majority of which have orbits roughly midway between the orbits of Jupiter and Mars?</question>
+        <answer>ASTEROIDS</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the perimeter of a right triangle whose leg lengths are 6 and 8 and whose hypotenuse is 10?</question>
+        <answer>24</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The average of -40, 36, 5, 0, 10 and x is 5. What is the value of x?</question>
+        <answer>19</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Boundaries that form where lithospheric plates are breaking apart to move away from each other are called:</question>
+        <w_choice>transform boundaries </w_choice>
+        <x_choice>divergent margin boundaries </x_choice>
+        <y_choice>suture zone boundaries </y_choice>
+        <z_choice>subduction boundaries</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Based on compositional boundaries, name the three different layers that make up the structure of the solid portion of the planet Earth?</question>
+        <answer>CORE, MANTLE, CRUST (accept in any order)</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What do the abbreviations TC and TD stand for that are seen on some laboratory pipettes?</question>
+        <answer>TO CONTAIN AND TO DELIVER</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>hat Greek letter is used to symbolize wavelength?</question>
+        <answer>LAMBDA</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Software that is often distributed free of charge and usually intended for sale after a trial period is called:</question>
+        <w_choice>freeware </w_choice>
+        <x_choice>shareware </x_choice>
+        <y_choice>open source </y_choice>
+        <z_choice>public-domain</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>The binary number 10101 (read as: one, zero, one, zero, one) is equivalent to what decimal number?</question>
+        <answer>21</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common scientific term for plant water loss through stomata:</question>
+        <answer>TRANSPIRATION</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What are the four main human blood types?</question>
+        <answer>O, A, B, AND AB (accept in any order)</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following atomic features is the most important in controlling the reactivity of an atom:</question>
+        <w_choice>core electrons </w_choice>
+        <x_choice>valence-shell electrons </x_choice>
+        <y_choice>protons </y_choice>
+        <z_choice>neutrons</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the rule that states that main-group elements tend to undergo reactions that leave them with 8 outer-shell electrons?</question>
+        <answer>OCTET RULE</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>How many nanometers are in an angstrom?</question>
+        <answer>0.1 (ACCEPT: ONE-TENTH)</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>For a perfectly spherical planet of uniform density, the gravitational acceleration at a point half way to the surface from its center will be what fraction of the gravitational acceleration at the surface?</question>
+        <answer>1/2</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What planet is the most distant gas giant from the sun?</question>
+        <answer>NEPTUNE</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Refracting telescopes always contain which of the following:</question>
+        <w_choice>mirrors </w_choice>
+        <x_choice>lenses </x_choice>
+        <y_choice>television systems </y_choice>
+        <z_choice>film</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the remainder of (148 + 10) / 7 ?</question>
+        <answer>4</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If y varies directly as x, and y = 42 when x = 30, find y if x = 45:</question>
+        <answer>63</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following types of moraines does NOT parallel ice flow:</question>
+        <w_choice>medial </w_choice>
+        <x_choice>lateral </x_choice>
+        <y_choice>double lateral </y_choice>
+        <z_choice>end</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The combination of lingering air and abundance of particulates and other pollutants in the air over cities produces what is commonly known as the:</question>
+        <w_choice>urban depletion area </w_choice>
+        <x_choice>urban dust dome </x_choice>
+        <y_choice>urban frontal zone </y_choice>
+        <z_choice>urban overcast zone</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Rounded to the nearest decimal place, convert 13 Kelvin into degrees Centigrade:</question>
+        <answer>-260</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Express the number 9587.3 in proper scientific notation with the correct amount of significant figures:</question>
+        <answer>9.5873 x 10&lt;sup&gt;3&lt;/sup&gt;</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The file extension .MID (read as: dot, M, I, D) usually means that the file can be opened by what type of program:</question>
+        <w_choice>text editor </w_choice>
+        <x_choice>graphics </x_choice>
+        <y_choice>database </y_choice>
+        <z_choice>music</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>The decimal number 15 is equivalent to what octal number?</question>
+        <answer>17</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>The spines of cacti are a modification of what plant structure?</question>
+        <answer>LEAF (ACCEPT: LEAVES)</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common biochemical term for the degradative phases of metabolism?</question>
+        <answer>CATABOLISM</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In the periodic table, what name is given to the number representing the total of a given element's protons and neutrons?</question>
+        <answer>ATOMIC MASS</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the general term for a bond in which the shared bonding electrons are attracted somewhat more strongly by one atom than the other?</question>
+        <answer>POLAR COVALENT BOND</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In additive color synthesis, what do equal proportions of two primary colors create?</question>
+        <answer>A SECONDARY COLOR</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If the speed of a charged particle is doubled while it is moving in a circular orbit in a uniform magnetic field, by what multiple will the orbital radius increase?</question>
+        <answer>2</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which of the Galilean moons orbiting Jupiter is the most geologically active object in the entire solar system, commonly referred to as the "pizza moon," and has the longest diameter of 3,630 kilometers?</question>
+        <answer>IO</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The Tharsis bulge is the major geological feature of what planet?</question>
+        <answer>MARS</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The price of a postage stamp changes from 33 cents to 34 cents. What is the percent increase in price?</question>
+        <answer>3 (ACCEPT: 3.03)</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>After a 20% increase, the new price of a tennis racket is $180.00. What was the original price of the racket?</question>
+        <answer>$150.00</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>What scale is used to classify the strength of hurricanes based on its greatest wind speed:</question>
+        <w_choice>Saffir-Simpson </w_choice>
+        <x_choice>Beaufort </x_choice>
+        <y_choice>Modified Mercalli </y_choice>
+        <z_choice>Fujita</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT classified as a low-level cloud:</question>
+        <w_choice>altostratus </w_choice>
+        <x_choice>nimbostratus </x_choice>
+        <y_choice>stratocumulus </y_choice>
+        <z_choice>stratus</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>To prepare a tincture of iodine the iodine is mixed in what general type of solvent?</question>
+        <answer>ALCOHOL</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What person, in 1676, reported to the Royal Society of London the first known observations of protozoans?</question>
+        <answer>ANTON VAN LEEUWENHOEK (ACCEPT: LEEUWENHOEK)</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the name of the element with the symbol Sb?</question>
+        <answer>ANTIMONY</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which element has the lowest ionization energy of all stable neutral atoms?</question>
+        <answer>CESIUM (ACCEPT: CS)</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>According to the typical color triangle, what are the three primary colors of light?</question>
+        <answer>RED, GREEN, AND BLUE</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>That no two electrons in an atom can have an identical set of quantum numbers is best known as what principle?</question>
+        <answer>PAULI EXCLUSION PRINCIPLE (ACCEPT: EXCLUSION PRINCIPLE)</answer>
+    </fullq>
+
+</round>

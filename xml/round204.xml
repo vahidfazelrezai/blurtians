@@ -1,0 +1,403 @@
+<round id='204'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the angular velocity of a wheel with a radius of 15 meters and a surface velocity of 120 meters/sec:</question>
+        <answer>8 RAD/SEC</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming friction is negligible, how long will it take an object to stop if it has an initial velocity of 5 meters per second, if the average braking force is 20 Newtons, and if the object's mass is 20 kilograms?</question>
+        <answer>5 SECONDS</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>For individuals who are "Lactose Intolerant," the reason for their gastric distress is the production of:</question>
+        <w_choice>methane </w_choice>
+        <x_choice>acetic acid and nitrogen </x_choice>
+        <y_choice>lactic acid and carbon dioxide </y_choice>
+        <z_choice>acetic acid and methane</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which acid connects the 2-deoxyribose units within every DNA strand:</question>
+        <w_choice>acetic acid </w_choice>
+        <x_choice>phosphoric acid </x_choice>
+        <y_choice>citric acid </y_choice>
+        <z_choice>glycolic acid</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following organisms does NOT belong to the Class Arachnida:</question>
+        <w_choice>scorpions </w_choice>
+        <x_choice>lobsters </x_choice>
+        <y_choice>mites </y_choice>
+        <z_choice>ticks</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What anatomical structure is responsible for the various colors of eyes in humans?</question>
+        <answer>IRIS</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following planets is NOT known to have any orbiting satellites:</question>
+        <w_choice>Venus </w_choice>
+        <x_choice>Mars </x_choice>
+        <y_choice>Uranus </y_choice>
+        <z_choice>Saturn</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Cassini's division is associated with what planet?</question>
+        <answer>SATURN</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Convert 135&amp;deg; into radians:</question>
+        <answer>4</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solve the following inequality: 3 - 6x &amp;gt; 15</question>
+        <answer>x &amp;lt; -2</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Hawaiian volcanoes such as Kilauea and Mauna Loa are examples of which of the following types of volcanoes:</question>
+        <w_choice>basaltic </w_choice>
+        <x_choice>rhyolitic </x_choice>
+        <y_choice>andesitic </y_choice>
+        <z_choice>andesitic and rhyolitic</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In reference to glacial ice, the process by which ice below the snow line is lost by evaporation and melting is called what?</question>
+        <answer>ABLATION</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is a quantity that has only a magnitude most commonly called?</question>
+        <answer>SCALAR</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>What pioneer bacteriologist in 1873 located a particular bacterium that caused anthrax in the spleen of infected cattle and, after transferring it serially to mice, recovered the same bacterium in the end:</question>
+        <w_choice>Louis Pasteur </w_choice>
+        <x_choice>Robert Koch (pronounced: Coke) </x_choice>
+        <y_choice>Rudolf Virchow </y_choice>
+        <z_choice>Peter Vogt</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>In most computer systems, a byte is a unit of data that is how many binary digits long?</question>
+        <answer>8</answer>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the term for half a byte, or four bits?</question>
+        <answer>NIBBLE (ACCEPT: NYBBLE)</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In a standing wave of a vibrating wire cord, what are the points of constructive interference most commonly called where the cord oscillates with maximum amplitude?</question>
+        <answer>ANTINODES</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>For a radioactive element with a half-life of 5000 years, if a sample of the radioactive element is left to decay for 15,000 years, what fraction of the original radioactive atoms in the sample will be left?</question>
+        <answer>1/8 (ACCEPT: 12.5%)</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following elements is found in Period 3 and main Group 5A:</question>
+        <w_choice>phosphorous </w_choice>
+        <x_choice>silicon </x_choice>
+        <y_choice>nitrogen </y_choice>
+        <z_choice>arsenic</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>From the lowest to the highest atomic number, give the full names of any 4 alkaline earth metals:</question>
+        <answer>BERYLLIUM; MAGNESIUM; CALCIUM; STRONTIUM; BARIUM; RADIUM</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which is the more common specific name for the polymorphonuclear (read as: poly-morph-oh-nuclear) leukocyte?</question>
+        <answer>NEUTROPHIL (ACCEPT: PMN)</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Tobacco, jimsonweed, belladonna, and tomatoes all belong to what family of plants?</question>
+        <answer>NIGHTSHADE (ACCEPT: SOLANACEAE)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>How many degrees above the horizon will the north celestial pole be for someone standing at latitude 53&amp;deg; North?</question>
+        <answer>53</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What kind of celestial bodies have cores that consist primarily of neutral particles in a superfluid state and are thought to have evolved from stars with masses more than about 1.4 times the Chandrasekhar limit?</question>
+        <answer>NEUTRON STARS (DO NOT ACCEPT: PULSAR)</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the formula for the volume of a sphere?</question>
+        <answer>R: (4/3) &amp;pi; r&lt;sup&gt;3&lt;/sup&gt; (read as: four third pi radius cubed)</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Subtract the following 2 polynomials: (-4x&lt;sup&gt;3&lt;/sup&gt;y + 2x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; + 2x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt; + 2y) - (4x&lt;sup&gt;3&lt;/sup&gt;y - 7x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; + x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt; - y)</question>
+        <answer>-8x&lt;sup&gt;3&lt;/sup&gt;y + 9x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; + x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt; + 3y</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A measure of how easily water flows through rock is called its:</question>
+        <w_choice>porosity </w_choice>
+        <x_choice>aquifer system </x_choice>
+        <y_choice>permeability </y_choice>
+        <z_choice>zone of aeration</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In coastal engineering terms, the area from the shoreline to just beyond the breaker zone is called what?</question>
+        <answer>LITTORAL ZONE (ACCEPT: INTERTIDAL ZONE)</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What ardent behaviorist and author of "Walden Two" believed that human behavior is strongly influenced by what he referred to as operant reinforcement?</question>
+        <answer>B.F. SKINNER (ACCEPT: SKINNER)</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The total amount of sediment a stream can carry past a point in a given amount of time, is known as its:</question>
+        <w_choice>competence </w_choice>
+        <x_choice>capacity </x_choice>
+        <y_choice>abrasion </y_choice>
+        <z_choice>dissolved load</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>In word processing, a collection of letters and associated characters in the same typeface, style and point size is called:</question>
+        <answer>FONT</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A logic chip that is just 20 nanometers wide would be about how many times wider than a single silicon atom?</question>
+        <w_choice>5 </w_choice>
+        <x_choice>50 </x_choice>
+        <y_choice>200 </y_choice>
+        <z_choice>500</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which physical phenomenon explains the flotation of boats and air balloons:</question>
+        <w_choice>Bernoulli's principle </w_choice>
+        <x_choice>Archimedes principle </x_choice>
+        <y_choice>Newton's second law of motion </y_choice>
+        <z_choice>Galileo's law of displacement</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>A runner, with her feet braced against her starting blocks, accelerates with a horizontal magnitude of 5 meters per second squared. How much horizontal force, in Newtons, must she exert on the blocks to produce this acceleration if the she has a mass of 70 kilograms?</question>
+        <answer>350 NEWTONS (ACCEPT: 350)</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>How many electrons would fill the 4d energy subshell?</question>
+        <answer>10</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>In which element is the first crossing in the orbital-filling order encountered, whereby the next 2 electrons go into the 4s subshell rather than filling the 3d orbitals?</question>
+        <w_choice>argon </w_choice>
+        <x_choice>scandium </x_choice>
+        <y_choice>rubidium </y_choice>
+        <z_choice>potassium</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What section of the brain is sometimes referred to as the body's thermostat?</question>
+        <answer>HYPOTHALAMUS</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Removal of a predatory starfish results in an overabundance of mollusks dramatically altering the community population. The starfish would be considered:</question>
+        <w_choice>a keystone species </w_choice>
+        <x_choice>primary competitor </x_choice>
+        <y_choice>secondary producer </y_choice>
+        <z_choice>an endangered species</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In statistics, what is the square root of the variance most commonly known as?</question>
+        <answer>STANDARD DEVIATION</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>To the nearest cubic inch, find the volume of a sphere whose diameter is 4 inches:</question>
+        <answer>33 (ACCEPT: 32 - 34)</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>On a topographical map, what are the lines drawn that connect points of the same elevation above or below mean sea level called:</question>
+        <w_choice>isobars </w_choice>
+        <x_choice>ridges </x_choice>
+        <y_choice>isohyets </y_choice>
+        <z_choice>contours</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The abyssal plain of the Atlantic ocean lies directly adjacent to the:</question>
+        <w_choice>continental slope </w_choice>
+        <x_choice>continental rise </x_choice>
+        <y_choice>continental shelf </y_choice>
+        <z_choice>continental crust</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In 1905, on the basis of apparent irregularities in the orbital motion of Neptune that later proved to be incorrect, who predicted the existence of a ninth planet with an orbit beyond Neptune:</question>
+        <w_choice>Percival Lowell </w_choice>
+        <x_choice>Charles Dillon Perrine </x_choice>
+        <y_choice>George Ellery Hale </y_choice>
+        <z_choice>Johannes Franz Hartman</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What native tree, prized for its wood, which looked like oak, and valued also for its fruit, is now almost extinct in the wild in the US?</question>
+        <answer>AMERICAN CHESTNUT (DO NOT ACCEPT CHESTNUT)</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>The speed of light in a vacuum divided by the speed of light in a specific material is a way to compute what common optical value:</question>
+        <answer>INDEX OF REFRACTION</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the potential difference, in volts, if 35 joules of work is needed to move 5 coulombs of charge in a uniform electric field?</question>
+        <answer>7</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>All elements in a given period of the periodic table have similar:</question>
+        <w_choice>valence-shell electron configuration </w_choice>
+        <x_choice>maximum principal quantum number </x_choice>
+        <y_choice>atomic radii </y_choice>
+        <z_choice>atomic number</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the systematic name for the compound FeCO&lt;sub&gt;3&lt;/sub&gt;?</question>
+        <answer>IRON(II) CARBONATE (read as: iron 2 carbonate) (DO NOT ACCEPT: FERROUS CARBONATE OR IRON CARBONATE)</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a feeding structure in arachnids :</question>
+        <w_choice>dentipalps </w_choice>
+        <x_choice>radula </x_choice>
+        <y_choice>proboscis </y_choice>
+        <z_choice>chelicerae (read as: chill-iss-err-aye)</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT a cranial bone:</question>
+        <w_choice>parietal </w_choice>
+        <x_choice>occipital </x_choice>
+        <y_choice>sphenoid </y_choice>
+        <z_choice>lacrimal</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+</round>

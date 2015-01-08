@@ -1,0 +1,407 @@
+<round id='215'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes mesons:</question>
+        <w_choice>a subgroup of leptons </w_choice>
+        <x_choice>a subgroup of hadrons </x_choice>
+        <y_choice>hadronic leptons </y_choice>
+        <z_choice>particles with a spin of 1</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following most directly describes the de Broglie wavelength:</question>
+        <w_choice>wavelength equals Planck's constant over the quantity mass times velocity </w_choice>
+        <x_choice>wavelength equals mass times velocity over Planck's constant </x_choice>
+        <y_choice>energy equals Planck's constant times frequency </y_choice>
+        <z_choice>Planck's constant equals mass times the speed of light over the frequency</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Species similarity is partly based on DNA hybridization studies that determine:</question>
+        <w_choice>similarity in where restriction enzymes cleave </w_choice>
+        <x_choice>determining exact nucleotide sequences </x_choice>
+        <y_choice>generating a restriction enzyme map </y_choice>
+        <z_choice>degree of base pairing between DNA strands</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In the Calvin cycle, for each 6 CO&lt;sub&gt;2&lt;/sub&gt; fixed how many PGAL are typically formed?</question>
+        <answer>12</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A fermentation reaction and a saponification reaction are similar in that they both can produce:</question>
+        <w_choice>a soap </w_choice>
+        <x_choice>an ester </x_choice>
+        <y_choice>an alcohol </y_choice>
+        <z_choice>an acid</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the degree of unsaturation for a ring chain of the molecule C&lt;sub&gt;9&lt;/sub&gt;H&lt;sub&gt;16&lt;/sub&gt;, assuming it contains only sigma bonds?</question>
+        <answer>2</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>If it were to be renamed today based on what constellation the sun is in on December 22&lt;sup&gt;nd&lt;/sup&gt;, what would the new name be for the Tropic of Capricorn?</question>
+        <answer>TROPIC OF SAGITTARIUS (ACCEPT: SAGITTARIUS)</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>How many arc-seconds wide, rounded to the nearest whole number, would Galileo have been able to resolve with his telescope, if one assumes that its 1.7 inch diameter lens was free of optical aberrations?</question>
+        <answer>3</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Simplify the following trigonometric equation for a right triangle ABC whose right angle is at B: (cosecant&lt;sup&gt;2&lt;/sup&gt; A - 1) x  cosine(90&amp;deg; - A) / sine(90&amp;deg; - A)</question>
+        <w_choice>sine A </w_choice>
+        <x_choice>cosine A </x_choice>
+        <y_choice>tangent A </y_choice>
+        <z_choice>cotangent A</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The monthly revenue, in dollars, for sales of widgets is given by the equation R(q) = 8.5q - 0.02q&lt;sup&gt;2&lt;/sup&gt;, where q is the number of widgets made per month. The cost for creating the widgets is given by the equation, C(q) = 200 + 0.5q dollars. A maximum of 400 widgets can be made in 1 month. How many widgets should be made each month to maximize the profit, as given by the revenue minus the cost?</question>
+        <answer>200</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following organisms eventually sediments onto the ocean seafloor as a calcareous ooze:</question>
+        <w_choice>foraminifera </w_choice>
+        <x_choice>radiolarians </x_choice>
+        <y_choice>diatoms </y_choice>
+        <z_choice>fish scales</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In the geological time scale, the Devonian Period belongs to which Era?</question>
+        <answer>PALEOZOIC</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Cyanocobalamin (Pronounced SIGH-ano-CO-bal-amin) is more commonly known as:</question>
+        <w_choice>vitamin B&lt;sub&gt;12&lt;/sub&gt; </w_choice>
+        <x_choice>vitamin D </x_choice>
+        <y_choice>vitamin A </y_choice>
+        <z_choice>vitamin K&lt;sub&gt;3&lt;/sub&gt;</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What disease was first discovered in the mid-19&lt;sup&gt;th&lt;/sup&gt; century in the Far East and later correlated to a vitamin deficiency caused by the introduction of polished rice as a food staple?</question>
+        <answer>BERI-BERI</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In C programming, the number used to refer to a particular element of an array is called its:</question>
+        <w_choice>numerator </w_choice>
+        <x_choice>superscript </x_choice>
+        <y_choice>subscript </y_choice>
+        <z_choice>exponent</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The following are all reasons why the LISP programming language is NOT widely used except:</question>
+        <w_choice>its dependence on recursion </w_choice>
+        <x_choice>most LISP systems are interpreted, and thus slower </x_choice>
+        <y_choice>LISP is only effective for explicitly defined problems </y_choice>
+        <z_choice>dynamic storage allocation is expensive</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What name did Marie and Pierre Curie give the radioactive substance they separated from uranium ore that had chemical properties close to bismuth?</question>
+        <answer>POLONIUM</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In collaboration with Bemout, the Curies found what other radioactive substance with chemical properties similar to barium?</question>
+        <answer>RADIUM</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>ATP is to energy-rich phosphate as NADPH&lt;sub&gt;2&lt;/sub&gt; is to energy-rich:</question>
+        <answer>ELECTRONS</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Order the following 3 monosaccharides from the smallest to the largest: erythrose, glyceraldehyde, arabinose</question>
+        <answer>GLYCERALDEHYDE, ERYTHROSE, ARABINOSE</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>In general, a buffer solution used in titrations is characteristically which of the following:</question>
+        <w_choice>a strong acid and its conjugate base </w_choice>
+        <x_choice>a strong base and its conjugate acid </x_choice>
+        <y_choice>a weak acid and its conjugate base </y_choice>
+        <z_choice>a solution that changes very rapidly in pH when acids or bases are added</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>According to the Henderson-Hasselbalch equation, the pH equals the pKa (read as: p, k, a) when the ratio of the conjugate base and weak acid equals:</question>
+        <w_choice>0 </w_choice>
+        <x_choice>1 </x_choice>
+        <y_choice>2 </y_choice>
+        <z_choice>7</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Members of the "Key Project", while working with the Hubble space telescope, are using observation primarily of what specific type of celestial object to calculate the Hubble constant?</question>
+        <answer>CEPHEIDS (ACCEPT: CEPHEID VARIABLES)</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Rounded to the first decimal place, how many synodic months are in an accurate calendar year if a tropical year is 365.2 days?</question>
+        <answer>12.4</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In 1931, who disproved that axioms of arithmetic were consistent and could sufficiently prove or disprove any mathematical conjecture?</question>
+        <answer>KURT GODEL (ACCEPT: GODEL)</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the derivative of the following expression with respect to the variable x: 4x&lt;sup&gt;3/2&lt;/sup&gt;-5x&lt;sup&gt;1/2&lt;/sup&gt; (Read as: 4x to the 3/2 power minus 5x to the 1/2 power)</question>
+        <answer>6x&lt;sup&gt;1/2&lt;/sup&gt;-2.5x&lt;sup&gt;-1/2&lt;/sup&gt; (ACCEPT: 6x&lt;sup&gt;0.5&lt;/sup&gt;-2.5x&lt;sup&gt;-0.5&lt;/sup&gt;)</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Land is to tornadoes as the ocean is to what?</question>
+        <answer>WATERSPOUTS</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is TRUE regarding the development of a hurricane:</question>
+        <w_choice>they develop in waters of at least 80&amp;deg;F at 0&amp;deg; latitude </w_choice>
+        <x_choice>they develop in waters of at least 80&amp;deg;F between 20&amp;deg; and 40&amp;deg; latitude </x_choice>
+        <y_choice>a hurricane originating in the eastern tropical Atlantic is driven westward by westerly trade winds in the tropics </y_choice>
+        <z_choice>they develop in waters of at least 80&amp;deg;F between 5&amp;deg; and 20&amp;deg; latitude</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In computer graphics, the electronic process of eliminating or reducing jaggies in an image is called:</question>
+        <w_choice>pixelation </w_choice>
+        <x_choice>anti-aliasing </x_choice>
+        <y_choice>digitizing </y_choice>
+        <z_choice>radial filling</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A termite is best classified in which trophic level:</question>
+        <w_choice>herbivore </w_choice>
+        <x_choice>omnivore </x_choice>
+        <y_choice>primary detritivore </y_choice>
+        <z_choice>secondary detritivore</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In the Operating System environment, what is a shell:</question>
+        <w_choice>a specific type of operating system </w_choice>
+        <x_choice>a user application program written in Java </x_choice>
+        <y_choice>the interface that interprets commands between the user and the operating system </y_choice>
+        <z_choice>the part of the operating system which allocates blocks of memory to a process</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>As a format for representing integers in which each digit is represented by four bits, what does the acronym BCD stand for?</question>
+        <answer>BINARY-CODED DECIMAL</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Considering air resistance is negligible and that gravitational acceleration is 9.8 meters per second squared, what is the velocity acquired by a body in free fall, starting from rest, after 5 seconds?</question>
+        <answer>49 METERS/SECOND</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>If a person passes a yard stick at 1/2 light speed, what length would he measure the yard to be, rounded to the second decimal place:</question>
+        <w_choice>1.13 yards </w_choice>
+        <x_choice>0.13 yards </x_choice>
+        <y_choice>0.75 yards </y_choice>
+        <z_choice>0.87 yards</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What term, coined by Mendel, delineates the variant form of a gene?</question>
+        <answer>ALLELE</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following pore-size filters would typically be the upper size limit to ensure removal of all bacteria:</question>
+        <w_choice>5.0 microns </w_choice>
+        <x_choice>1.5 microns </x_choice>
+        <y_choice>0.85 microns </y_choice>
+        <z_choice>0.22 microns</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is considered a chiral object:</question>
+        <w_choice>a coffee cup </w_choice>
+        <x_choice>a tennis ball </x_choice>
+        <y_choice>a corkscrew </y_choice>
+        <z_choice>a banana</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>If a 5.0 x 10&lt;sup&gt;5&lt;/sup&gt; liter swimming pool at 25&amp;deg;C contains 35 grams of chloride ions, what is the concentration of chloride ions in parts per million?</question>
+        <answer>0.07</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The two points where the ecliptic intersects the celestial equator are known as what:</question>
+        <answer>EQUINOXES</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>If a star were to be 9 times farther away than it originally was, how many times fainter would it appear to be if all other things remain constant?</question>
+        <answer>81 TIMES</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What term is given to a body of sediments deposited where a stream flows into a body of standing water and its velocity and transporting power are suddenly reduced?</question>
+        <answer>DELTA (ACCEPT: DELTA PLAIN)</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The land counterpart of a delta, what is the term for a fan- shaped assemblage of sediments built where a stream moves from a steep gradient to a flatter gradient and suddenly loses transporting power?</question>
+        <answer>ALLUVIAL FAN</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>When referring to disease, endemic refers to:</question>
+        <w_choice>the habitual presence of disease within a geographic population </w_choice>
+        <x_choice>the occurrence of a group of illnesses clearly in excess of normal expectancy </x_choice>
+        <y_choice>a worldwide epidemic </y_choice>
+        <z_choice>diseases which often exhibit a seasonal pattern</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What are the five countries that currently produce the greatest amount of nuclear electric energy?</question>
+        <answer>USA, FRANCE, JAPAN, GERMANY AND RUSSIA (accept in any order)</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What scientific term is most often used when specifically referring to the nucleus of a deuterium atom?</question>
+        <answer>DEUTERON</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Classify the following 3 particles as bosons, leptons, mesons, or baryons: muon; pion; neutron</question>
+        <answer>MUON = LEPTON; PION = MESON; NEUTRON = BARYON</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In primates, what is the final product of most purine degradation?</question>
+        <answer>URIC ACID</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>When bacteria are introduced into a nutrient rich medium they follow a standard bacterial growth curve. Place the following into the proper sequence from the earliest to the latest in this growth phase: stationary, log, decline, lag</question>
+        <answer>LAG, LOG, STATIONARY, DECLINE</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>According to Beer's law:</question>
+        <w_choice>the energy of a photon of light is inversely proportional to its wavelength </w_choice>
+        <x_choice>the concentration of a species that absorbs light can be measured by the amount of light absorbed </x_choice>
+        <y_choice>the energy of characteristic X-rays increases with increasing atomic number of the emitting element </y_choice>
+        <z_choice>excitation of the electrons in a molecule takes place on a shorter time scale than motion of the nuclei</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the efficiency, in percent, of a Carnot cycle operating between 1140&amp;deg;F and 140&amp;deg;F?</question>
+        <answer>62.5%</answer>
+    </fullq>
+
+</round>

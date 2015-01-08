@@ -1,0 +1,399 @@
+<round id='216'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In what part of the chloroplast is carbon fixed during the Calvin cycle?</question>
+        <answer>STROMA</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Assuming average size, order the following from the smallest to the largest: red blood cell, Polio virus, Rickettsia, Anthrax bacillus</question>
+        <answer>POLIO VIRUS, RICKETTSIA, ANTHRAX BACILLUS, RED BLOOD CELL</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following four molecules can have both right- handed and left-handed forms:</question>
+        <w_choice>2-chloro-2-bromobutane </w_choice>
+        <x_choice>1-chloro-2-bromoethene </x_choice>
+        <y_choice>trichloromethane </y_choice>
+        <z_choice>glycerol</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>The reaction of 2 chemical substances to make a product that has a standard enthalpy of reaction, or &amp;Delta;H&amp;deg;, (read as: delta H naught) of -200 kilojoules. If the reaction is carried out at a constant pressure of 40 atmospheres and the volume change is -2.00 liters, what is the total energy change, &amp;Delta;E, (read as: delta E) in kilojoules, of the system:</question>
+        <answer>-191.92 (ACCEPT: -191 to -192 KILOJOULES)</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What general theory of science, begun by Max Planck, allows scientists to quantitatively understand the behavior of atoms, subatomic particles, phases of matter, and semiconductors:</question>
+        <answer>QUANTUM THEORY</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming g = 9.8 m/s&lt;sup&gt;2&lt;/sup&gt; and negligible air resistance, how far, in meters rounded to the first decimal place, would an object travel after 2 seconds if thrown down vertically, with an initial velocity of 4 m/sec from a 100 meter tower?</question>
+        <answer>27.6 METERS</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the most likely reason that the Pleiades stars were all formed together:</question>
+        <w_choice>they are all the same size, luminosity, and spectral class </w_choice>
+        <x_choice>they all orbit a common larger neutron star </x_choice>
+        <y_choice>they are in the region of a black hole </y_choice>
+        <z_choice>they are all concentrated in a small region</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Compute the estimated temperature, in Kelvin, of a stellar body's surface that emits light with a spectrum that peaks at 145 nanometers:</question>
+        <answer>20,000</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the expression that defines the hyperbolic sine function:</question>
+        <w_choice>(e&lt;sup&gt;x&lt;/sup&gt; - e&lt;sup&gt;-x&lt;/sup&gt;)/2 </w_choice>
+        <x_choice>(e&lt;sup&gt;x&lt;/sup&gt; + e&lt;sup&gt;-x&lt;/sup&gt;)/2 </x_choice>
+        <y_choice>2/(e&lt;sup&gt;x&lt;/sup&gt; + e&lt;sup&gt;-x&lt;/sup&gt;) </y_choice>
+        <z_choice>2/(e&lt;sup&gt;x&lt;/sup&gt; - e&lt;sup&gt;-x&lt;/sup&gt;)</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Calculate the following indefinite integral: I = &amp;int; (x + 1)&lt;sup&gt;2&lt;/sup&gt; dx</question>
+        <answer> (x + 1)&lt;sup&gt;3&lt;/sup&gt;/3 + C</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In the soil profile, which horizon is know as the zone of accumulation:</question>
+        <w_choice>A-horizon </w_choice>
+        <x_choice>B-horizon </x_choice>
+        <y_choice>O-horizon </y_choice>
+        <z_choice>E-horizon</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The doldrums are to 0&amp;deg; latitude, as the horse latitudes are to what?</question>
+        <answer>30&amp;deg; (ACCEPT: 30&amp;deg; NORTH OR SOUTH LATITUDE)</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the term for the distance, usually given in millimeters, between the optical center of a lens and the point at which rays of light from objects at infinity are brought to focus:</question>
+        <answer>FOCAL LENGTH</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In the single-lens reflex camera, which of the following is TRUE of focal length of a lens as it pertains to angle of view:</question>
+        <w_choice>the longer the focal length, the narrower its angle of view will be </w_choice>
+        <x_choice>the shorter the focal length, the narrower its angle of view will be </x_choice>
+        <y_choice>the longer the focal length, the wider its angle of view will be </y_choice>
+        <z_choice>the focal length of a lens does not affect the angle of view</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The ability to create a table in Microsoft Word and embed it into a section of a spreadsheet created in Excel, is an example of:</question>
+        <w_choice>OpenGL </w_choice>
+        <x_choice>database indexing </x_choice>
+        <y_choice>OLE </y_choice>
+        <z_choice>Direct 3D</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What does the acronym OLE stand for?</question>
+        <answer>OBJECT LINKING AND EMBEDDING</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Animal cell is to gap junction as plant cell is to:</question>
+        <answer>PLASMODESMETA</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>In the double reciprocal Lineweaver-Burke plot of enzyme activity, the line passes through the ordinate, or the one over V zero, axis at:</question>
+        <w_choice>-1/Vmax (read as: minus one over VEE-max) </w_choice>
+        <x_choice>Km/Vmax (read as: Kay M over VEE-max) </x_choice>
+        <y_choice>Km/V&lt;sub&gt;0&lt;/sub&gt; (read as: Kay M over VEE-zero) </y_choice>
+        <z_choice>1/ Vmax (read as: one over VEE-max)</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A 2s orbital has 2 regions of maximum probability where electrons can be found separated by a spherical surface of 0 probability that is called what?</question>
+        <answer>NODE (ACCEPT: NODAL SURFACE)</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A tank contains the following mixture of gases: 14grams diatomic H&lt;sub&gt;2&lt;/sub&gt;, 56 grams diatomic N&lt;sub&gt;2&lt;/sub&gt;, and 8 grams diatomic He&lt;sub&gt;2&lt;/sub&gt;. To the first decimal place, what is the mole fraction of each gas in the mixture?</question>
+        <answer>H&lt;sub&gt;2&lt;/sub&gt; = 0.7; N&lt;sub&gt;2&lt;/sub&gt; = 0.2; He&lt;sub&gt;2&lt;/sub&gt; = 0.1 (ACCEPT: Hydrogen=0.7; Nitrogen=0.2; Helium=0.1)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is TRUE concerning objects moving down an inclined plane:</question>
+        <w_choice>a solid disk will roll faster than a hollow disk regardless of the mass or outer diameter of either disk </w_choice>
+        <x_choice>a hollow disk will roll faster than a solid disk regardless of the mass or outer diameter of either disk </x_choice>
+        <y_choice>regardless of the mass or outer diameter of either disk, a solid disk will roll at the same rate as a hollow cylinder </y_choice>
+        <z_choice>a solid disk will roll slower than a hollow disk of twice the mass and outer diameter of the solid disk</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Which two elements did Chadwick primarily produce when he bombarded N-14 with alpha particles in the first artificial transmutation of atoms?</question>
+        <answer>OXYGEN AND HYDROGEN</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What are probably the only particles emitted by stellar cores without being influenced appreciably by the outermost layers of the stars, and are detected by an instrument in the Homestake gold mine?</question>
+        <answer>NEUTRINOS</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In the solar neutrino detector in Lead, South Dakota, when a neutrino emitted in positron decay in the sun is captured by a Chlorine-37 nucleus, what isotope is most likely formed?</question>
+        <answer>ARGON-37</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>If the cosine &amp;theta; = 1/2 (read: &amp;theta; as theta) and &amp;theta; terminates in Quadrant I of the Cartesian coordinate system, in a unit circle find sine &amp;theta;:</question>
+        <w_choice>&amp;radic;3/(2&amp;radic;2) </w_choice>
+        <x_choice>2/&amp;radic;3 </x_choice>
+        <y_choice>&amp;radic;3/2 </y_choice>
+        <z_choice>2&amp;radic;3</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the solution set of the following inequality: x&lt;sup&gt;2&lt;/sup&gt; + 4x &amp;le; 5</question>
+        <answer>-5 &amp;le; x &amp;le; 1</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In geologic mapping, the angular difference between dip and strike is:</question>
+        <w_choice>45&amp;deg; </w_choice>
+        <x_choice>90&amp;deg; </x_choice>
+        <y_choice>180&amp;deg; </y_choice>
+        <z_choice>360&amp;deg;</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the name given to the urban microclimate whereby a region around a city remains up to several degrees warmer than the surrounding countryside, especially on warm, still summer nights?</question>
+        <answer>HEAT ISLAND (ACCEPT: HEAT ISLAND EFFECT)</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>During his work in 1892 on the liquefaction of hydrogen, what Scottish chemist invented a double-walled vacuum flask which became widely known and named in his honor?</question>
+        <answer>SIR JAMES DEWAR (ACCEPT: DEWAR)</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Order the following metals in terms of their electrical conductivities from the highest to the lowest: gold; silver; copper; aluminum</question>
+        <answer>SILVER; COPPER; GOLD; ALUMINUM</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In Java, when a class implements an interface it:</question>
+        <w_choice>may or may not choose to implement the methods defined in the interface </w_choice>
+        <x_choice>cannot implement any methods with the same signature as those defined in the interface </x_choice>
+        <y_choice>must implement all the methods defined in the interface </y_choice>
+        <z_choice>designates the user language in the interface</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What does the acronym DBCS, a language script that requires two bytes to represent a character, stand for?</question>
+        <answer>DOUBLE-BYTE CHARACTER SETS</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In many yeasts, what is the major coenzyme used in the conversion of acetaldehyde to ethanol?</question>
+        <answer>NAD (ACCEPT: NADH, NICOTINAMIDE ADENINE DINUCLEOTIDE) (DO NOT ACCEPT: NADP or NADPH)</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 molecules from the earliest step in glycolysis to the latest: [read slowly!] 3-phosphoglycerate; 1,3-diphosphoglycerate; glyceraldehyde-3-phosphate; phosphoenolpyruvate</question>
+        <answer>GLYCERALDEHYDE-3-PHOSPHATE; 1,3 DIPHOSPHOGLYCERATE; 3-PHOSPHOGLYCERATE; PHOSPHOENOLPYRUVATE</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>In the equation for Gibbs free energy, if &amp;Delta;H (read as: delta H) is positive and &amp;Delta;S (read as: delta S) is negative, then the reaction will occur:</question>
+        <w_choice>spontaneously at all temperatures </w_choice>
+        <x_choice>nonspontaneously at all temperatures </x_choice>
+        <y_choice>spontaneously only at high temperatures </y_choice>
+        <z_choice>spontaneously only at low temperatures</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 monosaccharides from the smallest to the largest: erythrose, glucose, dihydroxyacetone, xylose</question>
+        <answer>DIHYDROXYACETONE, ERYTHROSE, XYLOSE, GLUCOSE</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which law most directly states that a black body is a perfect source of thermal radiation:</question>
+        <w_choice>Carnot's law </w_choice>
+        <x_choice>Kirchoff's law </x_choice>
+        <y_choice>Planck's law </y_choice>
+        <z_choice>Dirac's law</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What are the electric charge values for up, down, and strange quarks, respectively?</question>
+        <answer>2/3; -1/3; AND -1/3</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following planets cannot come into quadrature with Earth:</question>
+        <w_choice>Mars </w_choice>
+        <x_choice>Saturn </x_choice>
+        <y_choice>Uranus </y_choice>
+        <z_choice>Venus</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Order the following planets from the one with the least number of known moons to the one with the most: Saturn, Neptune, Mars, Uranus</question>
+        <answer>MARS, NEPTUNE, URANUS, SATURN</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Assume A and B are the subsets of the universal set that contains 100 elements. If the number of elements in set A is 75, and the number of elements in set B is 25, and the number of elements in the intersection set of A and B equals 10, then how many elements are in the union set of A and B?</question>
+        <answer>90</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in the order of the 1&lt;sup&gt;st&lt;/sup&gt; row followed by the 2&lt;sup&gt;nd&lt;/sup&gt; row and in lowest common fraction form, find the inverse of the following 2-by-2 matrix: [ [3 -1] [-2 2] ] (read as: the 1&lt;sup&gt;st&lt;/sup&gt; row contain the numbers 3 and -1 and the 2&lt;sup&gt;nd&lt;/sup&gt; row contain the numbers -2 and 2)</question>
+        <answer>[ [1/2 1/4] [1/2 3/4] ] (read as: 1/2, 1/4, 1/2, 3/4) (must be in order)</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>At present estimates, the Earth's planetary albedo is estimated to be:</question>
+        <w_choice>30% </w_choice>
+        <x_choice>40% </x_choice>
+        <y_choice>50% </y_choice>
+        <z_choice>60%</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The branch of geology that deals with the study of the origin, composition, distribution, and ordering of layered sedimentary rocks is called what?</question>
+        <answer>STRATIGRAPHY</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>In a non-oligometric protein, reversible denaturation changes which of the following levels of protein structure:</question>
+        <w_choice>primary </w_choice>
+        <x_choice>amino acid sequence </x_choice>
+        <y_choice>tertiary </y_choice>
+        <z_choice>quaternary</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following structures is NOT properly matched with its function:</question>
+        <w_choice>synovial lining and joint movement </w_choice>
+        <x_choice>corpus luteum and estrogen secretion </x_choice>
+        <y_choice>chordae tendonae and connection of bones to muscles </y_choice>
+        <z_choice>intercalated disks and cardiac muscle</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A molecule that has a trigonal bipyramidal molecular geometry will have how many charge clouds around its central atom:</question>
+        <w_choice>4 </w_choice>
+        <x_choice>5 </x_choice>
+        <y_choice>6 </y_choice>
+        <z_choice>8</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Using electrophoresis at a pH of 6.0, which two of the following 5 amino acids would move the least remaining at the origin? arginine, glutamic acid, glycine, alanine, lysine?</question>
+        <answer>GLYCINE, ALANINE</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for interactions of high-energy photons and atoms that create electrons and positrons, thus providing an example of the conversion of energy to matter?</question>
+        <answer>PAIR PRODUCTION</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Rounded to the nearest whole number in kilometers per hour, what is the net ground-speed of a bird flying at 30 kilometers per hour east with a southerly crosswind of 10 kilometers per hour?</question>
+        <answer>32</answer>
+    </fullq>
+
+</round>

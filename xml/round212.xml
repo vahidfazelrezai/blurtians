@@ -1,0 +1,443 @@
+<round id='212'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Kepler's third law states that the square of a planet's period is proportional to the:</question>
+        <w_choice>cube of its average distance from the sun </w_choice>
+        <x_choice>square root of its average distance from the sun </x_choice>
+        <y_choice>cube of its average distance from its two neighboring planets </y_choice>
+        <z_choice>square of its average distance from the sun</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 categories of electromagnetic radiation from the LOWEST frequency to the HIGHEST: Ultraviolet, VHF TV, AM radio, radiation from 60 hertz AC current</question>
+        <answer>RADIATION FROM 60 HERTZ AC CURRENT; AM RADIO; VHF TV; ULTRAVIOLET</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A substance's heat of sublimation at a given temperature is equal to which of the following at the same temperature:</question>
+        <w_choice>heat of fusion </w_choice>
+        <x_choice>heat of vaporization </x_choice>
+        <y_choice>heat of fusion plus heat of vaporization </y_choice>
+        <z_choice>heat of fusion minus heat of vaporization</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 acids from the strongest to the weakest: nitric acid; perchloric acid; hydrochloric acid; acetic acid</question>
+        <answer>PERCHLORIC ACID; HYDROCHLORIC ACID; NITRIC ACID; ACETIC ACID</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following molecules is best described as recognizing a specific nucleotide sequence and sniping the DNA at or near this recognition site:</question>
+        <w_choice>restriction enzyme </w_choice>
+        <x_choice>DNA polymerase </x_choice>
+        <y_choice>RNA polymerase </y_choice>
+        <z_choice>DNA ligase</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>A double membrane is found in the:</question>
+        <w_choice>endoplasmic reticulum and nucleus </w_choice>
+        <x_choice>nucleus and golgi (pronounced: GOAL-gee) </x_choice>
+        <y_choice>lysosomes and golgi </y_choice>
+        <z_choice>nucleus and chloroplasts</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following constellations can be seen highest in the November sky of the northern hemisphere?</question>
+        <w_choice>Orion </w_choice>
+        <x_choice>Cassiopeia </x_choice>
+        <y_choice>Mensa </y_choice>
+        <z_choice>Cancer</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The Stefan-Boltzman Law states that the energy emitted from a black body varies with what power of the temperature?</question>
+        <answer>FOURTH</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following Venn diagrams would best represent a relationship where sets A and B have no elements in common:</question>
+        <w_choice>2 non-overlapping shaded circles </w_choice>
+        <x_choice>portions of circles A and B are overlapped and the intersection point is shaded </x_choice>
+        <y_choice>circle A is entirely within circle B and only circle A is shaded </y_choice>
+        <z_choice>only circle A is shown</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Use the Binomial Theorem to expand and simplify the following equation: (1 - 2x)3</question>
+        <answer> 1 - 6x + 12x2 - 8x3</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>What is the study of the size and shape of the Earth, the measurement of terrestrial gravitational forces, and the location of fixed points on the earth's surface:</question>
+        <w_choice>geography </w_choice>
+        <x_choice>geology </x_choice>
+        <y_choice>geotropy </y_choice>
+        <z_choice>geodesy</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following types of magma would LEAST likely be involved in a nonexplosive volcanic eruption:</question>
+        <w_choice>basaltic magma </w_choice>
+        <x_choice>a relatively viscous magma </x_choice>
+        <y_choice>a relatively low silica content magma </y_choice>
+        <z_choice>a relatively high-temperature magma</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A type of lens aberration whereby the lens cannot focus the image of a flat subject onto a flat surface is called:</question>
+        <w_choice>barrel distortion </w_choice>
+        <x_choice>chromatic aberration </x_choice>
+        <y_choice>field curvature </y_choice>
+        <z_choice>spherical aberration</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>One of the major challenges to making more accurate atomic clocks was:</question>
+        <w_choice>high atomic frequencies were difficult to monitor </w_choice>
+        <x_choice>maintaining constant atomic vibrations </x_choice>
+        <y_choice>finding pure elementary samples for studies </y_choice>
+        <z_choice>cosmic ray interference disrupts the accurate measurements of atomic vibrations</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A hardware frame and set of electrical connection interfaces that enable a notebook computer to effectively serve as a desktop computer is called a:</question>
+        <w_choice>docking station </w_choice>
+        <x_choice>local bus </x_choice>
+        <y_choice>proxy interface </y_choice>
+        <z_choice>swapping deck</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A client-server architecture is also known as:</question>
+        <w_choice>peer-to-peer architecture </w_choice>
+        <x_choice>mainframe architecture </x_choice>
+        <y_choice>two-tier architecture </y_choice>
+        <z_choice>docking architecture</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the resistance, in ohms, of an electric curling iron that draws 10 amps on a 120 volt line?</question>
+        <answer>12</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Consider a marble rolling in a straight path at 25 meters per second that slows to 15 meters per second in 5 seconds. In meters per second squared, what is the marble's average acceleration?</question>
+        <answer>-2 (DO NOT ACCEPT: 2 OR +2)</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>In the equation for Gibbs-free energy, if &amp;Delta;H (read as: delta H) of a reaction is negative and &amp;Delta;S (read as: delta S) is negative, then the reaction will occur:</question>
+        <w_choice>spontaneously at all temperatures </w_choice>
+        <x_choice>nonspontaneously at all temperatures </x_choice>
+        <y_choice>spontaneously only at high temperatures </y_choice>
+        <z_choice>spontaneously only at low temperatures</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Heating ethylene in the presence of water vapor at 300&amp;deg;C and under high pressure, is a common industrial method of producing billions of pounds of what substance?</question>
+        <answer>ETHANOL (ACCEPT: ETHYL ALCOHOL)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following cells would NOT typically be found in the peripheral circulation:</question>
+        <w_choice>Polymorphonuclear leukocyte </w_choice>
+        <x_choice>plasma cell </x_choice>
+        <y_choice>reticulocyte </y_choice>
+        <z_choice>erythroblasts</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>The coat of a plant seed is typically derived from which of the following:</question>
+        <w_choice>the hypoderm </w_choice>
+        <x_choice>the carpel </x_choice>
+        <y_choice>the micropyle </y_choice>
+        <z_choice>the integument</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>How many degrees of arc are in 6 hours of right ascension?</question>
+        <answer>90 DEGREES</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which 2 of the following 5 minor planets have the largest diameters: Eros, Juno, Ceres, Amor, Apollo</question>
+        <answer>CERES AND JUNO</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following angles would be located in Quadrant IV of a rectangular coordinate system:</question>
+        <w_choice>2/3 rev </w_choice>
+        <x_choice>-480&amp;deg; </x_choice>
+        <y_choice>3/16 rev </y_choice>
+        <z_choice>0.8 rev</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In the following number sequence, what are the values for a, b and c: a, b, 38, 22, 14, 10, c</question>
+        <answer>a = 134; b = 70; c = 8</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A number of "8" on the Beaufort Scale indicates a wind speed of:</question>
+        <w_choice>7 - 10 knots </w_choice>
+        <x_choice>17 - 21 knots </x_choice>
+        <y_choice>34 - 40 knots </y_choice>
+        <z_choice>40 - 64 knots</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In what 5-year period did the U.S. experience the highest level of North Atlantic hurricane activity:</question>
+        <w_choice>1970 - 1975 </w_choice>
+        <x_choice>1980 - 1985 </x_choice>
+        <y_choice>1985 - 1990 </y_choice>
+        <z_choice>1995 - 2000</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In the oceanic ecosystem, which zone is defined by the depth of light penetration:</question>
+        <w_choice>probiotic </w_choice>
+        <x_choice>euphotic </x_choice>
+        <y_choice>photobiotic </y_choice>
+        <z_choice>bathyal</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Most manufactured glass used to make bottles, tableware, lamp bulbs, and window and plate glass, is of what composition:</question>
+        <w_choice>potassium silicate </w_choice>
+        <x_choice>borosilicate </x_choice>
+        <y_choice>soda-lime </y_choice>
+        <z_choice>lead</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT a protocol associated with the workings of the internet:</question>
+        <w_choice>POP3 </w_choice>
+        <x_choice>FTP </x_choice>
+        <y_choice>HTML </y_choice>
+        <z_choice>TFT</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>In the BASIC programming language, what does the acronym BASIC stand for?</question>
+        <answer>BEGINNERS ALL-PURPOSE SYMBOLIC INSTRUCTIONAL CODE</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Wein's law expresses the relationship between the wavelength at the peak emission in black body radiation and:</question>
+        <w_choice>the change in pressure </w_choice>
+        <x_choice>the black body's structure </x_choice>
+        <y_choice>the temperature in Kelvins </y_choice>
+        <z_choice>the interference patterns of associated electrons</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming g = 10.0 m/sec&lt;sup&gt;2&lt;/sup&gt; and friction is 0, if a rock is thrown vertically upward at 10.0 m/sec, how far up in meters will it be after 1 second?</question>
+        <answer>5 METERS</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A ketone is a class of compounds that contains a carbonyl group bonded to:</question>
+        <w_choice>2 carbon atoms </w_choice>
+        <x_choice>2 hydrogen atoms </x_choice>
+        <y_choice>2 nitrogen atoms </y_choice>
+        <z_choice>1 hydrogen and 1 carbon atom</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the primary product produced when ethyl alcohol is heated to 170&amp;deg;C in the presence of 95% sulfuric acid?</question>
+        <answer>ETHYLENE</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Of the primary, secondary, tertiary and quaternary levels of protein structure, at what level would a beta-pleated sheet be placed?</question>
+        <answer>SECONDARY</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Exchange of DNA among chromosomes occurs in what phase of meiosis-one?</question>
+        <answer>PROPHASE (ACCEPT: PROPHASE-ONE)</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the most common statistical term for the assumption, when comparing sample means, that there is no significant difference between the two samples?</question>
+        <answer>NULL HYPOTHESIS</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Using the Cartesian coordinate system, find the distance between the points (-4, 3) and (2, 6):</question>
+        <w_choice>3&amp;radic;5 </w_choice>
+        <x_choice>&amp;radic;12 </x_choice>
+        <y_choice>3 </y_choice>
+        <z_choice>5&amp;radic;3</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT associated with sedimentary rocks:</question>
+        <w_choice>bedding </w_choice>
+        <x_choice>fossils </x_choice>
+        <y_choice>foliation </y_choice>
+        <z_choice>ripple marks</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Also known as mock suns or parhelia, what is the name for a pair of brightly colored spots, one on either side of the sun, that are caused by sunlight passing through a thin layer of ice crystals:</question>
+        <w_choice>sun pillars </w_choice>
+        <x_choice>cloud iridescence </x_choice>
+        <y_choice>sundogs </y_choice>
+        <z_choice>silver lining</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Rust is a plant disease that attacks cereal plants such as wheat and rye and is caused by a:</question>
+        <w_choice>virus </w_choice>
+        <x_choice>larval insect </x_choice>
+        <y_choice>bacterium </y_choice>
+        <z_choice>fungus</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Thin layer chromatography most commonly employs what substance as the matrix for the chromatographic separation?</question>
+        <answer>SILICA (ACCEPT: SILICA GEL)</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Fermi noted that the biggest advantage of bombarding nuclei with neutrons was because:</question>
+        <w_choice>they have no electric charge </w_choice>
+        <x_choice>they were easily produced in large numbers </x_choice>
+        <y_choice>they often interacted with electrons </y_choice>
+        <z_choice>they seldom had enough energy to split the nucleus</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the name of the particle detector in Ontario that is buried 2 kilometers underground in a nickel mine?</question>
+        <answer>SNO (ACCEPT: SUDBURY NEUTRINO DETECTOR OR SUDBURY NEUTRINO OBSERVATORY)</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of these substances is NOT attacked by hydrochloric acid:</question>
+        <w_choice>iron </w_choice>
+        <x_choice>calcite </x_choice>
+        <y_choice>barium phosphate </y_choice>
+        <z_choice>n-heptane</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A chemical reaction in which esters are hydrolyzed under basic conditions to give an alcohol and a salt of the acid is generally known as what type of reaction?</question>
+        <answer>SAPONIFICATION</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>The most common method used by Beadle and Tatum in generating mutant molds for their metabolic studies was to expose the molds to what?</question>
+        <answer>X-RAYS</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which 2 of the following 4 amino acids contain nonpolar R groups? serine; glutamine; leucine; (read as: lew-seen), phenylalanine (read as: FEE-nal-AL-a-neen)</question>
+        <answer>LEUCINE; PHENYLALANINE</answer>
+    </fullq>
+
+</round>

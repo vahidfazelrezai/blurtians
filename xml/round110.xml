@@ -1,0 +1,431 @@
+<round id='110'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>With which of the following does human interstitial fluid differ in concentration the most when compared with plasma:</question>
+        <w_choice>sodium ions</w_choice>
+        <x_choice>potassium ions </x_choice>
+        <y_choice>magnesium ions </y_choice>
+        <z_choice>proteins</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What human organ produces the majority of immune complement proteins?</question>
+        <answer>LIVER</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a diprotic acid:</question>
+        <w_choice>H&lt;sub&gt;2&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; </w_choice>
+        <x_choice>H&lt;sub&gt;3&lt;/sub&gt;PO&lt;sub&gt;4&lt;/sub&gt;</x_choice>
+        <y_choice>HCl</y_choice>
+        <z_choice>HNO&lt;sub&gt;2&lt;/sub&gt;</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following statements is NOT true:</question>
+        <w_choice>an ideal gas cannot undergo condensation</w_choice>
+        <x_choice>the less mass a particle has, the faster it will effuse</x_choice>
+        <y_choice>when a gas is compressed, its temperature always increases</y_choice>
+        <z_choice>a gas is easier to compress than a liquid</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes the most common functions for which most transistors are used:</question>
+        <w_choice>to switch on and off or amplify electronic signals</w_choice>
+        <x_choice>to allow electric current to pass in only one direction while increasing or decreasing the voltage </x_choice>
+        <y_choice>to store electrical energy</y_choice>
+        <z_choice>to regulate the frequency of electrical sine waves</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the abbreviated name of the most common field effect transistor in modern electronic circuitry:</question>
+        <w_choice>DET</w_choice>
+        <x_choice>MOSFET </x_choice>
+        <y_choice>BJT</y_choice>
+        <z_choice>BFET</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the cotangent and cosecant, respectively, of a 90&amp;deg; angle:</question>
+        <answer>COTAN = 0; COSECANT = 1</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following points is closest to the point (1, –2):</question>
+        <w_choice>(3, –5) </w_choice>
+        <x_choice>(0, 3) </x_choice>
+        <y_choice>(3, 0) </y_choice>
+        <z_choice>(–5, –5)</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following lakes in North America would you typically find a thriving community of halophiles and alkaliphiles:</question>
+        <w_choice>Lake Michigan</w_choice>
+        <x_choice>Mono Lake, California</x_choice>
+        <y_choice>Great Slave Lake, Canada </y_choice>
+        <z_choice>Lake Powell, Utah/Arizona</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST explains why Mono Lake in California is hypersaline:</question>
+        <w_choice>it has no outlet and a high evaporation rate</w_choice>
+        <x_choice>it is subject to extreme saltwater intrusion emanating from a vast system of underground aquifers</x_choice>
+        <y_choice>it is underlain by massive salt domes formed 250 million years ago</y_choice>
+        <z_choice>it has been subjected to periodic eruptions of volcanic ash</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Most VOC’s, or volatile organic compounds, are:</question>
+        <w_choice>hydrocarbons</w_choice>
+        <x_choice>oxides</x_choice>
+        <y_choice>nitrogenous wastes</y_choice>
+        <z_choice>particulates</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>ntains 50 micrograms of an enzyme. What is the enzyme concentration in parts per million?</question>
+        <answer>2,000 (ACCEPT: 2 × 10&lt;sup&gt;3&lt;/sup&gt;)</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What specific class of stars was discovered by Henrietta Leavitt to have special properties that allowed it to be used in measuring long astronomical distances?</question>
+        <answer>CEPHEID VARIABLES</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following most directly addresses that a gas of low density, when excited, will emit light of a certain wavelength:</question>
+        <w_choice>Kirchhoff’s second law </w_choice>
+        <x_choice>Bode’s second law</x_choice>
+        <y_choice>Wien’s law</y_choice>
+        <z_choice>Balmer’s law</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following molecules would have the most peptide bonds:</question>
+        <w_choice>glycogen </w_choice>
+        <x_choice>hemoglobin </x_choice>
+        <y_choice>lecithin</y_choice>
+        <z_choice>DNA</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 substances that would typically be considered exocrine products: insulin; pepsin; hemoglobin; epinephrine</question>
+        <answer>PEPSIN</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following would be LEAST applicable for determining the end point in a titration experiment:</question>
+        <w_choice>pH meter</w_choice>
+        <x_choice>phenolphthalein (read as: fee-knoll-THAY-lean) solution </x_choice>
+        <y_choice>potentiometer</y_choice>
+        <z_choice>mass spectrometry</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following gases will have the LOWEST freezing point:</question>
+        <w_choice>hydrogen</w_choice>
+        <x_choice>water</x_choice>
+        <y_choice>helium</y_choice>
+        <z_choice>carbon dioxide</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>By what factor will the gravitational attraction between two masses be multiplied, if the distance between their centers of mass remains the same, but the mass of one doubles?</question>
+        <answer>2 TIMES (ACCEPT: 2 or DOUBLES)</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following occurs when a glass tube is rubbed with a silk cloth:</question>
+        <w_choice>protons are transferred from the silk to the glass tube </w_choice>
+        <x_choice>protons are transferred from the glass tube to the silk </x_choice>
+        <y_choice>electrons are transferred from the silk to the glass tube </y_choice>
+        <z_choice>electrons are transferred from the glass tube to the silk</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What are the leading coefficient and degree, respectively, of the following polynomial: 3x&lt;sup&gt;2&lt;/sup&gt; – 6x&lt;sup&gt;5&lt;/sup&gt; + 7</question>
+        <answer>LEADING COEFFICIENT = –6; DEGREE = 5</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The terminal side of angle &amp;#952; (read as: theta) in standard position passes through the point (–5, 12). Find the sine, cosine and tangent, in fractional form:</question>
+        <answer>SIN= 12/13; COS= −5/13; TAN= −12/5</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is both fluorescent and radioactive:</question>
+        <w_choice>calcite </w_choice>
+        <x_choice>halite </x_choice>
+        <y_choice>talc</y_choice>
+        <z_choice>zircon</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following both have very similar chemical compositions but exhibit different colors:</question>
+        <w_choice>ruby and sapphire </w_choice>
+        <x_choice>opal and pearl</x_choice>
+        <y_choice>diamond and quartz </y_choice>
+        <z_choice>amber and citrine</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following has the largest seasonal hypoxic zone in coastal waters of the western hemisphere:</question>
+        <w_choice>the Chesapeake Bay </w_choice>
+        <x_choice>the Gulf of Maine </x_choice>
+        <y_choice>the Gulf of Mexico </y_choice>
+        <z_choice>Hudson Bay</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The hypoxic zone in the Gulf of Mexico, and many other areas in the world, is largely caused by the influx of which of the following into waterways:</question>
+        <w_choice>phosphorous</w_choice>
+        <x_choice>nitrogen</x_choice>
+        <y_choice>potassium</y_choice>
+        <z_choice>sulfur</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of coronal mass ejections:</question>
+        <w_choice>they can lead to a loss in radio communications</w_choice>
+        <x_choice>they can indirectly cause damage to electrical transformers</x_choice>
+        <y_choice>they typically will not damage space-based satellites</y_choice>
+        <z_choice>the next peak of ejections will likely be during the years 2010 to 2012</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Choosing from upper left, upper right, lower left, and lower right, where on the HR diagram would a blue Supergiant be found?</question>
+        <answer>UPPER LEFT</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the common name for the units in DNA to which phosphates are covalently linked?</question>
+        <answer>RIBOSE SUGARS (ACCEPT: PENTOSE SUGARS or SUGARS or DEOXYRIBOSE SUGARS)</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is LEAST accurate regarding human genetics:</question>
+        <w_choice>genes from gametes are typically unchanged during their passage to the zygote </w_choice>
+        <x_choice>the zygote gets 1 allele from each parental gene pair</x_choice>
+        <y_choice>all genes independently segregate</y_choice>
+        <z_choice>the number of copies of a particular gene can vary among individuals</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a substance that is very reactive with the oxygen in air and must be stored under water or some other substance to keep it from becoming incendiary:</question>
+        <w_choice>fullerene</w_choice>
+        <x_choice>white phosphorous </x_choice>
+        <y_choice>calcium fluoride </y_choice>
+        <z_choice>calcium oxide</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes the catalyst in the destruction of ozone by chlorofluorocarbons:</question>
+        <w_choice>homogeneous </w_choice>
+        <x_choice>heterogeneous </x_choice>
+        <y_choice>enzymatic</y_choice>
+        <z_choice>autocatalytic</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes how and why electrical resistance is related to temperature:</question>
+        <w_choice>as temperature increases, resistance decreases because electrons move faster</w_choice>
+        <x_choice>as temperature increases, resistance decreases because electrons are lost from the conductor</x_choice>
+        <y_choice>as temperature increases, resistance increases because protons move faster</y_choice>
+        <z_choice>as temperature increases, resistance increases because atoms vibrate more, increasing electron scattering</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>A 10-kilogram hay bale is raised to 5 meters above a barn floor and is then lowered to 4 meters below the floor. Relative to its starting position on the floor, what is the final gravitational potential energy of the bale, in joules, if g is rounded to the first decimal place?</question>
+        <answer>–392 (must give negative value) (ACCEPT: 392 JOULES LESS)</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Identify the type of conic section represented by the equation, x&lt;sup&gt;2&lt;/sup&gt; – 16y&lt;sup&gt;2&lt;/sup&gt; = 64:</question>
+        <answer>HYPERBOLA</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in millimeters squared, find the lateral surface area of a right pentagonal prism whose altitude is 12 millimeters and base has sides of length 8, 10, 12, 14, and 16 millimeters, respectively:</question>
+        <answer>720</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Aeolian sandstones are produced primarily by sand grain motion as a result of:</question>
+        <w_choice>river currents </w_choice>
+        <x_choice>ocean currents </x_choice>
+        <y_choice>glacial transports </y_choice>
+        <z_choice>winds</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>According to the Continental Drift Theory, Australia remained attached to Antarctica until the 2 entities drifted apart about how many million years ago:</question>
+        <w_choice>80</w_choice>
+        <x_choice>120</x_choice>
+        <y_choice>250</y_choice>
+        <z_choice>350</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>From which of the following sources is the food additive carrageenan (read as: carr-ah-GEE-nan) derived:</question>
+        <w_choice>petroleum</w_choice>
+        <x_choice>seaweed</x_choice>
+        <y_choice>corn husks </y_choice>
+        <z_choice>yarrow root</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>When emissions of nitrogen oxides and VOC’s react in the presence of sunlight, what ground-level pollutant is formed?</question>
+        <answer>OZONE (ACCEPT: O&lt;sub&gt;3&lt;/sub&gt;)</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What 2 planets of our solar system are most alike in elemental makeup to the solar nebula?</question>
+        <answer>JUPITER; SATURN</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 stars from the HOTTEST to the COOLEST: K-3; K-2; B-7; M-10</question>
+        <answer>B-7; K-2; K-3; M-10</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the specific type of protein from which spindle fibers are composed?</question>
+        <answer>TUBULIN (ACCEPT: ALPHA AND/OR BETA TUBULIN)</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 diseases that are caused by protists: botulism; rabies; typhoid fever; toxoplasmosis</question>
+        <answer>TOXOPLASMOSIS</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the most common term for the direct addition of water to an alkene (read as: al-KEEN) to make an alcohol?</question>
+        <answer>HYDRATION</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Under constant temperatures, a sample of gas at a pressure of 120 kilopascals is allowed to expand from 2 liters to 8 liters. Calculate the new pressure, in kilopascals:</question>
+        <answer>30</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Which of the 4 basic forces of the universe is most directly related to the ability of various metals to be hammered and formed into various shapes?</question>
+        <answer>ELECTROMAGNETIC (FORCE)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Given that the speed of sound at 0&amp;deg;C at sea level in dry air is 331 meters per second, what is the speed of sound through dry air at sea level, giving your answer in proper SI units rounded to the nearest whole number, if the temperature of the air is 12&amp;deg;C?</question>
+        <answer>338 METERS PER SECOND (must give units)</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What class of immunoglobulins is most directly responsible for hay fever and common allergies in humans?</question>
+        <answer>IGE (ACCEPT: E or IMMUNOGLOBULIN E)</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 cells that typically possess mitochondria: erythrocytes; plasma cells; lymphocytes; neurons</question>
+        <answer>PLASMA CELLS; LYMPHOCYTES; NEURONS (ACCEPT: ALL BUT ERYTHROCYTES)</answer>
+    </fullq>
+
+</round>

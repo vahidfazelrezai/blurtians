@@ -1,0 +1,387 @@
+<round id='101'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common term used in genetics to describe the observable physical characteristics of an organism caused by the expression of a gene or set of genes?</question>
+        <answer>PHENOTYPE</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the biological term most often used for the act of a cell engulfing a particle by extending its pseudopodia (read as: SU-doe-POH-dee-ah) around the particle?</question>
+        <answer>PHAGOCYTOSIS</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>An aqueous solution in which the concentration of OH&lt;sup&gt;-&lt;/sup&gt; ions is greater than that of H&lt;sup&gt;+&lt;/sup&gt; ions is:</question>
+        <w_choice>basic</w_choice>
+        <x_choice>acidic</x_choice>
+        <y_choice>neutral</y_choice>
+        <z_choice>in equilibrium</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Find the mass of 1 mole of cuprous oxide, or Cu&lt;sub&gt;2&lt;/sub&gt;O. Assume the atomic mass of copper is 64 and oxygen is 16.</question>
+        <answer>144</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What property of a sound wave is most commonly associated with loudness?</question>
+        <answer>AMPLITUDE</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the MOST common term for the behavior of light where it appears to bend around small obstacles or the spreading out of waves as light passes through pinholes or slits?</question>
+        <answer>DIFFRACTION</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What term BEST describes 2 angles with 90&amp;deg; as the sum of their measurements?</question>
+        <answer>COMPLEMENTARY</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Divide the following and give your answer in scientific notation: 8×10&lt;sup&gt;7&lt;/sup&gt; / (4×10&lt;sup&gt;4&lt;/sup&gt;)&lt;sup&gt;(1/2)&lt;/sup&gt;</question>
+        <answer>4 × 10&lt;sup&gt;5&lt;/sup&gt;</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The overall charge at the top and bottom, respectively, of a towering cumulonimbus cloud during a thunderstorm is:</question>
+        <w_choice>positive, positive </w_choice>
+        <x_choice>positive, negative </x_choice>
+        <y_choice>negative, positive </y_choice>
+        <z_choice>negative, negative</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A lightning bolt is seen and its accompanying thunder is heard 15 seconds later. This means the storm is most likely how many miles away:</question>
+        <w_choice>3 </w_choice>
+        <x_choice>6 </x_choice>
+        <y_choice>9 </y_choice>
+        <z_choice>15</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>How many significant figures are in the number 0.00750? </question>
+        <answer>3</answer>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Subtract the following 2 numbers and give your answer with the proper significant figures: 25.101 – 0.9608</question>
+        <answer>24.140</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the proper name of the star that is most commonly noted to have coordinates closest to the north celestial pole?</question>
+        <answer>NORTH STAR (ACCEPT: POLARIS or ALPHA URSA MINORIS)</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the most well-known asterism in Ursa Major? </question>
+        <answer>BIG DIPPER</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Human epidermis is mostly composed of which of the following basic animal tissues types:</question>
+        <w_choice>epithelial </w_choice>
+        <x_choice>connective </x_choice>
+        <y_choice>nervous </y_choice>
+        <z_choice>muscle</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What are the 2 basic categories of lymphocyte cells? </question>
+        <answer>T AND B (ACCEPT: B AND T CELLS)</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What general type of bonding is found in molecules in which electrons are shared by nuclei?</question>
+        <answer>COVALENT</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 processes where latent heat is absorbed: evaporation; condensation; water melts; water freezes</question>
+        <answer>EVAPORATION; WATER MELTS</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Although not known as such at the time, what was the first form of spectacular electric discharge seen by humans?</question>
+        <answer>LIGHTNING</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>A constant force acting on a body experiencing no change in its environment will give the body:</question>
+        <w_choice>constant acceleration </w_choice>
+        <x_choice>constant speed</x_choice>
+        <y_choice>constant velocity</y_choice>
+        <z_choice>zero acceleration</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify the following expression, where a is not equal to zero if b = 0 or if b=–1: (a&lt;sup&gt;b^2&lt;/sup&gt;)(a&lt;sup&gt;b&lt;/sup&gt;)</question>
+        <answer>a&lt;sup&gt;b^2+b&lt;/sup&gt;</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in inches and in simplest radical form, if the hypotenuse of a 45-45-90&amp;#176; triangle is 10 inches, find the length of the other sides: </question>
+        <answer>5&amp;radic;2 (ACCEPT: BOTH 5&amp;radic;2 )</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a sedimentary rock:</question>
+        <w_choice>slate</w_choice>
+        <x_choice>marble</x_choice>
+        <y_choice>basalt</y_choice>
+        <z_choice>sandstone</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is LEAST accurate about minerals:</question>
+        <w_choice>calcite has a hardness of 3 on most of its surfaces but a hardness of 4 along the crystal face perpendicular to its long axis</w_choice>
+        <x_choice>the Moh’s scale measures the absolute hardness of minerals</x_choice>
+        <y_choice>a mineral’s chemical composition largely determines its crystal shape and cleavage pattern</y_choice>
+        <z_choice>a mineral’s color is the same as its streak</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is closest to the meaning of the suffix ‘lith’:</question>
+        <w_choice>outside</w_choice>
+        <x_choice>stone</x_choice>
+        <y_choice>side</y_choice>
+        <z_choice>surface</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Rounded to the nearest whole number, how many feet does light travel in one-billionth of one second?</question>
+        <answer>1</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What star has the greatest apparent magnitude?</question>
+        <answer>SUN</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What planet is known to be most like Earth in size and density?</question>
+        <answer>VENUS</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>How many embryonic seed leaves does a bean seedling have?</question>
+        <answer>2</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 5 plants that are dicots: wheat; geranium; garlic; bamboo; rose</question>
+        <answer>GERANIUM; ROSE</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a metallic element, composes about 5% of the Earth’s crust, oxidizes very easily, and when pure is a dark, silver-grey metal:</question>
+        <w_choice>cobalt</w_choice>
+        <x_choice>nickel</x_choice>
+        <y_choice>iron</y_choice>
+        <z_choice>titanium</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In general, metals are relatively hard except for what group of metals in the Periodic Table?</question>
+        <answer>ONE (ACCEPT: GROUP 1A or ALKALI METALS)</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Upon which of the following does the mass of a body MOST directly depend:</question>
+        <w_choice>its magnetic properties</w_choice>
+        <x_choice>how much volume it has</x_choice>
+        <y_choice>the amount of matter it contains</y_choice>
+        <z_choice>its location</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Mary and Joe are on a merry-go-round. Mary is seated near the center of rotation and Joe is on the outer edge. Which of the following BEST describes their motion:</question>
+        <w_choice>Mary has a greater acceleration than Joe</w_choice>
+        <x_choice>Joe has a greater acceleration than Mary</x_choice>
+        <y_choice>neither Mary nor Joe are accelerating</y_choice>
+        <z_choice>both Mary and Joe have the same acceleration</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in terms of &amp;pi; and in inches, what is the arc-length of a semi-circle whose diameter is 18 inches?</question>
+        <answer>9&amp;pi;</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the area, in square feet, of a triangle whose perpendicular height is 20 feet with a base of 12 feet?</question>
+        <answer>120</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following terms best describes the albedo of a planet:</question>
+        <w_choice>electromagnetic energy</w_choice>
+        <x_choice>density</x_choice>
+        <y_choice>reflectivity</y_choice>
+        <z_choice>absorption</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of what occurs during an equinox:</question>
+        <w_choice>equal length of day and night except at the poles</w_choice>
+        <x_choice>the Earth is not tilted with respect to the ecliptic</x_choice>
+        <y_choice>the Sun is directly overhead at the equator</y_choice>
+        <z_choice>the Moon is directly overhead at the poles</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What gas is most directly responsible for the bends or decompression sickness that divers may experience?</question>
+        <answer>NITROGEN (ACCEPT: N&lt;sub&gt;2&lt;/sub&gt;)</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>In degrees Celsius to the nearest whole number, what is the normal core body temperature of a human being?</question>
+        <answer>37</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the declination of the north celestial pole?</question>
+        <answer>90 (ACCEPT: +90)</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The Sagittarius Arm is part of what galaxy?</question>
+        <answer>THE MILKY WAY</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>If a plant had a taproot, it would also most likely have:</question>
+        <w_choice>parallel leaf venation</w_choice>
+        <x_choice>two cotyledons in its seedling stage</x_choice>
+        <y_choice>diffusely arranged vascular bundles in its stem</y_choice>
+        <z_choice>no stomata on the upper surfaces of its leaves</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Using the traditional system of classification, when organisms belong to the same class, name all of the following 4 taxonomic categories to which they must also belong: order; family; phylum; kingdom</question>
+        <answer>PHYLUM; KINGDOM</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>According to standard chemical nomenclature and indicating the proper charge, what is the formula for hydrogen sulfide?</question>
+        <answer>H&lt;sub&gt;2&lt;/sub&gt;S</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Of the following group of 4 cations, which are the LARGEST and SMALLEST ions, respectively: K&lt;sup&gt;+&lt;/sup&gt;; Na&lt;sup&gt;+&lt;/sup&gt;; Rb&lt;sup&gt;+&lt;/sup&gt;; Li&lt;sup&gt;+&lt;/sup&gt;</question>
+        <answer>LARGEST = Rb&lt;sup&gt;+&lt;/sup&gt;; SMALLEST = Li&lt;sup&gt;+&lt;/sup&gt; (ACCEPT: RUBIDIUM AND LITHIUM)</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Martin is swinging a yo-yo in a large room with a circular motion perpendicular to a level floor. If the yo-yo breaks away from its string at the top of the yo-yo’s circular path, in what direction will the yo-yo initially move:</question>
+        <w_choice>at an angle between horizontal and vertical</w_choice>
+        <x_choice>straight up, toward the ceiling</x_choice>
+        <y_choice>straight down, to the floor</y_choice>
+        <z_choice>horizontally, tangent to its original circular path</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the BEST term for the tendency of any mass at rest to remain at rest?</question>
+        <answer>INERTIA</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the genus name of the most thoroughly studied bacterium?</question>
+        <answer>Escherichia</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 3 processes that do NOT occur in E. coli: glycolysis; photosynthesis; glycogenolysis (read as: GLYKO-jen-oh-LY-sis)</question>
+        <answer>PHOTOSYNTHESIS</answer>
+    </fullq>
+
+</round>

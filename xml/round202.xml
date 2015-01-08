@@ -1,0 +1,395 @@
+<round id='202'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The First Law of Thermodynamics equates:</question>
+        <w_choice>velocity and pressure </w_choice>
+        <x_choice>entropy and energy </x_choice>
+        <y_choice>heat and work </y_choice>
+        <z_choice>temperature and energy</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Convert an atmospheric pressure of 0.25 atmospheres into mm Hg:</question>
+        <answer>190</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the common name for the instrument consisting of a weighted glass tube or bulb which, when floated in a liquid, indicates the liquid's relative density?</question>
+        <answer>HYDROMETER</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>According to conventional nomenclature of nuclear science, what case and letter is used to symbolize mass number?</question>
+        <answer>UPPER CASE A</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Biologists usually refer to the head of a tapeworm by what name?</question>
+        <answer>SCOLEX</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>What is the joint that is formed by the articulation of the tibia, fibula, and femur:</question>
+        <w_choice>wrist </w_choice>
+        <x_choice>knee </x_choice>
+        <y_choice>elbow </y_choice>
+        <z_choice>ankle</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Olympus Mons, one of the largest volcanoes in our solar system, is located on which planet:</question>
+        <w_choice>Mars </w_choice>
+        <x_choice>Venus </x_choice>
+        <y_choice>Titan </y_choice>
+        <z_choice>Callisto</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Name the Greek astronomer who ranked the naked-eye stars into six groups of relative brightness in the second century B.C.?</question>
+        <answer>HIPPARCHUS</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>The number 22.5 is 5 percent of what number?</question>
+        <answer>450</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following numbers is divisible by 9:</question>
+        <w_choice>3191 </w_choice>
+        <x_choice>3527 </x_choice>
+        <y_choice>212,526 </y_choice>
+        <z_choice>439,327</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Many large volcanoes are marked near their summit by a large, basin-shaped volcanic depression, more or less circular in form and steep-walled, which is called?</question>
+        <answer>CALDERA</answer>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The governing factor that controls flow within the Hydrologic System is:</question>
+        <w_choice>humidity </w_choice>
+        <x_choice>capillary pressure </x_choice>
+        <y_choice>vapor pressure </y_choice>
+        <z_choice>gravity</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>How many significant figures are in the number 3.8400 x 10&lt;sup&gt;4&lt;/sup&gt;? (read as: three point eight four zero zero times ten to the fourth power)</question>
+        <answer>5</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>To the nearest gram, convert 20 ounces into grams:</question>
+        <answer>567 (ACCEPT: 566 - 568)</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following would offer the most protection against power-failure data loss:</question>
+        <w_choice>UPS </w_choice>
+        <x_choice>surge protector </x_choice>
+        <y_choice>data backup </y_choice>
+        <z_choice>line conditioner</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the name for the measure of memory or storage capacity that is equal to 2 to the 40th power bytes or, in decimal, approximately a thousand gigabytes?</question>
+        <answer>TERABYTE</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Acid rain, a major environmental problem, results primarily from the production of what aqueous acid?</question>
+        <answer>SULFURIC ACID (ACCEPT: H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;)</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the name for the apparatus commonly found in chemistry labs that is designed to store materials in dry air that consists of a glass bowl, an air-tight lid, and a place where a drying agent, such as silica gel, is placed:</question>
+        <answer>DESSICATOR</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the most common term for a change in velocity divided by the time it takes to make the change?</question>
+        <answer>AVERAGE ACCELERATION</answer>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>How would one compute the change in centripetal force if an object moving with uniform circular motion triples its radius while maintaining the same kinetic energy:</question>
+        <w_choice>multiplying by 3 </w_choice>
+        <x_choice>dividing by 3 </x_choice>
+        <y_choice>multiplying by 9 </y_choice>
+        <z_choice>dividing by 9</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Where is intercellular fluid normally found?</question>
+        <answer>OUTSIDE OF CELLS (ACCEPT: IN BETWEEN CELLS OR IN THE INTERSTITIUM)</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Koch's (read as: Coke's) Postulates have to do mainly with which of the following:</question>
+        <w_choice>culturing of viruses </w_choice>
+        <x_choice>causative agents of viral diseases </x_choice>
+        <y_choice>proving what bacterial agents cause what diseases </y_choice>
+        <z_choice>how to prove that a certain gene causes a certain disease</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>How many Viking spacecraft have landed on Mars?</question>
+        <answer>2</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which star is the next nearest neighbor to the Sun beyond the Alpha Centauri system having the largest known proper motion of any star:</question>
+        <w_choice>Wolf 359 </w_choice>
+        <x_choice>Sirius </x_choice>
+        <y_choice>Barnard's Star </y_choice>
+        <z_choice>61 Cygni</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a rational number:</question>
+        <w_choice>1+&amp;radic;4 </w_choice>
+        <x_choice>2+&amp;radic;5 </x_choice>
+        <y_choice>&amp;radic;6 </y_choice>
+        <z_choice>&amp;pi;</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If the average of 5 numbers is 16, what is the sum of the 5 numbers?</question>
+        <answer>80</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the name of the layer lying between the base of the Earth's lithosphere and a depth of about 2900 kilometers, where rock exists in a hot, weak, plastic- like form?</question>
+        <answer>ASTHENOSPHERE</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following geological periods is oldest?</question>
+        <w_choice>Cambrian </w_choice>
+        <x_choice>Cretaceous </x_choice>
+        <y_choice>Tertiary </y_choice>
+        <z_choice>Devonian</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Pure gold is how many karats?</question>
+        <answer>24</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>How many yards are in 1 rod?</question>
+        <answer>5.5</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What does the acronym SRAM stand for?</question>
+        <answer>STATIC RANDOM ACCESS MEMORY</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>What is the hexadecimal equivalent of the binary number 1011 (read as: one, zero, one, one)?</question>
+        <w_choice>7 </w_choice>
+        <x_choice>8 </x_choice>
+        <y_choice>A </y_choice>
+        <z_choice>B</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which acid-base theory states that any molecule or ion that can produce a proton is an acid, and any that can take up a proton is a base:</question>
+        <answer>BRONSTED-LOWRY THEORY (ACCEPT: BRONSTED)</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What general chemical term best describes a metal that can be drawn out into thin wire or threads without breaking?</question>
+        <answer>DUCTILE</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>When mixing equal proportions of green and red light, what color light is produced?</question>
+        <answer>YELLOW</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>For an electric saw that draws 8 amps on a 120 volt line, what is the resistance of the saw?</question>
+        <answer>15 OHMS</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>The stigma, style, and ovary make up what part of a plant?</question>
+        <answer>CARPEL (ACCEPT: PISTIL)</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Microtubules, intermediate filaments, and microfilaments are integral components of what basic infrastructure of a eukaryotic cell?</question>
+        <w_choice>flagella </w_choice>
+        <x_choice>cillia </x_choice>
+        <y_choice>cytoskeleton </y_choice>
+        <z_choice>cell wall</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The geology of the surface of Venus appears to be dominated by:</question>
+        <w_choice>volcanoes </w_choice>
+        <x_choice>plate tectonics </x_choice>
+        <y_choice>erosion by flowing water </y_choice>
+        <z_choice>old impact craters</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>At the Sun's distance of 8 kiloparsecs from the Galactic center, how many years would it take for material here to complete one rotational circuit?</question>
+        <answer>225 MILLION</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Convert 5&amp;pi;/3 radians into degrees:</question>
+        <answer>300&amp;deg;</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What are the median, mean and mode of the following set of numbers: 2, 3, 3, 8, 8, 8, 10, 14</question>
+        <answer>MEDIAN = 8.; MEAN = 7; MODE = 8</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>If you cut a Mobius Strip in half down the center of the strip, how many pieces do you end up with?</question>
+        <answer>ONE</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>If a woman's mass on Earth is 60 kg, what is her mass, in kilograms, on a planet where the gravity is six times less?</question>
+        <answer>60 (ACCEPT: THE SAME)</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Of the following, which is the strongest base:</question>
+        <w_choice>potassium hydroxide </w_choice>
+        <x_choice>barium hydroxide </x_choice>
+        <y_choice>calcium hydroxide </y_choice>
+        <z_choice>sodium hydroxide</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In a flame test for lithium, sodium, potassium, and magnesium, which gives off a red color:</question>
+        <answer>LITHIUM</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Total distance traveled divided by total elapsed time is most commonly called:</question>
+        <w_choice>velocity </w_choice>
+        <x_choice>acceleration </x_choice>
+        <y_choice>average velocity </y_choice>
+        <z_choice>average speed</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a wave has a frequency of 50 hertz, what is its period, in seconds?</question>
+        <answer>0.02 SECONDS</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In an autologous tissue transplant, from whom does the person receive the tissue?</question>
+        <answer>THEMSELVES</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>The margin of an ash tree leaf would most generally be called:</question>
+        <w_choice>divided </w_choice>
+        <x_choice>entire </x_choice>
+        <y_choice>serrate </y_choice>
+        <z_choice>lacerate</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+</round>

@@ -1,0 +1,435 @@
+<round id='208'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Neglecting friction, what is the acceleration, in meters per second squared, when a force of 144 Newtons is applied to a 12 kilogram object:</question>
+        <answer>12</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>When Johann Schweigger invented the first galvanometer, what did he recognize could be used to measure current:</question>
+        <w_choice>deflection of a compass needle </w_choice>
+        <x_choice>movement of iron particles in a magnetic field </x_choice>
+        <y_choice>movement of electrons through a potential </y_choice>
+        <z_choice>a magneto</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following has the highest specific heat value:</question>
+        <w_choice>wood </w_choice>
+        <x_choice>ice water </x_choice>
+        <y_choice>sand </y_choice>
+        <z_choice>gold</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Normal hydrogen at room temperature contains what two forms of hydrogen, as defined by the spins of their electrons and nuclei?</question>
+        <answer>PARA AND ORTHO</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>When the color of an organism alerts predators to stay away it is technically referred to as:</question>
+        <w_choice>aposematic coloration </w_choice>
+        <x_choice>homological coloration </x_choice>
+        <y_choice>analogous coloration </y_choice>
+        <z_choice>camouflage coloration</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT a hexose:</question>
+        <w_choice>mannose </w_choice>
+        <x_choice>glucose </x_choice>
+        <y_choice>fructose </y_choice>
+        <z_choice>xylulose (pronounced: zyle-YOU-lows)</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A first quarter Moon will cross the meridian at what time of the day or night:</question>
+        <w_choice>midnight </w_choice>
+        <x_choice>sunrise </x_choice>
+        <y_choice>sunset </y_choice>
+        <z_choice>noon</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the most common astronomical term for the angle analogous to geographical longitude?</question>
+        <answer>RIGHT ASCENSION (ACCEPT: ASCENSION)</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the equation of a line that has a slope of 4 and a y-intercept of 5?</question>
+        <answer>y = 4x + 5</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Factor the following expression as completely as possible: x&lt;sup&gt;4&lt;/sup&gt; - 16</question>
+        <answer>(x - 2)(x + 2)(x&lt;sup&gt;2&lt;/sup&gt; + 4)</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The salts and ions derived from the chemical weathering of rocks are carried by a stream are part of its:</question>
+        <w_choice>bed load </w_choice>
+        <x_choice>suspended load </x_choice>
+        <y_choice>dissolved load </y_choice>
+        <z_choice>salt load</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The Sahara desert in Africa is an example of what type of desert:</question>
+        <w_choice>subtropical </w_choice>
+        <x_choice>continental </x_choice>
+        <y_choice>rainshadow </y_choice>
+        <z_choice>coastal</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Electric appliances and tools are grounded to:</question>
+        <w_choice>complete the electrical circuit </w_choice>
+        <x_choice>balance the voltage in both lines </x_choice>
+        <y_choice>prevent the overloading of circuits </y_choice>
+        <z_choice>prevent surface static charge buildup</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is an example of a multiple fruit:</question>
+        <w_choice>apple </w_choice>
+        <x_choice>sour cherry </x_choice>
+        <y_choice>pineapple </y_choice>
+        <z_choice>pear</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>An email sent over the internet most likely uses what protocol:</question>
+        <w_choice>HTTP </w_choice>
+        <x_choice>FTP </x_choice>
+        <y_choice>SMTP </y_choice>
+        <z_choice>HMTTP</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the name for the high-speed serial bus developed by Apple and Texas Instruments that allows for the connection of multiple devices, supports hot-swapping, and transfers data at rates of up to 400 million bytes per second:</question>
+        <answer>FIREWIRE (ACCEPT: IEEE 1394, I-LINK, AND LYNX)</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>What branch of mechanics customarily deals with force and why objects move as they do:</question>
+        <w_choice>kinematics </w_choice>
+        <x_choice>dynamics </x_choice>
+        <y_choice>statics </y_choice>
+        <z_choice>mechanics</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Yellow light has a wavelength of approximately:</question>
+        <w_choice>300-350 nanometers </w_choice>
+        <x_choice>450-500 nanometers </x_choice>
+        <y_choice>550-600 nanometers </y_choice>
+        <z_choice>650-700 nanometers</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>In which of the following pairs are both elements classified as semimetals:</question>
+        <w_choice>tellurium and tin </w_choice>
+        <x_choice>selenium and bromine </x_choice>
+        <y_choice>scandium and silicon </y_choice>
+        <z_choice>arsenic and germanium</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>The f subshell is associated with what L quantum number?</question>
+        <answer>3</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the predominant immunoglobulin class found in human saliva?</question>
+        <answer>IgA</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the common name for the part of a compound light microscope that functions to converge a light source so that it passes through the specimen:</question>
+        <answer>CONDENSER</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Because of precession, the celestial pole traces out a complete circle on the sky about every:</question>
+        <w_choice>26,000 years </w_choice>
+        <x_choice>12,000 years </x_choice>
+        <y_choice>6,000 years </y_choice>
+        <z_choice>600 years</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The ecliptic is:</question>
+        <w_choice>the line that divides the sky into the northern half and the southern half </w_choice>
+        <x_choice>the Sun's apparent path across the celestial sphere </x_choice>
+        <y_choice>the point directly overhead </y_choice>
+        <z_choice>the line on the celestial sphere directly above the celestial equator</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If the universal set is represented by the numbers 1, 2, 3, 4, 5, 6, 7, and set A is represented by the numbers 1, 2, 3; set B by the numbers 3, 4, 5, 6; and set C by the numbers 2, 3, 4, then what set is represented by the union of sets A and B?</question>
+        <answer>1, 2, 3, 4, 5, 6</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In the US Senate, Senator Bill received four-sixths of the votes, Senator George received two- tenths of the votes, and Senator Mary received the remaining votes. If 48 votes were cast for Senator Mary, how many votes did Senator Bill receive?</question>
+        <answer>240</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following make up approximately 80% of all magma erupted by volcanoes on Earth:</question>
+        <w_choice>andesitic </w_choice>
+        <x_choice>rhyolitic </x_choice>
+        <y_choice>basaltic </y_choice>
+        <z_choice>andesitic and rhyolitic</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>A mixture of molten rock, suspended mineral grains, and dissolved gasses that forms in the crust or mantle when temperatures are sufficiently high, is a definition of what?</question>
+        <answer>MAGMA</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is an example of a modular organism that grows by producing additional units of body construction that are very similar to the units of which it is already composed:</question>
+        <w_choice>sea sponge </w_choice>
+        <x_choice>cockroach </x_choice>
+        <y_choice>spider </y_choice>
+        <z_choice>turtle</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>A widely used dental amalgam is formed by reacting metallic mercury with an alloy consisting primarily of which 2 metals?</question>
+        <answer>SILVER AND TIN</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is TRUE about resolution:</question>
+        <w_choice>printed images resolve with dots per inch and displayed images resolve with pixels </w_choice>
+        <x_choice>printed images resolve with dots per inch and displayed images resolve with dots per inch </x_choice>
+        <y_choice>printed images resolve with pixels and displayed images resolve with dots per inch </y_choice>
+        <z_choice>printed images resolve with pixels and displayed images resolve with pixels</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Fonts that are digital representations of fonts that are not scalable are called:</question>
+        <w_choice>bitmap fonts </w_choice>
+        <x_choice>outline fonts </x_choice>
+        <y_choice>TrueType fonts </y_choice>
+        <z_choice>vector fonts</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What scientist was the first to propose that in the absence of air resistance, all objects fall with the same constant acceleration?</question>
+        <answer>GALILEO</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a piano string is 1.6 meters long and has a fundamental frequency of 320 Hertz, what is the wavelength, in meters, of the fundamental?</question>
+        <answer>3.2</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is considered a nonpolar molecule:</question>
+        <w_choice>H&lt;sub&gt;2&lt;/sub&gt;S </w_choice>
+        <x_choice>NH&lt;sub&gt;3&lt;/sub&gt; </x_choice>
+        <y_choice>NO&lt;sub&gt;2&lt;/sub&gt; </y_choice>
+        <z_choice>BeH&lt;sub&gt;2&lt;/sub&gt;</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What general term describes a substance whose electrons are all spin-paired and that are weakly repelled by magnetic fields?</question>
+        <answer>DIAMAGNETIC</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the name for the group of muscles that stabilize the shoulder joint by holding the head of the humerus in its socket?</question>
+        <answer>ROTATOR CUFF</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>The "one gene one enzyme" rule proposed by Beadle and Tatum was mostly based upon their work with what genus of organisms?</question>
+        <answer>NEUROSPORA</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>An arc of length 2&amp;pi; is cut off by a central angle of &amp;pi;/4 radians. What is the radius of the circle?</question>
+        <answer>8</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify the following equation: &amp;radic;(9x+9) - &amp;radic;(4x+4)</question>
+        <answer>&amp;radic;(x+1) (ACCEPT: &amp;radic;(1+x) ) </answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following types of plutons is a cylindrical conduit of igneous rock below a volcanic vent:</question>
+        <w_choice>laccolith </w_choice>
+        <x_choice>dike </x_choice>
+        <y_choice>volcanic stock </y_choice>
+        <z_choice>volcanic pipe</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Trellis drainage patterns are most likely to form on:</question>
+        <w_choice>coastal plains </w_choice>
+        <x_choice>folded terrains </x_choice>
+        <y_choice>glacial outwash </y_choice>
+        <z_choice>permafrost</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What contemporary of Autolycus wrote a set of thirteen books titled "Elements", which remains among the most studied works in human thought and was a culmination of classical geometry?</question>
+        <answer>EUCLID</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In the tempering of steel, the slower the hot steel cools in the quenching process:</question>
+        <w_choice>the softer its core and the less the outer hardness penetrates </w_choice>
+        <x_choice>the softer its core and the more the outer hardness penetrates </x_choice>
+        <y_choice>the harder its core and the less the outer hardness penetrates </y_choice>
+        <z_choice>the harder its core and the more the outer hardness penetrates</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following explains why a sailboat can sail into the wind:</question>
+        <w_choice>Archimedes' Principle </w_choice>
+        <x_choice>Bernoulli's Law </x_choice>
+        <y_choice>Pascal's Law </y_choice>
+        <z_choice>Reynolds' Numbers</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>If the resolution of the human eye is about 0.1 millimeter and the resolution of a light microscope is about 2,000 angstroms, what is the approximate useful magnification of a human eye combined with a light microscope:</question>
+        <w_choice>250 times </w_choice>
+        <x_choice>500 times </x_choice>
+        <y_choice>1,000 times </y_choice>
+        <z_choice>2,000 times</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Liver enzymes oxidize ethanol to:</question>
+        <w_choice>methanol </w_choice>
+        <x_choice>formaldehyde </x_choice>
+        <y_choice>oxalic acid </y_choice>
+        <z_choice>acetaldehyde</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Which of the gas laws describes how the volume of a gas is affected by changes in pressure, temperature, and amount?</question>
+        <answer>IDEAL GAS LAW</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In bacterial transference of genes, what is the term for when naked DNA enters the cell from the surroundings:</question>
+        <answer>TRANSDUCTION</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the type of plant leaf that lacks a palisade and spongy mesophyll:</question>
+        <w_choice>common crabgrass </w_choice>
+        <x_choice>dandelion </x_choice>
+        <y_choice>apple tree </y_choice>
+        <z_choice>lotus plant</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+</round>

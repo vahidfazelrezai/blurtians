@@ -1,0 +1,419 @@
+<round id='209'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The so-called d-block elements of the periodic table constitute the:</question>
+        <w_choice>lanthanide and actinide series </w_choice>
+        <x_choice>transition metals </x_choice>
+        <y_choice>group 3A to 8A elements </y_choice>
+        <z_choice>group 1A and 2A elements</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In any order, give the full names of any 4 metalloids:</question>
+        <answer>BORON; SILICON; GERMANIUM; ARSENIC; ANTIMONY; TELLURIUM; ASTATINE</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the most common term used to describe the velocity equal to the average velocity in the limit that the measurement time period approaches zero?</question>
+        <answer>INSTANTANEOUS VELOCITY</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>How long will it take a squirrel to run straight down a tree trunk 18 meters long if it accelerates from a stop at 4 meters/sec2?</question>
+        <answer>3 SECONDS</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What gland in humans is the primary producer of melatonin?</question>
+        <answer>PINEAL GLAND</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>An example of negative feedback control is when:</question>
+        <w_choice>thyroid hormone interrupts the stimulation of the thyroid by TSH </w_choice>
+        <x_choice>the initial enzyme of a metabolic pathway inhibits a later reaction </x_choice>
+        <y_choice>FSH inhibits progesterone production by the corpus luteum </y_choice>
+        <z_choice>the initial product of a metabolic pathway inhibits the next reaction</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>According to Kepler's second Law of planetary motion, in which season in North America does the Earth currently move the fastest in its orbit about the Sun?</question>
+        <answer>WINTER</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the brightest star in the Northern sky?</question>
+        <answer>ARCTURUS (ACCEPT: ALPHA BOOTES)</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the theorem proved by Gauss which states that "every polynomial of degree n&amp;ge;1 with real or complex coefficients has n real or complex roots"?</question>
+        <answer>THE FUNDAMENTAL THEOREM OF ALGEBRA</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify the following fractional radicand to an expression that has the lowest whole number radicand: &amp;radic;(2/3)</question>
+        <answer>(1/3) &amp;radic;6</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which body wave can travel at the greatest velocity of all the seismic waves?</question>
+        <answer>P-WAVES (ACCEPT: PRIMARY WAVE OR COMPRESSION/EXPANSION WAVES)</answer>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The earth's outer core is interpreted to be liquid because:</question>
+        <w_choice>S-waves don't travel through liquid </w_choice>
+        <x_choice>S-waves are faster than P-waves </x_choice>
+        <y_choice>S-waves don't travel through gases </y_choice>
+        <z_choice>P-waves don't travel through liquids</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>If you need to measure 100 milliliters in an Erlenmeyer flask that has a stated volume of 100 ml but has no calibration lines, typically the stated volume will approximately fill to:</question>
+        <w_choice>the top rim of the flask </w_choice>
+        <x_choice>where the neck attaches to the flask </x_choice>
+        <y_choice>1 centimeter below the where the neck attaches to the flask </y_choice>
+        <z_choice>there is no safe way to approximate 100 ml in such a flask</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>The ratio of total leaf surface area to the total ground surface area covered by the leaves is know as what?</question>
+        <answer>LEAF AREA INDEX (ACCEPT: LAI)</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes a router:</question>
+        <w_choice>segments an existing network </w_choice>
+        <x_choice>provides the network address for the PC </x_choice>
+        <y_choice>manages traffic on the network by filtering data </y_choice>
+        <z_choice>controls the flow of data between 2 or more separate networks</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>A network technology based on transferring data in cells or packets, what does the acronym ATM stand for?</question>
+        <answer>ASYNCHRONOUS TRANSFER MODE (DO NOT ACCEPT: AUTOMATED TELLER MACHINE)</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>One standard atmosphere of pressure is equal to how many Pascals:</question>
+        <w_choice>760 </w_choice>
+        <x_choice>1,325 </x_choice>
+        <y_choice>10,325 </y_choice>
+        <z_choice>101,325</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In order of increasing energy, number and designate all the subshells in the 4&lt;sup&gt;th&lt;/sup&gt; electron shell:</question>
+        <answer>4s, 4p, 4d, 4f (ACCEPT: s, p, d, f)</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Rutherford discovered that x-rays were produced by:</question>
+        <w_choice>uranium when bombarded with slow neutrons </w_choice>
+        <x_choice>certain binary stars </x_choice>
+        <y_choice>particles emitted by a cathode, which then struck an anode </y_choice>
+        <z_choice>the sun</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Which 3 of the following 4 are vector quantities: velocity, acceleration, speed, magnetic field</question>
+        <answer>VELOCITY, ACCELERATION, MAGNETIC FIELD</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT a Rickettsial disease:</question>
+        <w_choice>Q fever </w_choice>
+        <x_choice>Scrub Typhus </x_choice>
+        <y_choice>Rocky Mountain Spotted Fever </y_choice>
+        <z_choice>Relapsing fever</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following vegetations is NOT properly matched with its location:</question>
+        <w_choice>boreal coniferous forest and Midwestern Canada </w_choice>
+        <x_choice>rain forest and the Olympic National Forest </x_choice>
+        <y_choice>Saguaro desert and the Southwestern US </y_choice>
+        <z_choice>Taiga and the Northeastern US</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which planet is 14.5 times the Earth's mass, has a rotational rate of 17.2 hours, and a year length of 84 Earth years?</question>
+        <answer>URANUS</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What are generally considered the most common and most primitive type of meteorites?</question>
+        <answer>CHONDRITES</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Simplify the ratio of the following factorial: 6!/4! (read as: 4 factorial divided by 6 factorial)</question>
+        <answer>1/30 (ACCEPT: 0.033)</answer>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>A recipe calls for flour, sugar and butter to be mixed in a ratio of 7 to 5 to 2, respectively. Assuming there is enough sugar and butter to use all the flour and 20 pounds of flour is available, how many pounds of the mixture can be made?</question>
+        <answer>40</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which one of the following was NOT formed by the deposition of sediment by a glacial stream:</question>
+        <w_choice>outwash plain </w_choice>
+        <x_choice>kame </x_choice>
+        <y_choice>moraine </y_choice>
+        <z_choice>esker</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Closely spaced isobars on a weather map most directly indicate which of the following weather-related events:</question>
+        <w_choice>calm conditions </w_choice>
+        <x_choice>windy conditions </x_choice>
+        <y_choice>a gentle pressure gradient </y_choice>
+        <z_choice>torrential rainfall</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Most plants absorb nitrogen from the soil through their roots in which of the following forms:</question>
+        <w_choice>dinitrogen </w_choice>
+        <x_choice>ammonia </x_choice>
+        <y_choice>ammonium </y_choice>
+        <z_choice>nitrate</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT a fat-soluble vitamin:</question>
+        <w_choice>vitamin K </w_choice>
+        <x_choice>vitamin A </x_choice>
+        <y_choice>vitamin D </y_choice>
+        <z_choice>biotin</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>If a computer has a 64-bit bus, how many bytes of information can travel across it at the same time?</question>
+        <answer>8</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>What type of chip is commonly used to store the BIOS in a PC:</question>
+        <w_choice>ROM </w_choice>
+        <x_choice>DAT </x_choice>
+        <y_choice>DOS </y_choice>
+        <z_choice>FAT</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>An amine is a class of compounds that contains a:</question>
+        <w_choice>sulfur and hydrogen group </w_choice>
+        <x_choice>nitrogen and oxygen group </x_choice>
+        <y_choice>nitrogen and hydrogen group </y_choice>
+        <z_choice>carbon and sulfur group</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>An element with an electron configuration of 2-8-8-2 is found in what Period and main Group number on the Periodic Chart?</question>
+        <answer>PERIOD 4 AND GROUP 2 (ACCEPT: PERIOD 4 AND GROUP 2A)</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In 1885, Johann Balmer derived the formula for the 4 spectral line of what element?</question>
+        <answer>HYDROGEN</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Which lower case letter is most typically used to denote Planck's constant?</question>
+        <answer>h</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a member of the Hirudinea: (pronounced: high-rue-DIN-E-A)</question>
+        <w_choice>earthworm </w_choice>
+        <x_choice>centipede </x_choice>
+        <y_choice>leech </y_choice>
+        <z_choice>chelicerae (read as: chell-IS-err-aye)</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>When successive beats of the heart result in an increased end- diastolic volume leading to optimal sarcomere length for strength of contraction, it is most commonly referred to by the name of what law:</question>
+        <answer>THE FRANK-STARLING LAW</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following was NOT known to be a planet until 1781 AD:</question>
+        <w_choice>Saturn </w_choice>
+        <x_choice>Venus </x_choice>
+        <y_choice>Mercury </y_choice>
+        <z_choice>Uranus</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What law states that the total amount of energy radiated per unit time from the surface of a body is related to the fourth power of its temperature?</question>
+        <answer>STEFAN-BOLTZMANN LAW (ACCEPT: STEFAN'S LAW)</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>A statistician who computes the standard deviation of a set of sample means is computing what statistical quantity?</question>
+        <answer>STANDARD ERROR OF THE MEAN (ACCEPT: STANDARD ERROR)</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Name 2 consecutive ODD integers where 5 times the second number minus 6 times the first number equals -55:</question>
+        <answer>-65 AND -67 (must be in order)</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Recent evidence shows which to be the best advice for a person suffering from recurrent kidney stones:</question>
+        <w_choice>decrease their intake of calcium-rich foods </w_choice>
+        <x_choice>increase their intake of calcium-rich foods </x_choice>
+        <y_choice>increase their intake of oxalate-rich foods </y_choice>
+        <z_choice>decrease their intake of magnesium-rich foods</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>A lens defect resulting from its inability to bring all wavelengths of light into the same plane of focus is called:</question>
+        <w_choice>barrel distortion </w_choice>
+        <x_choice>astigmatism </x_choice>
+        <y_choice>chromatic aberration </y_choice>
+        <z_choice>spherical aberration</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which metal acts at the anode in mercury batteries that are commonly found in cameras and watches:</question>
+        <w_choice>mercury </w_choice>
+        <x_choice>mercury (II) oxide </x_choice>
+        <y_choice>zinc </y_choice>
+        <z_choice>lithium</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>In the periodic table, what are elements 58 through 71 classified as?</question>
+        <answer>LANTHANIDES (ACCEPT: LANTHANIDE SERIES OR INNER TRANSITION METALS OR RARE EARTH ELEMENTS)</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>How far, in kilometers, will the runner travel in five hours on a straight path if her average speed is 9 kilometers per hour?</question>
+        <answer>45 KM</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following forms of radioactive decay does NOT alter the atomic number of an element:</question>
+        <w_choice>alpha </w_choice>
+        <x_choice>beta minus </x_choice>
+        <y_choice>beta plus </y_choice>
+        <z_choice>gamma</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following genera of plants contains a species that traps and digests insects:</question>
+        <w_choice>Ulmus </w_choice>
+        <x_choice>Nepenthes (pronounced: neh-PEN-thes) </x_choice>
+        <y_choice>Lupinus (pronounced : lew-PIE-nus) </y_choice>
+        <z_choice>Psilotum (pronounced : sill-O-tum)</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Thallassemia (pronounced: thal-ah-SEE-me-ah) and Marfan Syndrome are both which of the following types of diseases:</question>
+        <w_choice>virus-related diseases </w_choice>
+        <x_choice>bacteria-related diseases </x_choice>
+        <y_choice>toxic-exposure diseases </y_choice>
+        <z_choice>inherited disorders</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+</round>

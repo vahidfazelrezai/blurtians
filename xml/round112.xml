@@ -1,0 +1,427 @@
+<round id='112'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>The Meissner effect is most directly associated with which of the following:</question>
+        <w_choice>superconductors</w_choice>
+        <x_choice>rare earth magnets</x_choice>
+        <y_choice>very strong electromagnets </y_choice>
+        <z_choice>Tesla coils</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Rounding g to the first decimal place, how many newtons are required to keep a 120-kilogram sled moving at a constant velocity across a pond if there is a frictional coefficient of 0.20 between the sled and the pond’s surface? Round your answer to the nearest whole number.</question>
+        <answer>235</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT generally true of activation energies in chemical reactions:</question>
+        <w_choice>activation energies vary from reaction to reaction</w_choice>
+        <x_choice>the Arrhenius equation can be used to determine the activation energy of a reaction</x_choice>
+        <y_choice>the lower the activation energy is, the faster the reaction</y_choice>
+        <z_choice>increasing the temperature of a reaction decreases the activation energy</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true about aqueous solutions:</question>
+        <w_choice>diluting a buffer with water can change the pH of the water</w_choice>
+        <x_choice>metal cations can act as weak acids in water solutions</x_choice>
+        <y_choice>an acid whose K&lt;sub&gt;a&lt;/sub&gt; = 6 × 10&lt;sup&gt;-10&lt;/sup&gt; is weaker than an acid whose K&lt;sub&gt;a&lt;/sub&gt; = 5.8 × 10&lt;sup&gt;-4&lt;/sup&gt;</y_choice>
+        <z_choice>an acid whose pK&lt;sub&gt;a&lt;/sub&gt; is 3.0 is stronger than an acid whose pK&lt;sub&gt;a&lt;/sub&gt; is 7.0</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following was first proposed by Peter Mitchell as a potential energy ion gradient across a selectively permeable membrane that is responsible for the production of ATP:</question>
+        <w_choice>osmosis</w_choice>
+        <x_choice>chemiosmosis (read as: chem-ee-oz-MOE-sis)</x_choice>
+        <y_choice>electro-phosphorylation</y_choice>
+        <z_choice>photosynthesis</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 3 groups of organisms that generate ATP by chemiosmosis (read as: chem-ee-oz-MOE-sis): Cyanobacteria; plant cells; animal cells</question>
+        <answer>ALL</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>What is the product of the following 2 values: (1) the greatest common divisor of 7 and 14; and (2) the least common multiple of 7 and 14:</question>
+        <w_choice>21 </w_choice>
+        <x_choice>49 </x_choice>
+        <y_choice>98 </y_choice>
+        <z_choice>196</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Multiply the following complex numbers, giving your answer in standard a+bi form: (6+3i)(4+i)</question>
+        <answer>21 + 18i</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST determines the maximum height of open ocean waves and is the point where breaking white caps form in a fully developed sea:</question>
+        <w_choice>the cohesive forces in water molecules are overcome and the waves break apart</w_choice>
+        <x_choice>the waves are losing as much energy as breaking white caps as they are receiving from the wind</x_choice>
+        <y_choice>the trough moves a little bit faster than the crest and the wave becomes unstable</y_choice>
+        <z_choice>the waves have reached a maximum period</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Although the crystal habit of quartz is widely variable, its most common habit is:</question>
+        <w_choice>orthorhombic </w_choice>
+        <x_choice>cubic</x_choice>
+        <y_choice>hexagonal</y_choice>
+        <z_choice>triclinic</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of coelacanths (read as: SEE-laa-kanths):</question>
+        <w_choice>the coelacanth is considered a living fossil</w_choice>
+        <x_choice>the coelacanth is a bottom dweller fish and uses its 4 limbs for walking</x_choice>
+        <y_choice>the coelacanth is essentially inedible to humans</y_choice>
+        <z_choice>the coelacanth gives birth to live young</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What alkene is a plant pigment that is a precursor to vitamin-A?</question>
+        <answer>BETA-CAROTENE</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a space observatory, launched in 2004 through the combined effort of Italy, the United Kingdom, and the United States, for the detection and study of gamma-ray bursts:</question>
+        <w_choice>SOHO</w_choice>
+        <x_choice>SWIFT</x_choice>
+        <y_choice>MOC</y_choice>
+        <z_choice>international GRB</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>How were the rings of the planet Uranus discovered:</question>
+        <w_choice>astronomers in 1977 noticed stars were occulted by Uranus before the planet passed in front of them and reappeared afterwards</w_choice>
+        <x_choice>the Magellan 1 space probe took pictures of them</x_choice>
+        <y_choice>the Hubble space telescope detected them with its infrared detector</y_choice>
+        <z_choice>the rings are made of gases with certain signatures revealed in absorption spectra</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes Fermat’s principle:</question>
+        <w_choice>light disperses in a specific medium depending on the medium’s refractive index </w_choice>
+        <x_choice>light follows the path of least time between two points</x_choice>
+        <y_choice>the angle of incidence can be greater than the angle of reflection</y_choice>
+        <z_choice>light always travels in the same medium at the same speed</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the ideal mechanical advantage of a wheel and axle, if the diameter of the wheel is 500 centimeters and the radius of the axle is 2.5 centimeters?</question>
+        <answer>100</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>A lead chromate solution is typically what color:</question>
+        <w_choice>blue </w_choice>
+        <x_choice>red</x_choice>
+        <y_choice>yellow </y_choice>
+        <z_choice>green</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following molecules exhibits a dipole moment:</question>
+        <w_choice>CH&lt;sub&gt;4&lt;/sub&gt;</w_choice>
+        <x_choice>H&lt;sub&gt;2&lt;/sub&gt;S </x_choice>
+        <y_choice>CO&lt;sub&gt;2&lt;/sub&gt;</y_choice>
+        <z_choice>SO&lt;sub&gt;3&lt;/sub&gt;</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>From which of the following does the seed coat of angiosperm seeds typically develop:</question>
+        <w_choice>integuments </w_choice>
+        <x_choice>polar nuclei </x_choice>
+        <y_choice>nucleus</y_choice>
+        <z_choice>cotyledons</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Beadle and Tatum primarily used what organism to show that mutations in a single gene caused disruptions in metabolic pathways because of the lack of a single enzyme?</question>
+        <answer>NEUROSPORA (ACCEPT: BREAD MOLD or NEUROSPORA CRASSA)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of matrices:</question>
+        <w_choice>a square matrix that has an inverse is called invertible</w_choice>
+        <x_choice>a matrix does not have to have an inverse</x_choice>
+        <y_choice>a matrix that does not have an inverse is called non-singular </y_choice>
+        <z_choice>a matrix must be square in order to have an inverse</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer as an ordered pair, find the solution of the system of the following 2 equations: x = (2/3) y – 2 and x = y – 3:</question>
+        <answer>(0, 3)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following are thought to form the mantle of the Earth:</question>
+        <w_choice>ultramafic rocks </w_choice>
+        <x_choice>felsic rocks</x_choice>
+        <y_choice>silicic rocks</y_choice>
+        <z_choice>mafic rocks</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Of the 3 basic types of magma on Earth, which one generally has the LOWEST gas content?</question>
+        <answer>BASALTIC (ACCEPT: BASALT)</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the p value for F = 0 in an ANOVA F test:</question>
+        <w_choice>0.00 </w_choice>
+        <x_choice>0.50 </x_choice>
+        <y_choice>0.95 </y_choice>
+        <z_choice>1.00</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 choices that are characteristic of scientific publications: &lt;br&gt; 1) scientific papers are peer reviewed &lt;br&gt; 2) scientific papers present more detailed data &lt;br&gt; 3) conclusions in scientific papers are supported by original data in the publication &lt;br&gt; 4) scientific papers have data that has been proven to be true</question>
+        <answer>1; 2; 3</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>an eclipse of the Moon only occurs during a full Moon</w_choice>
+        <x_choice>Mercury will appear to be in its full phase when it is farthest from Earth </x_choice>
+        <y_choice>an event horizon is associated with black holes</y_choice>
+        <z_choice>no more than 50% of the Moon’s surface can be seen over any one year</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the most common location of young blue and white stars in a spiral galaxy:</question>
+        <w_choice>halo</w_choice>
+        <x_choice>spiral arms</x_choice>
+        <y_choice>nucleus</y_choice>
+        <z_choice>throughout the entire galaxy</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What physical property of neutrinos, which was confirmed in the past decade, contradicts earlier assumptions that neutrinos travel at the speed of light?</question>
+        <answer>MASS (ACCEPT: NEUTRINOS HAVE MASS)</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the angular velocity, in radians per second, of a wheel with a radius of 250 centimeters and a surface velocity of 50 meters per second?</question>
+        <answer>20</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>When dissociated in water, which of the following acids has its dissociation equilibrium shifted farthest to the right:</question>
+        <w_choice>HClO</w_choice>
+        <x_choice>HClO2</x_choice>
+        <y_choice>HClO3</y_choice>
+        <z_choice>HClO4</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Arrange the following 4 bonds in order of decreasing polarity: Br–Br; K–Br; P–Cl; Li–F</question>
+        <answer>Li–F; K–Br; P–Cl; Br–Br</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Of which of the following is endosperm in wheat primarily composed:</question>
+        <w_choice>protein</w_choice>
+        <x_choice>nucleic acid </x_choice>
+        <y_choice>carbohydrate </y_choice>
+        <z_choice>lipid</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true regarding glycogen:</question>
+        <w_choice>glycogen synthesis is endergonic (read as: en-der-GONE-ick)</w_choice>
+        <x_choice>glycogen is a polysaccharide</x_choice>
+        <y_choice>glycogen side branches have beta 1,4 linkages</y_choice>
+        <z_choice>glycogen in the human liver often has more than 10,000 glucose monomers</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>By words or number, name all of the following 3 statements that are TRUE for the function, f(x) = –3x&lt;sup&gt;2&lt;/sup&gt; – 2x – 2 = 0: &lt;br&gt; 1) there are no real zeros &lt;br&gt; 2) the graph is a parabola opening downward &lt;br&gt; 3) the graph has no x-intercepts</question>
+        <answer>ALL</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Factor the following expression completely over the integers: x&lt;sup&gt;4&lt;/sup&gt; – 16 </question>
+        <answer>(x – 2)(x + 2)(x&lt;sup&gt;2&lt;/sup&gt; + 4)</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Halos and rings around the Moon in the night sky are most often caused by which of the following:</question>
+        <w_choice>nucleation particles in the stratosphere</w_choice>
+        <x_choice>small water droplets in nimbostratus clouds </x_choice>
+        <y_choice>temperature inversions</y_choice>
+        <z_choice>ice crystals in cirrus clouds</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following types of volcanic eruptions is distinguished primarily by its eruption of basaltic and andesitic magma from its vent, producing incandescent bombs that fall near the vent, eventually building a small cone of tephra:</question>
+        <w_choice>Plinian</w_choice>
+        <x_choice>Hawaiin</x_choice>
+        <y_choice>Pelean</y_choice>
+        <z_choice>Strombolian</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following plastics is very tough, optically transparent, and often used in the manufacture of CD’s:</question>
+        <w_choice>polypropylene</w_choice>
+        <x_choice>polycarbonate</x_choice>
+        <y_choice>low density polyethylene </y_choice>
+        <z_choice>polyvinyl chloride</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What 2 simple alkenes (read as: al-KEENS) are the two most important organic industrial chemicals?</question>
+        <answer>ETHYLENE; PROPYLENE (ACCEPT: ETHENE; PROPENE)</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>For someone standing at 43&amp;deg; north latitude, how many degrees above the horizon will the north celestial pole be?</question>
+        <answer>43</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In what phase does the planet Venus appear during superior conjunction?</question>
+        <answer>FULL</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a satellite moving in a circular orbit is raised to another circular orbit 3-times as far from the Earth's center and where the kinetic energy of the satellite is 3-times less, by what factor does the centripetal force on the satellite decrease?</question>
+        <answer>9</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Rounded to the first decimal place, how many kilowatt-hours of energy are used if 10 amps flows for one day though a circuit with a resistance of 2 ohms?</question>
+        <answer>4.8</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Name the LARGEST atom or ion in EACH of the following 3 pairs: &lt;br&gt; 1) an iron 3 plus ion or an iron 2 plus ion &lt;br&gt; 2) an oxygen atom or an oxygen 2 minus ion &lt;br&gt; 3) a gallium 3 plus ion or a gallium atom</question>
+        <answer>1) IRON 2 PLUS ION; 2) OXYGEN 2 MINUS ION; 3) GALLIUM ATOM</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Using proper chemical nomenclature, finish balancing the following chemical reaction. Make sure to indicate the state of each substance, such as solid, liquid, aqueous, or gas: 3NaOH&lt;sub&gt;(aqueous)&lt;/sub&gt; + H&lt;sub&gt;3&lt;/sub&gt;PO&lt;sub&gt;4(aqueous)&lt;/sub&gt;  what?</question>
+        <answer>Na&lt;sub&gt;3&lt;/sub&gt;PO&lt;sub&gt;4(aqueous)&lt;/sub&gt; + 3H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;(liquid)&lt;/sub&gt; (products in any order)</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>From the FIRST to the LAST, what are the stages into which interphase is most commonly divided?</question>
+        <answer>G-1; S; G-2 (ACCEPT: GAP ONE, DNA SYNTHESIS, GAP 2)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Cells that become quiescent enter G-zero from what stage of the cell cycle?</question>
+        <answer>G-1</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Giving your answer to the first decimal place and in liters, one mole of gas at 1.00 atmosphere pressure and a temperature of 273.15 kelvin occupies what volume?</question>
+        <answer>22.4</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A sample of gas occupies a volume of 300 cubic centimeters at a pressure of 2 atmospheres. Calculate what the pressure would have to be, in atmospheres to the first decimal place, in order for the gas to have a volume of 500 cubic centimeters at constant temperature:</question>
+        <answer>1.2</answer>
+    </fullq>
+
+</round>

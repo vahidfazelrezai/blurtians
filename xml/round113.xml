@@ -1,0 +1,419 @@
+<round id='113'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the common name for the 27-carbon lipid whose synthesis is in part regulated by HMG CoA (read as: H, M, G, koh, A) reductase and is the basic starting point for estrogen synthesis?</question>
+        <answer>CHOLESTEROL</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true regarding ribosomes:</question>
+        <w_choice>they are about 20 nanometers in diameter</w_choice>
+        <x_choice>eukaryotic ribosomes are slightly larger than prokaryotic ribosomes </x_choice>
+        <y_choice>mitochondrial ribosomes have 40S (read as: forty S) small subunits </y_choice>
+        <z_choice>they are found in chloroplasts</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following has a melting point of 185&amp;deg;C and readily dissolves in water at room temperature, but is NOT an electrolyte:</question>
+        <w_choice>NaCl </w_choice>
+        <x_choice>decane </x_choice>
+        <y_choice>methane </y_choice>
+        <z_choice>sucrose</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Give the systematic chemical name for the following ionic compound: Cr&lt;sub&gt;2&lt;/sub&gt;(SeO&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;</question>
+        <answer>CHROMIUM(III) SELENATE</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes the Balmer series:</question>
+        <w_choice>a series of quantum numbers indicating certain energy levels</w_choice>
+        <x_choice>hydrogen atom spectral line emission</x_choice>
+        <y_choice>a sequence of elements that are produced chronologically in supernovae </y_choice>
+        <z_choice>the energy spectrum of the early universe</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>According to the Standard Model of Particle Physics, through what force would the top quark decay?</question>
+        <answer>WEAK FORCE (ACCEPT: WEAK or WEAK INTERACTION)</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Express 600&amp;deg; in radians as a reduced fraction in terms of &amp;pi;:</question>
+        <answer>10&amp;pi;/3</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answers in terms of &amp;pi; and in inches squared, find the total surface area of a closed right circular cone whose altitude is 8 inches and radius is 6 inches:</question>
+        <answer>96&amp;pi;</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the single most important factor that generally sets a northern limit to tree growth, such as in the areas of transition between taiga and tundra in Alaska:</question>
+        <w_choice>high-winter winds</w_choice>
+        <x_choice>lack of summer warmth </x_choice>
+        <y_choice>lack of spring moisture </y_choice>
+        <z_choice>lack of soil nutrients</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of an El Nino:</question>
+        <w_choice>when an El Nino is present, fish are less abundant off the west coast of South America</w_choice>
+        <x_choice>El Ninos typically come along every 4 to 5 years</x_choice>
+        <y_choice>during a peak El Nino, strong high pressure will be present in the eastern Pacific with lower pressure to the west</y_choice>
+        <z_choice>El Nino affects global weather patterns</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Pitchblende is one of the main ores of what element? </question>
+        <answer>URANIUM</answer>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Order the following 3 temperature values from the COOLEST to the WARMEST: 32&amp;deg;C; 85&amp;deg;F; 310 K</question>
+        <answer>85&amp;deg;F; 32&amp;deg;C; 310 K</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The BEST explanation of why population I (read as: one) stars have a higher proportion of elements heavier than helium than population II ( read as: two) stars, is because Population I stars are:</question>
+        <w_choice>younger than population II stars</w_choice>
+        <x_choice>older than population II stars</x_choice>
+        <y_choice>usually closer to planetary nebula than population II stars </y_choice>
+        <z_choice>often found near H-I (read as: H, one) regions</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>How many sidereal minutes are in 7.5 sidereal hours? </question>
+        <answer>450</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of globular proteins in mammals:</question>
+        <w_choice>most are soluble in water</w_choice>
+        <x_choice>some serve as transport molecules in the plasma</x_choice>
+        <y_choice>plasma enzymes typically have an optimal operating pH of about 6.8 to 7.0 </y_choice>
+        <z_choice>most protein hormones are globular</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>During photorespiration, the plant enzyme RuBisCO (read as: rue- BIS-ko) will bind what molecular substance rather than carbon dioxide?</question>
+        <answer>OXYGEN (ACCEPT: O&lt;sub&gt;2&lt;/sub&gt;)</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a substance whose molecular and empirical formulas are NOT the same:</question>
+        <w_choice>benzene</w_choice>
+        <x_choice>water</x_choice>
+        <y_choice>ammonia</y_choice>
+        <z_choice>sulfur dioxide</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a molecule with a square pyramidal molecular geometry around its central atom:</question>
+        <w_choice>PCl&lt;sub&gt;5&lt;/sub&gt;</w_choice>
+        <x_choice>ClF&lt;sub&gt;5&lt;/sub&gt;</x_choice>
+        <y_choice>XeF&lt;sub&gt;4&lt;/sub&gt;</y_choice>
+        <z_choice>SF&lt;sub&gt;6&lt;/sub&gt;</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following has the lowest refractive index at STP:</question>
+        <w_choice>diamond</w_choice>
+        <x_choice>water</x_choice>
+        <y_choice>dry air</y_choice>
+        <z_choice>a perfect vacuum</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Rounded to the nearest hundred joules, how much work is done in pulling a sled across a pond for 3 meters with 100 newtons of force, with a rope that makes a 45&amp;deg; angle with the pond?</question>
+        <answer>200</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Find the center of the circle given by the following equation: x&lt;sup&gt;2&lt;/sup&gt;+y&lt;sup&gt;2&lt;/sup&gt;+4x+16y+3=0</question>
+        <answer>(–2, –8)</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What are the coordinates of the vertex in the graph of the following equation: y=4x&lt;sup&gt;2&lt;/sup&gt;+8x–5</question>
+        <answer>(–1, –9)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a fine-grained silica-rich sedimentary rock that is made primarily of microcrystalline quartz:</question>
+        <w_choice>shale</w_choice>
+        <x_choice>potash </x_choice>
+        <y_choice>dolostone </y_choice>
+        <z_choice>chert</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a foliated metamorphic rock composed of very fine-grained mica:</question>
+        <w_choice>marble </w_choice>
+        <x_choice>phyllite </x_choice>
+        <y_choice>quartzite </y_choice>
+        <z_choice>schist</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The largest deposits of diatomite, or diatomaceous earth, are typically found in which of the following regions of the U.S.:</question>
+        <w_choice>western </w_choice>
+        <x_choice>eastern </x_choice>
+        <y_choice>midwest </y_choice>
+        <z_choice>southern</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Diatomite, or diatomaceous earth, is readily available in the U.S. and is used primarily for which of the following functions:</question>
+        <w_choice>soil improvement </w_choice>
+        <x_choice>crushed stone</x_choice>
+        <y_choice>filtering agent</y_choice>
+        <z_choice>lubricant</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is closest to the range for the Balmer series:</question>
+        <w_choice>microwave</w_choice>
+        <x_choice>infrared through UV </x_choice>
+        <y_choice>UV to soft x-ray</y_choice>
+        <z_choice>visible light to UV</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Choosing from upper right, lower right, lower left, and upper left, in what area of the Hertzsprung Russell diagram will the Sun end its life?</question>
+        <answer>LOWER LEFT</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is most directly responsible for the colloid osmotic pressure in humans that acts to retain fluid in the vascular system:</question>
+        <w_choice>albumin</w_choice>
+        <x_choice>sodium ions </x_choice>
+        <y_choice>calcium ions </y_choice>
+        <z_choice>potassium ions</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true of the most common form of DNA:</question>
+        <w_choice>it is a right-handed helix</w_choice>
+        <x_choice>it has 3.4 nanometers between each successive nucleotide base of the same strand </x_choice>
+        <y_choice>the strands are considered anti-parallel</y_choice>
+        <z_choice>each strand has a 3-prime phosphate and a 5-prime hydroxyl at opposite ends</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>An organic compound with the formula C&lt;sup&gt;6&lt;/sup&gt;H&lt;sup&gt;14&lt;/sup&gt; is an:</question>
+        <w_choice>alkane </w_choice>
+        <x_choice>alkene </x_choice>
+        <y_choice>alkyne </y_choice>
+        <z_choice>arene</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following gases has the highest effusion rate through a pinhole opening from one compartment to another and at room temperature:</question>
+        <w_choice>argon </w_choice>
+        <x_choice>CO2 </x_choice>
+        <y_choice>SO2 </y_choice>
+        <z_choice>helium</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following did J. J. Thompson use that primarily led him to conclude that electrons were basic particles of atoms and carried electric charge:</question>
+        <w_choice>a compass and batteries </w_choice>
+        <x_choice>a solenoid</x_choice>
+        <y_choice>cathode ray tubes</y_choice>
+        <z_choice>electromagnets</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Consider a satellite that is a uniform sphere rotating about its axis. What is its moment of inertia, giving your answer in scientific notation and in kilogram meters squared, if it has a mass of 10,000 kilograms and a diameter of 200 meters?</question>
+        <answer>4 × 10&lt;sup&gt;7&lt;/sup&gt;</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>For the function f(x) = 1/x , what is f'(5) (read as: f prime of 5)?</question>
+        <answer>−1/25</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>An object is launched straight up from the ground with an initial velocity of 176 feet per second. What is the height of the object above the ground, in feet, 2 seconds into the flight?</question>
+        <answer>288</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Meteorologists think of wind as circulation patterns which are divided into 4 "scales of motion". A land-breeze circulation is grouped into which of the following categories:</question>
+        <w_choice>mesoscale </w_choice>
+        <x_choice>microscale </x_choice>
+        <y_choice>medium scale </y_choice>
+        <z_choice>synoptic</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>If the air temperature is 0&amp;deg;F and the wind speed is 10 miles per hour, which of the following is closest to the wind chill, in degrees Fahrenheit:</question>
+        <w_choice>10 </w_choice>
+        <x_choice>0 </x_choice>
+        <y_choice>–10 </y_choice>
+        <z_choice>–20</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following anthropogenic air pollutants is the major contributor to reduced visibility in most regions of the U.S., excluding fires and dust:</question>
+        <w_choice>elemental carbon </w_choice>
+        <x_choice>hydrogen sulfide </x_choice>
+        <y_choice>sulfate particles </y_choice>
+        <z_choice>lead</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the edible vegetable oil that is derived from cultivars of rapeseed plants and is low in erucic acid?</question>
+        <answer>CANOLA OIL (ACCEPT: CANOLA)</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in decimal form, what would the “Z” value be if a distant celestial object were shifted towards longer wavelengths by 40% of the original wavelength?</question>
+        <answer>0.4</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>If a planet had an orbital period of 11.2 years, what is the length of its orbital semi-major axis, in astronomical units rounded to the nearest whole number?</question>
+        <answer>5</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 3 choices that are chemoautotrophs: Nitrosomonas (read as: nitro-so-MOAN-us) Paramecium; Volvox</question>
+        <answer>NITROSOMONAS</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>From what vitamin is the electron carrier FAD (read as: F, A, D) derived?</question>
+        <answer>RIBOFLAVIN (ACCEPT: VITAMIN B2)</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 3 concentration units that are temperature-dependent: molal (read as: moe-LAHL); molarity; normality</question>
+        <answer>MOLARITY; NORMALITY</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Calculate the enthalpy of vaporization, in kilojoules, of water at 25&amp;deg;C and 1 atmosphere. Assume the standard enthalpy of formation of liquid water is –286 kilojoules and the standard enthalpy of formation of water gas is –242 kilojoules:</question>
+        <answer>44</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What was the most sensitive device Coulomb used to measure the electric forces between pith balls?</question>
+        <answer>TORSION BALANCE</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Order the following 3 choices from the MOST penetrating through a thin sheet of cardboard to the LEAST: beta rays; alpha rays; x-rays</question>
+        <answer>X-RAYS; BETA RAYS; ALPHA RAYS</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the histone octamer used in the coiling and packing of DNA and regulation of gene expression?</question>
+        <answer>NUCLEOSOMES</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 organelles that are bounded by a double membrane: nucleus; mitochondrion; lysosome; chloroplast</question>
+        <answer>NUCLEUS; MITOCHONDRION; CHLOROPLAST (ACCEPT: ALL BUT LYSOSOME)</answer>
+    </fullq>
+
+</round>

@@ -1,0 +1,160 @@
+#select_round {
+  font-size : 16px;
+}
+
+#play_button {
+    font-size : 20px;
+    height : 50px;
+    width : 150px;
+}
+
+#timer {
+    position : absolute;
+    top : 30px;
+    right : 30px;
+    width : 200px;
+    height : 60px;
+    visibility : hidden;
+}
+
+#timer_button {
+    font-size : 20px;
+    position : absolute;
+    height : 100%;
+    width : 100%;
+    visibility : inherit;
+}
+
+#timer_display {
+    font-size : 32px;
+    line-height : 60px;
+    position : absolute;
+    height : 60px;
+    width : 200px;
+    text-align : center;
+    display : none;
+    visibility : inherit;
+}
+
+#timer_prompt {
+    font-size : 20px;
+    line-height : 60px;
+    position : absolute;
+    height : 60px;
+    width : 200px;
+    text-align : center;
+    display : none;
+    visibility : inherit;
+}
+
+#question_info {
+    line-height : 30px;
+    visibility : hidden;
+}
+
+#question_text {
+    line-height : 20px;
+    visibility : hidden;
+    padding : 10px 0px 5px 0px;
+}
+
+#MC_answer {
+    display : none;
+}
+
+pre { 
+    display : inline;
+}
+
+.choice {
+    display : inherit;
+    position : relative;    
+    left : 0px;
+    right : 260px;
+    border : solid 1px;
+    border-color : #EEEEEE;
+    padding : 2px 12px;
+}
+
+#SA_answer {
+    display : none;
+}
+
+#show_button {
+    font-size : 16px;    
+    padding : 10px;
+    display : none;
+}
+
+#answer_display {
+    display : none;
+}
+
+#correct_button {
+    background-color : #88FF88;
+    font-size : 12px;
+    width : 200px;
+    padding : 6px;
+    display : none;
+}
+
+#incorrect_button {
+    background-color : #FF8888;
+    font-size : 12px;
+    width : 200px;
+    padding : 6px;
+    display : none;
+}
+
+#result {
+    display : none;
+}
+
+#result_display {
+    font-weight : bold;
+    display : inherit;
+}
+
+#next_button {
+    font-size : 16px;    
+    padding : 10px;
+    display : none;
+}
+
+#blurt_button {
+    background-color : #CCCCFF;
+    font-size : 12px;
+    position : absolute;
+    top : 100px;
+    right : 30px;
+    width : 95px;
+    padding : 6px;
+    display : none;    
+}
+
+#interrupt_button {
+    background-color : #CCCCFF;
+    font-size : 12px;
+    position : absolute;
+    top : 100px;
+    right : 135px;
+    width : 95px;
+    padding : 6px;
+    display : none;    
+}
+
+#interrupt_display {
+    text-align : center;
+    font-size : 32px;
+    line-height : 60px;
+    position : absolute;
+    top : 30px;
+    right : 30px;
+    height : 60px;
+    width : 200px;
+    display : none;
+}
+
+#instructions {
+    line-height : 20px;
+}

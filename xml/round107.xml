@@ -1,0 +1,399 @@
+<round id='107'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>If one end of a single polypeptide chain has an amino group exposed, what functional group is typically exposed at the opposite end?</question>
+        <answer>CARBOXYL</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common name of the protein that synthesizes DNA?</question>
+        <answer>DNA POLYMERASE (ACCEPT: POLYMERASE)</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following compounds is used as a fuel additive in what is commonly known as “dry-gas” by solubilizing water to reduce its contamination in gasoline:</question>
+        <w_choice>isooctane</w_choice>
+        <x_choice>glycerol</x_choice>
+        <y_choice>MTBE</y_choice>
+        <z_choice>isopropyl alcohol</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The molar heat of vaporization for water at its boiling point and in kilojoules per mole is:</question>
+        <w_choice>6.01</w_choice>
+        <x_choice>40.7</x_choice>
+        <y_choice>540</y_choice>
+        <z_choice>2,260</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Consider an electric charge moving through a magnetic field. A force acts on the charge perpendicular to the direction of the charge’s motion and direction of the magnetic field. Which of the following is the MOST common name for this force:</question>
+        <w_choice>B field</w_choice>
+        <x_choice>Lorentz force</x_choice>
+        <y_choice>electrodynamic force</y_choice>
+        <z_choice>Faraday force</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes the Lorentz Contraction:</question>
+        <w_choice>reduction in the mass of a body as it approaches the speed of light</w_choice>
+        <x_choice>reduction in the length of a body along the direction of motion as it approaches the speed of light</x_choice>
+        <y_choice>loss of kinetic energy when any object slows</y_choice>
+        <z_choice>loss of potential energy when any body emits electromagnetic radiation</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the determinant of a 2-by-2 square matrix whose rows are 4, 2 and –3, –4?</question>
+        <answer>–10</answer>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solve the following equation for x: –2 &amp;#124; 3 + (x/2) &amp;#124; = –10 (read as: negative 2 times the absolute value of 3 plus, open parenthesis, x divided by 2, close parenthesis, close absolute value, equals negative 10)</question>
+        <answer>4 AND –16</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the temperature-slope or depth interval over which temperature changes with depth in a lake?</question>
+        <answer>THERMOCLINE</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Trilobites are index fossils that lived:</question>
+        <w_choice>in warm, ocean waters</w_choice>
+        <x_choice>during the Achaean geological time</x_choice>
+        <y_choice>in desert environments</y_choice>
+        <z_choice>in lakes, rivers and streams</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The Chesapeake Bay Foundation has enlisted the help of volunteers to raise oysters within cages tied to docks just below the water’s surface. Which of the following is the BEST reason why these amateur conservationists will not be tempted to eat their oysters:</question>
+        <w_choice>they are genetically engineered and their impact on human heath has not been assessed</w_choice>
+        <x_choice>they were irradiated prior to seeding to ensure they were disease-free</x_choice>
+        <y_choice>there is a water pollution advisory against eating oysters grown within most of the watershed</y_choice>
+        <z_choice>some are equipped with a radio transmitter to allow biologists to easily measure population changes</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>If one of Earth’s tectonic plates moves at a rate of about 10 centimeters per year, how many kilometers will it move in 100 million years?</question>
+        <answer>10,000</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>From data primarily on the motions of what planet did Kepler propose that planets follow elliptical orbits?</question>
+        <answer>MARS</answer>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What object in the night sky can reach a maximum apparent magnitude of negative 12.6?</question>
+        <answer>MOON (ACCEPT: FULL MOON)</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the main respiratory pigment of skeletal muscle cells?</question>
+        <answer>MYOGLOBIN</answer>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Choosing from primary through quaternary, what level of protein structure is conferred by a beta pleated sheet?</question>
+        <answer>SECONDARY</answer>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>An increase in which of the following conditions would NOT lead to an increase in pressure of a gas in a piston:</question>
+        <w_choice>increased temperature</w_choice>
+        <x_choice>increased number of gas molecules</x_choice>
+        <y_choice>increased average kinetic energy of gas particles</y_choice>
+        <z_choice>increased volume</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>To the nearest whole number, how many grams of Na2SO4, whose formula weight is 142, are needed to prepare a 500 milliliter 0.100 molar solution?</question>
+        <answer>7</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes the concept upon which Kirchhoff’s current law or first law is based:</question>
+        <w_choice>charges come in unit dimensions</w_choice>
+        <x_choice>all charges flow from the negative to the positive</x_choice>
+        <y_choice>charge can neither be created nor destroyed</y_choice>
+        <z_choice>what goes up must come down</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Give by name or number all of the following 4 choices that would be considered units of electrical power: 1) ampere volt; 2) joules per second; 3) watts; 4) coulombs</question>
+        <answer>1; 2; 3</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer as up, down, left, or right, the graph of the equation x = 5y – 8y&lt;sup&gt;2&lt;/sup&gt; – 1 opens in what direction?</question>
+        <answer>LEFT</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>If $10,000 is placed in a savings account that pays 5% interest compounded annually, what is the total amount of money in the account at the end of 2 years, to the nearest dollar?</question>
+        <answer>$11,025</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following atmospheric gases is created naturally by the action of sunlight on molecular oxygen:</question>
+        <w_choice>ozone</w_choice>
+        <x_choice>carbon monoxide</x_choice>
+        <y_choice>nitrous oxide</y_choice>
+        <z_choice>methane</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>On a weather map, what type of frontal boundary is represented by alternating blue and red lines with blue triangles pointing toward the warmer air and red semicircles pointing toward the colder air?</question>
+        <answer>STATIONARY (ACCEPT: STATIONARY FRONTAL BOUNDARY or STATIONARY FRONT)</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Geothermal power plants use which of the following to generate electricity:</question>
+        <w_choice>coal</w_choice>
+        <x_choice>steam</x_choice>
+        <y_choice>sunlight</y_choice>
+        <z_choice>pressurized water</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Diatoms are:</question>
+        <w_choice>bacteria</w_choice>
+        <x_choice>twinned crystals</x_choice>
+        <y_choice>seaweed</y_choice>
+        <z_choice>algae</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following statements is LEAST accurate:</question>
+        <w_choice>solar eclipses are less common than lunar eclipses</w_choice>
+        <x_choice>stars that begin their lives with greater mass have longer life-spans</x_choice>
+        <y_choice>stars in the same constellation are not necessarily at the same distance from Earth</y_choice>
+        <z_choice>M-31 is a galaxy</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In what constellation is the brightest-appearing star in the night sky?</question>
+        <answer>CANIS MAJOR</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What specific biological process is believed to have produced most of the diatomic oxygen in the Earth’s atmosphere?</question>
+        <answer>PHOTOSYNTHESIS</answer>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In photosynthesis II (read as: two), what is light energy most notably used to initially accomplish?</question>
+        <answer>SPLITTING OF WATER</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>According to VSEPR bonding theory, what type of geometry does a molecule have when the central atom is surrounded by 4 bonded groups, such as in methane?</question>
+        <answer>TETRAHEDRAL</answer>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is considered a weak acid:</question>
+        <w_choice>HCO&lt;sub&gt;2&lt;/sub&gt;H</w_choice>
+        <x_choice>HClO&lt;sub&gt;4&lt;/sub&gt;</x_choice>
+        <y_choice>HNO&lt;sub&gt;3&lt;/sub&gt;</y_choice>
+        <z_choice>HBr</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the MOST common name for the electrical device often made of two parallel conducting plates separated by a paper insulator all rolled into a cylinder to function in storing electrical energy?</question>
+        <answer>CAPACITOR</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the SI unit of capacitance equal to one coulomb per volt?</question>
+        <answer>FARAD</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In what quadrant does θ (read as: theta) terminate if sine θ is positive and secant θ is negative?</question>
+        <answer>2&lt;sup&gt;nd&lt;/sup&gt; (ACCEPT: 2)</answer>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solve the following equation for all real values of x: (1/8) x&lt;sup&gt;2&lt;/sup&gt; − (1/4) x − 1 = 0 </question>
+        <answer>4 OR –2</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following rocks is MOST porous:</question>
+        <w_choice>marble</w_choice>
+        <x_choice>granite</x_choice>
+        <y_choice>limestone</y_choice>
+        <z_choice>slate</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>If the intent is to neutralize soil acidity, the mixing of which of the following materials in the soil would be the LEAST effective:</question>
+        <w_choice>ground limestone</w_choice>
+        <x_choice>ground oyster shells</x_choice>
+        <y_choice>pure CaCO&lt;sub&gt;3&lt;/sub&gt;</y_choice>
+        <z_choice>gypsum</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is used as a white pigment in paint, paper, and plastics:</question>
+        <w_choice>Teflon</w_choice>
+        <x_choice>zeolites</x_choice>
+        <y_choice>titanium dioxide</y_choice>
+        <z_choice>diatomaceous earth</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Cats have a special layer of tissue behind their retina called the tapetum lucidum that does which of the following:</question>
+        <w_choice>reflects back to the retina stray photons of light</w_choice>
+        <x_choice>allows for color vision</x_choice>
+        <y_choice>allows only for black, white and grey vision</y_choice>
+        <z_choice>serves as a second eyelid to protect the eye</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What basic force is responsible for forming the liquid-metallic hydrogen layer on the planet Jupiter?</question>
+        <answer>GRAVITY</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>During what month is the average surface temperature of the Earth typically the highest?</question>
+        <answer>JULY</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In what specific part of the testes does spermatogenesis occur in mammals?</question>
+        <answer>SEMINIFEROUS TUBULES</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What human gland, which is mostly lymphoid tissue, is critical to the normal development of cell mediated immunity and, if removed after young adulthood, seems to have no ill effects on the immune system?</question>
+        <answer>THYMUS</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>When a strip of sodium reacts with dilute HCl, what gas is produced?</question>
+        <answer>HYDROGEN</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The release of hydrogen gas in the above experiment is called:</question>
+        <w_choice>combustion</w_choice>
+        <x_choice>effervescence</x_choice>
+        <y_choice>diffusion</y_choice>
+        <z_choice>ebullition</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What was the electrolyte used in the first voltaic piles built by Volta?</question>
+        <answer>BRINE (ACCEPT: SALT WATER)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the resistance, giving your answer in standard SI units, of an electric device operating on a 9-volt battery that requires 0.05 amps to run?</question>
+        <answer>180 OHMS</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the micro-gametophyte in flowering plants?</question>
+        <answer>POLLEN (ACCEPT: POLLEN GRAINS)</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Sieve cells and sieve tube members are types of what specific conductive plant cell type?</question>
+        <answer>PHLOEM</answer>
+    </fullq>
+
+</round>

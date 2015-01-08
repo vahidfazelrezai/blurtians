@@ -1,0 +1,419 @@
+<round id='217'>
+    <fullq num='1' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following particles has not yet been detected but is generally theorized to exist:</question>
+        <w_choice>fermionic hadrons </w_choice>
+        <x_choice>gluons </x_choice>
+        <y_choice>Higgs boson </y_choice>
+        <z_choice>mesons</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Order the following from the substance with the lowest dielectric constant to the highest: air, quartz, rubber, pure water</question>
+        <answer>AIR, RUBBER, QUARTZ, PURE WATER</answer>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>The formula V/n = k, at constant T and P, is a representation of what gas law?</question>
+        <answer>AVOGADRO'S LAW</answer>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Electron configurations can be specified using orbital-filling diagrams, in which electrons are represented in standard nomenclature by up and down arrows. Which of the following best describes the arrows representing the 4p orbitals in Arsenic, whose atomic number is 33:</question>
+        <w_choice>3 single up arrows </w_choice>
+        <x_choice>one pair of up and down arrows, and a single up arrow </x_choice>
+        <y_choice>3 pairs of up and down arrows </y_choice>
+        <z_choice>two pairs of up and down arrows and a single down arrow</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Of the primary, secondary, tertiary, and quaternary levels of protein structure, what level is most directly changed in an amino acid substitution?</question>
+        <answer>PRIMARY</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following would be LEAST soluble in distilled water:</question>
+        <w_choice>propanoic acid </w_choice>
+        <x_choice>phosphoglyceraldehyde </x_choice>
+        <y_choice>methanol </y_choice>
+        <z_choice>cholesterol</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following eyepieces is a modified Ramsden eyepiece with an achromatic lens:</question>
+        <w_choice>Huygens </w_choice>
+        <x_choice>orthoscopic </x_choice>
+        <y_choice>Kellner </y_choice>
+        <z_choice>Erfle</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Which two of the following five celestial bodies are not moons of Jupiter: Io, Charon, Titan, Ganymede, Callisto</question>
+        <answer>CHARON AND TITAN</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Using the Greek-derived names, what 5 polyhedra are often called platonic solids?</question>
+        <answer>TETRAHEDRON, HEXAHEDRON, OCTAHEDRON, DODECAHEDRON, ICOSAHEDRON (accept in any order)</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Assuming that x &amp;ne; 0, solve the following equation for x: 3/(2x) + 7/(3x) + 8/(4x) = 20</question>
+        <answer>x = 7/24 (ACCEPT: x = 70/240 OR 3.43)</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>In the general Circulation of the atmosphere, what is the name given to the middle latitude cell marked by sinking motion near 30&amp;deg; and rising motion near 60&amp;deg; latitude:</question>
+        <w_choice>Polar cell </w_choice>
+        <x_choice>Ferrel cell </x_choice>
+        <y_choice>Hadley cell </y_choice>
+        <z_choice>Rossby cell</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the form of frost in which a thick coating of ice crystals builds upon leaves, twigs and fences as is often seen at the tops of snow-covered mountain peaks?</question>
+        <answer>RIME ICE (ACCEPT: RIME OR HOAR FROST)</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following would best be used for an application that required a metal that does not emit sparks, resists corrosion, becomes stronger under very cold temperatures, and is an excellent thermal conductor:</question>
+        <w_choice>iron </w_choice>
+        <x_choice>tin </x_choice>
+        <y_choice>copper </y_choice>
+        <z_choice>aluminum</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 ecosystems from the highest percentage of the Earth's surface to the lowest: tropical rainforest; continental shelf; tundra; estuary</question>
+        <answer>CONTINENTAL SHELF; TROPICAL RAINFOREST; TUNDRA; ESTUARY</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The purpose of an ISDN network is to:</question>
+        <w_choice>determine a server's IP address from a domain name </w_choice>
+        <x_choice>translate binary files to text-based email messaging </x_choice>
+        <y_choice>coordinate packet information for the many IP packets and addresses in an online transmission </y_choice>
+        <z_choice>set a specification for digital transmission of data over analog phone lines</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In Oracle databases, a foreign key is:</question>
+        <w_choice>a field which designates the language in which the table is represented </w_choice>
+        <x_choice>a key to decrypt the information in a table </x_choice>
+        <y_choice>a mapping from a field in one table to information in another table </y_choice>
+        <z_choice>a link to a web site about the table</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Oersted, during a classroom demonstration, accidentally showed the first example of:</question>
+        <w_choice>capacitance </w_choice>
+        <x_choice>artificial lightening </x_choice>
+        <y_choice>electricity being stored in a capacitor </y_choice>
+        <z_choice>the connection between magnetism and electricity</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming the specific heat of aluminum is 0.9 Joules per gram per degree, how much energy, in kilojoules rounded to the first decimal place, must be added to 500 grams of aluminum to raise its temperature from 10&amp;deg;C to 70&amp;deg;C?</question>
+        <answer>27 KILOJOULES</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Addition reactions in organic chemistry are characteristic of:</question>
+        <w_choice>alkanes </w_choice>
+        <x_choice>aromatic compounds </x_choice>
+        <y_choice>alkenes </y_choice>
+        <z_choice>ketones</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Calculate the heat energy, in Joules, released when 10 grams of a substance, which has the same specific heat as liquid water, cools from 100&amp;deg;C to 50&amp;deg;C:</question>
+        <answer>2090 (ACCEPT: + or - 2000 to 2100 J)</answer>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>To what intermediate molecule of the citric acid cycle does succinate dehydrogenase oxidize succinate?</question>
+        <answer>FUMARATE</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>The mean corpuscular volume of erythrocytes is obtained by which of the following:</question>
+        <w_choice>the hematocrit multiplied by ten and then divided by the red cell count in millions per microliter </w_choice>
+        <x_choice>the red cell count per cc divided by the hematocrit </x_choice>
+        <y_choice>the red cell count per cc divided by 7 microns </y_choice>
+        <z_choice>the hemoglobin value divided by the hematocrit</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Crux, Ara, Reticulum, and Tucana are all best known as:</question>
+        <w_choice>craters on the moon </w_choice>
+        <x_choice>canals on mars </x_choice>
+        <y_choice>constellations </y_choice>
+        <z_choice>maria on the moon</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the total magnifying power of a refracting telescope that has an objective lens focal length of 12 meters and an eyepiece focal length of 0.3 meters?</question>
+        <answer>40X (ACCEPT: 40 TIMES OR 40)</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following eccentricities describes a hyperbola:</question>
+        <w_choice>e = 0 </w_choice>
+        <x_choice>0 &amp;lt; e &amp;lt; 1 </x_choice>
+        <y_choice>e = 1 </y_choice>
+        <z_choice>e &amp;gt; 1</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>2)/3</question>
+        <answer>y = 3</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>If the Earth were nonrotating, global wind circulation would most likely resemble:</question>
+        <w_choice>the doldrums </w_choice>
+        <x_choice>huge circulatory convection cells paralleling lines of latitude </x_choice>
+        <y_choice>huge circulatory convection cells moving from the equator to the poles </y_choice>
+        <z_choice>global circulation would cease</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>In meteorology, what is the name for the horizontal wind velocity for which the Coriolis acceleration exactly balances the horizontal pressure force?</question>
+        <answer>GEOSTROPHIC WIND</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The carcinogenic effects of sunlight on skin are caused by light in which of the following wavelength ranges:</question>
+        <w_choice>280-320 nanometers </w_choice>
+        <x_choice>320-360 nanometers </x_choice>
+        <y_choice>400-450 nanometers </y_choice>
+        <z_choice>1.0-1.5 micrometers</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 countries from the lowest to the highest in energy consumption per capita in 1999: Russia, China, Japan, Germany</question>
+        <answer>CHINA, GERMANY, JAPAN, RUSSIA</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>All of these programming languages allow variables to pass by value EXCEPT:</question>
+        <w_choice>FORTRAN </w_choice>
+        <x_choice>PASCAL </x_choice>
+        <y_choice>Java </y_choice>
+        <z_choice>Algol-60</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What does the acronym MODEM stand for?</question>
+        <answer>MODULATOR-DEMODULATOR</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Thomas Young's double slit experiments lent strong support in his time to which of the following:</question>
+        <w_choice>the particle nature of light </w_choice>
+        <x_choice>that light could be polarized </x_choice>
+        <y_choice>the wave nature of light </y_choice>
+        <z_choice>the wave particle duality of light</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>If a string vibrates at a fundamental frequency of 120 hertz, what are the frequencies of the first and second overtones respectively:</question>
+        <answer>240 AND 360</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>What rule would be best used to predict the alcohol vapor pressure over 100 proof bourbon:</question>
+        <w_choice>Henry's Law </w_choice>
+        <x_choice>Raoult's Law </x_choice>
+        <y_choice>Dalton's Law of Partial Pressures </y_choice>
+        <z_choice>Boyles Law</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A mixture of gases with an average molecular weight of 30grams per mole is contained in a 480 liter tank. What is the mass of the gases, in grams, if the temperature of the gas is 300K and the pressure is 2 atmospheres:</question>
+        <answer>1200 (ACCEPT: 1.2 x 10&lt;sup&gt;3&lt;/sup&gt; g)</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>If a culture of cells from a hyperallergenic person was exposed to fluorescent labeled immunoglubulin E, which of the following cell types would most likely glow the most:</question>
+        <w_choice>PMN </w_choice>
+        <x_choice>mast cell </x_choice>
+        <y_choice>eosinophile (pronounced: E-O-sin-O-fill) </y_choice>
+        <z_choice>macrophage</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Which one of the following 5 cells is NOT found in a typical angiosperm rhizome? parenchymal, collenchymal, meristematic, epidermal, guard cell</question>
+        <answer>GUARD CELL</answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is TRUE about tests of significance:</question>
+        <w_choice>a type 1 error rejects the null hypothesis when it is true </w_choice>
+        <x_choice>a type 1 error accepts the null hypothesis when it is true </x_choice>
+        <y_choice>a type 2 error rejects the null hypothesis when it is true </y_choice>
+        <z_choice>a type 2 has no relationship to the null hypothesis</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Calculate the following indefinite integral: I = &amp;int; cos(2 x + 2) dx (read as: the integral of the cosine of the sum of 2x + 2, dx)</question>
+        <answer>(1/2) sin(2x+2) + C</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Cape Dennison in Antarctica holds the world's record for the highest annual average wind speeds owing to:</question>
+        <w_choice>Chinook winds </w_choice>
+        <x_choice>katabatic winds </x_choice>
+        <y_choice>Hadley cell circulation </y_choice>
+        <z_choice>Ekman spirals</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Order the following four geological epochs from the youngest to the oldest: Pliocene, Holocene, Oligocene, Paleocene</question>
+        <answer>HOLOCENE, PLIOCENE, OLIGOCENE, PALEOCENE</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Yellow fever is transmitted by what genus of mosquito:</question>
+        <w_choice>Anopheles (read as: ann-off-a-lees) </w_choice>
+        <x_choice>Culex (reas as: CUE-lex) </x_choice>
+        <y_choice>Aedes </y_choice>
+        <z_choice>Culiseta (read as: cue-lee-see-ta)</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the least number of colors for any map on a sphere so that regions with common boundaries are distinguished by different colors?</question>
+        <answer>4</answer>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Which ones, if any, of the following 5 elements is/are radioactive? sulfur-32, polonium-209, lithium-7, deuterium, francium-223</question>
+        <answer>POLONIUM-209 AND FRANCIUM-223</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Order the following 4 substances from the one that will show the LEAST increase in temperature for each single calorie added to one gram of that substance to the one that will show the MOST: aluminum, iron, tungsten, water</question>
+        <answer>WATER, ALUMINUM, IRON, TUNGSTEN</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>A monosaccharide unit containing a ketone functional group is to a ketose as a monosaccharide unit containing a glucose is to what?</question>
+        <answer>AN ALDOSE</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>What is the osmotic pressure, in atmospheres, of a 1.0 molar solution of sodium chloride in water at 300K?</question>
+        <answer>24.6 (ACCEPT: 24 TO 25 ATM)</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following responses does indoleacetic acid NOT usually produce in plants:</question>
+        <w_choice>vascular cell differentiation </w_choice>
+        <x_choice>fruit maturation </x_choice>
+        <y_choice>cell elongation </y_choice>
+        <z_choice>flowering</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the name for the strap-like muscle involved with head movements and abbreviated as the SCM?</question>
+        <answer>STERNOCLEIDOMASTOID MUSCLE</answer>
+    </fullq>
+
+</round>

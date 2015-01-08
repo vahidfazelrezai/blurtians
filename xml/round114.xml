@@ -1,0 +1,427 @@
+<round id='114'>
+    <fullq num='1' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Name the elements in the following reaction that have been oxidized and reduced, respectively: Zn&lt;sub&gt;(solid)&lt;/sub&gt; + CuSO&lt;sub&gt;4(aqueous)&lt;/sub&gt; &#8594; ZnSO&lt;sub&gt;4(aqueous)&lt;/sub&gt; + Cu&lt;sub&gt;(solid)&lt;/sub&gt;</question>
+        <answer>OXIDIZED = Zn (ACCEPT: ZINC); REDUCED = Cu (ACCEPT: COPPER)</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is closest to the pK&lt;sub&gt;a&lt;/sub&gt; of an acid whose K&lt;sub&gt;a&lt;/sub&gt; = 5.0 × 10&lt;sub&gt;-4&lt;/sub&gt;:</question>
+        <w_choice>2.3 </w_choice>
+        <x_choice>3.3 </x_choice>
+        <y_choice>4.0 </y_choice>
+        <z_choice>5.0</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following best describes the repressor protein in the lac (read as: LACK) operon:</question>
+        <w_choice>uncompetitive inhibitor </w_choice>
+        <x_choice>structural protein</x_choice>
+        <y_choice>regulatory protein</y_choice>
+        <z_choice>transcriptional factor</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Through which of the following mechanisms do allosteric inhibitors typically operate:</question>
+        <w_choice>binding the substrate</w_choice>
+        <x_choice>binding to an enzyme’s active site</x_choice>
+        <y_choice>binding to a site other than the active site and changing the shape of an enzyme</y_choice>
+        <z_choice>acting as a competitive inhibitor and overpowering the active sites of enzymes</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In the radioactive decay scheme of uranium, what is the final stable element produced?</question>
+        <answer>LEAD</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Consider an astronaut on the Moon and g is exactly 1/6th of g on Earth. If he threw an object vertically upwards with an initial velocity of 1.6 meters per second, how many meters up would it be after 1 second, rounding your answer to the first decimal place?</question>
+        <answer>0.8</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following represents the inverse function of f(x) = x&lt;sup&gt;3&lt;/sup&gt; + 5: </question>
+        <w_choice>(x–5)&lt;sup&gt;3&lt;/sup&gt;</w_choice>
+        <x_choice>x&lt;sup&gt;3&lt;/sup&gt; – 5</x_choice>
+        <y_choice>(x−5)&lt;sup&gt;1/3&lt;/sup&gt;</y_choice>
+        <z_choice>(1/(x-5))&lt;sup&gt;3&lt;/sup&gt;</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Giving your answer in meters squared, find the total surface area of a right prism whose base is a right triangle with legs of length 3 meters and 4 meters and whose altitude is 2 meters:</question>
+        <answer>36</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a tree that is very well-adapted to surviving above shallow permafrost:</question>
+        <w_choice>cottonwood </w_choice>
+        <x_choice>white pine </x_choice>
+        <y_choice>aspen</y_choice>
+        <z_choice>black spruce</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes a small lake in an arctic environment that is likely to be surrounded by a ring of so-called drunken trees leaning toward the lake:</question>
+        <w_choice>paternoster lake </w_choice>
+        <x_choice>thermokarst</x_choice>
+        <y_choice>tarn</y_choice>
+        <z_choice>fen</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>Order the following 3 hexadecimal numbers from SMALLEST to LARGEST: 3E8; BB8; 1F4;</question>
+        <answer>1F4; 3E8; BB8</answer>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>An experiment aboard a recent Space Shuttle mission exposed Salmonella typhimurium (read as: TIE-fee-muhr-EE-um) to a space environment. Which of the following resulted when the bacteria came back to Earth:</question>
+        <w_choice>they were more virulent</w_choice>
+        <x_choice>they were less virulent</x_choice>
+        <y_choice>they had about the same virulence</y_choice>
+        <z_choice>they changed into a new but similar species of bacteria</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is TRUE of red supergiants:</question>
+        <w_choice>some form Cepheid variables</w_choice>
+        <x_choice>most end as nova stars</x_choice>
+        <y_choice>most have luminosities about 10 to 100 times that of our Sun Z) most have surface temperatures at least 2-times that of our Sun</y_choice>
+        <z_choice>WER: W) SOME FORM CEPHEID VARIABLES</z_choice>
+        <answer_choice>S</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question></question>
+        <answer>ent blue color</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question> mass of about 3.2</question>
+        <answer>Z) AVERAGE SOLAR MASS OF ABOUT 3.2</answer>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>According to VSEPR bonding theory, if 2 of the bonded atoms in an octahedral molecule are replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in XeF&lt;sub&gt;4&lt;/sub&gt;:</question>
+        <w_choice>linear</w_choice>
+        <x_choice>trigonal bipyramidal </x_choice>
+        <y_choice>square planar</y_choice>
+        <z_choice>square pyramidal</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>According to VSEPR bonding theory, if one of the bonded atoms in a trigonal bipyramidal molecule is replaced by 2 electron pairs, the molecule will assume what geometric shape, such as in ClF&lt;sub&gt;3&lt;/sub&gt;:</question>
+        <w_choice>t-shaped </w_choice>
+        <x_choice>see-saw </x_choice>
+        <y_choice>linear</y_choice>
+        <z_choice>bent</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following mutations would most likely affect a gene the LEAST:</question>
+        <w_choice>single base deletion </w_choice>
+        <x_choice>single base substitution </x_choice>
+        <y_choice>single base insertion</y_choice>
+        <z_choice>quadruple base deletion</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST explains why a single base substitution in a gene-coding region for amino acids will sometimes lead to no change in amino acid sequence:</question>
+        <w_choice>all nucleotides are subject to the same mutation rate</w_choice>
+        <x_choice>some nucleotide bases are covalently joined by stronger bonds</x_choice>
+        <y_choice>the code is degenerate with more than one triplet coding for the same amino acid</y_choice>
+        <z_choice>some amino acids act in the same fashion in determining the tertiary structure of a protein</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following experimental approaches was used by scientists to discover that the atomic nucleus held most of the atom’s mass and a positive charge:</question>
+        <w_choice>directing alpha particles at thin metal strips</w_choice>
+        <x_choice>finding the amount of magnetic deflection in cathode rays within a well-evacuated tube </x_choice>
+        <y_choice>exposing photographic film to certain radium salts</y_choice>
+        <z_choice>using a crude cyclotron to disintegrate large nuclei</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Name all of the following 4 sub-atomic particles that are never found in isolation: electrons; protons; quarks; positrons</question>
+        <answer>QUARKS</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is a quadratic equation with a root of multiplicity of 2:</question>
+        <w_choice>9x&lt;sup&gt;2&lt;/sup&gt; – 30x&lt;sup&gt;2&lt;/sup&gt; + 25 = 0 </w_choice>
+        <x_choice>x&lt;sup&gt;2&lt;/sup&gt; + 2x – 15 = 0</x_choice>
+        <y_choice>6x&lt;sup&gt;2&lt;/sup&gt; – 11x – 2 =0 </y_choice>
+        <z_choice>4x&lt;sup&gt;2&lt;/sup&gt; – 1 = 0</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Given f(x) = x&lt;sup&gt;2&lt;/sup&gt; + 2x + 3, express f(x + 1) in standard polynomial form: </question>
+        <answer>x&lt;sup&gt;2&lt;/sup&gt; + 4x + 6</answer>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Placodonts, which lived during the Triassic Period, were a group of:</question>
+        <w_choice>meat-eating land reptiles</w_choice>
+        <x_choice>flying reptiles</x_choice>
+        <y_choice>small, lightweight, plant-eating reptiles </y_choice>
+        <z_choice>marine reptiles</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true regarding seismic waves through the Earth:</question>
+        <w_choice>P-waves travel through the mantle </w_choice>
+        <x_choice>S-waves travel through the mantle</x_choice>
+        <y_choice>P-waves travel through the outer core </y_choice>
+        <z_choice>S-waves travel through the outer core</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following would a Leyden jar most likely be considered:</question>
+        <w_choice>an electroscope </w_choice>
+        <x_choice>a capacitor</x_choice>
+        <y_choice>a resistor</y_choice>
+        <z_choice>a Tesla cage</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>How many joules of energy are used by an electrical appliance operating on 8 amps of current flowing through a 20-ohm resistance circuit for 5 minutes?</question>
+        <answer>384,000</answer>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST describes where the zodiacal light is brightest to a stargazer at mid-northern latitudes:</question>
+        <w_choice>within about 20 degrees of the ecliptic </w_choice>
+        <x_choice>at the western horizon at sunrise</x_choice>
+        <y_choice>at right angles to the Milky Way</y_choice>
+        <z_choice>parallel with the Milky Way</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the BEST explanation for what causes zodiacal light:</question>
+        <w_choice>reflection of moonlight off the Earth’s surface</w_choice>
+        <x_choice>dispersion of the Earth’s radiant heat off the troposphere </x_choice>
+        <y_choice>sunlight reflected off interplanetary dust particles</y_choice>
+        <z_choice>radiation from the Van Allen belts</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>How many quantum numbers are required to completely describe a specific electron in a multi-electron atom?</question>
+        <answer>4</answer>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following describes the quantum number that indicates the direction in space of the electron cloud surrounding the nucleus of an atom:</question>
+        <w_choice>magnetic quantum number</w_choice>
+        <x_choice>principle quantum number</x_choice>
+        <y_choice>angular momentum quantum number </y_choice>
+        <z_choice>spin quantum number</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following BEST explains why leaves fall off trees in the autumn:</question>
+        <w_choice>the leaves die and passively fall off</w_choice>
+        <x_choice>an abscission layer forms at the base of the leaf stem causing it to fall off</x_choice>
+        <y_choice>the leaves slowly dry out from the bottom up because of abscisic acid that prevents phloem from delivering nutrients</y_choice>
+        <z_choice>the vascular tissue of the leaves fill up with resin increasing their stiffness and causing them to become brittle</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following will most likely result from a single base deletion in DNA:</question>
+        <w_choice>nonsense mutation </w_choice>
+        <x_choice>stop codon</x_choice>
+        <y_choice>frame shift mutation </y_choice>
+        <z_choice>inversion mutation</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Because of its linear-temperature relationship and its chemical inertness, which of the following materials is almost always used in resistance temperature detectors:</question>
+        <w_choice>mercury </w_choice>
+        <x_choice>platinum </x_choice>
+        <y_choice>iron</y_choice>
+        <z_choice>brass</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the main advantage for the use of geothermal heat pumps in the U.S.:</question>
+        <w_choice>geothermal steam reservoirs can be tapped almost anywhere in the U.S. </w_choice>
+        <x_choice>heat can be delivered directly for its intended use</x_choice>
+        <y_choice>steam can be used to directly generate electricity</y_choice>
+        <z_choice>all areas of the U.S. have nearly constant shallow-ground temperatures</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In the algebra of real-valued functions, give the name or number of all of the following 3 choices that the implied domain usually excludes: &lt;br&gt; 1) numbers causing division by zero &lt;br&gt; 2) numbers causing imaginary numbers in the range &lt;br&gt; 3) numbers causing irrational numbers in the range</question>
+        <answer>1 AND 2</answer>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Add the following rational expressions and give your answer in fully</question>
+        <answer> form: x/(x+2) + 4x/(x−6)</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>) (ACCEPT: x(5x+2)/((x+2)(x−6)) )  </question>
+        <answer>H SCIENCE Short Answer The aurora occur high in what layer of Earth’s atmosphere? </answer>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>ng division by zero &lt;br&gt; 2) numbers causing imaginary numbers in the range &lt;br&gt; 3) numbers causing irrational numbers in the range</question>
+        <answer>H SCIENCE Multiple Choice During a Nor’easter, areas far to the east of the storm center will feel which of the following storm-generated winds:</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question> </question>
+        <answer>westerly </answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question></question>
+        <answer></answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>nometers </question>
+        <answer>o 740 nanometers </answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>nometers</question>
+        <answer>X) 380 TO 740 NANOMETERS</answer>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is NOT true:</question>
+        <w_choice>over 50% of all stars that appear to be single are double or multiple systems</w_choice>
+        <x_choice>aurora borealis can occur in all 4 seasons</x_choice>
+        <y_choice>tetanus toxin causes muscle stiffness in affected humans</y_choice>
+        <z_choice>the Large Hadron Collider at CERN began colliding electrons in September of 2008</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>If the surface temperature of a star increased from 6,000 kelvin to 18,000 kelvin, how many times as much energy would it radiate?</question>
+        <answer>81</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Using the most common temperature-based spectral classification system, a star with an apparent color of blue and a surface temperature of 55,000 kelvin would have what spectral letter classification?</question>
+        <answer>O</answer>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the terminus of a tRNA molecule to which amino acids are attached?</question>
+        <answer>3-PRIME TERMINUS (ACCEPT: CCA 3-PIME END or 3-PRIME END or 3-PRIME)</answer>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What protein, that takes its name from its apparent molecular weight, can arrest cells in the G1-S checkpoint, initiate apoptosis (read as: aye-pop-TOE-sis) and, when deactivated, is implicated in a wide variety of cancers?</question>
+        <answer>P53</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>According to general solubility rules, name all of the following 5 substances that are NOT soluble in water: lithium iodide; sodium chloride; iron(II) hydroxide; sodium nitrate; barium sulfate</question>
+        <answer>IRON(II) HYDROXIDE; BARIUM SULFATE</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Consider a hypothetical reaction, A + B &#8594; C + D. At zero time, the concentration of A = 1 molar, after 30 seconds A = 0.5 molar, and after 50 seconds A = 0.3 molar. Calculate the average rate of disappearance of A over the time interval 30 seconds to 50 seconds, in molarity per second:</question>
+        <answer>1 × 10&lt;sup&gt;-2&lt;/sup&gt; (ACCEPT: 0.01)</answer>
+    </fullq>
+
+</round>

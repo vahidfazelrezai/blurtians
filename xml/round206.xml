@@ -1,0 +1,415 @@
+<round id='206'>
+    <fullq num='1' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What common organic molecule is made of an adenine residue, a ribose sugar, and three phosphates:</question>
+        <answer>ATP (ACCEPT: ADENOSINE TRIPHOSPHATE)</answer>
+    </fullq>
+    <fullq num='1' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Transfer RNA charged with an amino acid is most accurately called:</question>
+        <w_choice>a nascent tRNA </w_choice>
+        <x_choice>a tRNA with an amino acid attached </x_choice>
+        <y_choice>an amino acyl tRNA </y_choice>
+        <z_choice>t-primed RNA</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='2' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>In general, which of the following stereoisomers are the most dissimilar in terms of their physical and chemical properties:</question>
+        <w_choice>conformational </w_choice>
+        <x_choice>mirror-image </x_choice>
+        <y_choice>enantiomers (EE-nan-tee-oh-mers) </y_choice>
+        <z_choice>geometric</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='2' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>Under constant temperature conditions, a sample of gas has a volume of 8 liters at a pressure of 1.5 atmospheres. If a 2 liter container is used to hold the gas, calculate the new pressure, in atmospheres:</question>
+        <answer>6</answer>
+    </fullq>
+
+    <fullq num='3' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>For two objects separated by a distance d, if the mass of one of the objects increases by two times, by what factor will the gravitational attraction between them increase?</question>
+        <answer>TWO (ACCEPT: 2 TIMES)</answer>
+    </fullq>
+    <fullq num='3' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>Assuming air resistance is negligible and the gravitational acceleration is 10 meters per second squared, what is the distance traveled, in meters, by a body in free fall after 4 seconds if it started from rest?</question>
+        <answer>80 METERS</answer>
+    </fullq>
+
+    <fullq num='4' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>The lunar maria are:</question>
+        <w_choice>composed of granite </w_choice>
+        <x_choice>less than one billion years old </x_choice>
+        <y_choice>between three and four billion years old </y_choice>
+        <z_choice>older than the lunar highlands</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='4' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>Based on what three physical properties do astronomers divide the planets into terrestrial and Jovian:</question>
+        <answer>MASS, SIZE, AND DENSITY</answer>
+    </fullq>
+
+    <fullq num='5' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What German mathematician in 1865 cut a long rectangular strip of paper, gave the paper a half-twist, and pasted the ends together, to show that a sheet can have only one side?</question>
+        <answer>AUGUSTUS MOBIUS (ACCEPT: MOBIUS)</answer>
+    </fullq>
+    <fullq num='5' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>In a triangle ABC, angle A = 55&amp;deg; and angle B = 70&amp;deg;. If line segment AB = 3x - 2 and line segment BC = x + 10, what is the value of x?</question>
+        <answer>6</answer>
+    </fullq>
+
+    <fullq num='6' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Portions of the Ogallala aquifer are located under:</question>
+        <w_choice>Nebraska </w_choice>
+        <x_choice>the San Jaoquin valley </x_choice>
+        <y_choice>Arizona </y_choice>
+        <z_choice>Florida</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='6' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>The seismic discontinuity that marks the base of the crust of the Earth is known as the what?</question>
+        <answer>MOHO (ACCEPT: M-DISCONTINUITY OR MOHOROIVICIC DISCONTINUITY)</answer>
+    </fullq>
+
+    <fullq num='7' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Because of its enhanced capacity to refract light, which glass formula is most suitable for making lenses and prisms, as well as for imitation jewels:</question>
+        <w_choice>soda-lime </w_choice>
+        <x_choice>potassium silicate </x_choice>
+        <y_choice>borosilicate </y_choice>
+        <z_choice>lead</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='7' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What is the general term for the process by which glass is strengthened, which involves reheating the glass until it almost softens and then rapidly and uniformly cooling it again, causing it to go into extreme compression?</question>
+        <answer>TEMPERING</answer>
+    </fullq>
+
+    <fullq num='8' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The allowing of long file names was a primary difference between:</question>
+        <w_choice>DOS and Windows 3.11 </w_choice>
+        <x_choice>Windows 3.11 and Windows for Workgroups </x_choice>
+        <y_choice>Windows 3.11 and Windows 95 </y_choice>
+        <z_choice>Windows 95 and Windows 98</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='8' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>In Windows 98, long file names can be up to how many characters long:</question>
+        <w_choice>35 </w_choice>
+        <x_choice>75 </x_choice>
+        <y_choice>100 </y_choice>
+        <z_choice>255</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='9' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>The oval window is directly stimulated by the vibrations of what bone?</question>
+        <answer>STAPES</answer>
+    </fullq>
+    <fullq num='9' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>Hair is mostly composed of what protein?</question>
+        <answer>KERATIN</answer>
+    </fullq>
+
+    <fullq num='10' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Hydrogen bonding is due to a combination of forces, the most important of which is what type of interaction:</question>
+        <w_choice>dipole-dipole </w_choice>
+        <x_choice>dipole-induced dipole </x_choice>
+        <y_choice>induced dipole-induced </y_choice>
+        <z_choice>induced</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='10' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following compounds contains a coordinate covalent bond:</question>
+        <w_choice>NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; </w_choice>
+        <x_choice>N&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; </x_choice>
+        <y_choice>N&lt;sub&gt;2&lt;/sub&gt; </y_choice>
+        <z_choice>NH&lt;sub&gt;3&lt;/sub&gt;</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='11' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for the magnetic fusion confinement system first developed in the USSR that has the shape of a toroid?</question>
+        <answer>TOKAMAK</answer>
+    </fullq>
+    <fullq num='11' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>In 1995, two scientists from the University of Colorado created what new state of matter that would lead to their winning of a Nobel prize:</question>
+        <answer>BOSE-EINSTEIN CONDENSATE (ACCEPT: BEC)</answer>
+    </fullq>
+
+    <fullq num='12' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>What is the most common name for the pattern found etched on samples of iron meteorites?</question>
+        <w_choice>Widmanstatten pattern </w_choice>
+        <x_choice>Rhombic pattern </x_choice>
+        <y_choice>Halley's pattern </y_choice>
+        <z_choice>Chondritic Rhombite pattern</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='12' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>If the sidereal period "P" of a planet is measured in years, and the semi-major axis of the planet's elliptical orbit, "a," is measured in astronomical units, then the equation governing the planet's motion given by the formula, P&lt;sup&gt;2&lt;/sup&gt; = a&lt;sup&gt;3&lt;/sup&gt;, is best known as what law?</question>
+        <answer>KEPLER'S THIRD LAW</answer>
+    </fullq>
+
+    <fullq num='13' level='toss_up'>
+        <subject>math</subject>
+        <type>multiple_choice</type>
+        <question>A parallelogram whose adjacent sides are unequal is called a:</question>
+        <w_choice>rhombus </w_choice>
+        <x_choice>rhomboid </x_choice>
+        <y_choice>deltoid </y_choice>
+        <z_choice>rectangle</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+    <fullq num='13' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Use the Binomial Theorem to expand and simplify the following equation: (x-1)&lt;sup&gt;4&lt;/sup&gt;</question>
+        <answer>x&lt;sup&gt;4&lt;/sup&gt; - 4x&lt;sup&gt;3&lt;/sup&gt; + 6x&lt;sup&gt;2&lt;/sup&gt; - 4x + 1</answer>
+    </fullq>
+
+    <fullq num='14' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>What type of seismic wave causes the most damage during an earthquake:</question>
+        <w_choice>shear </w_choice>
+        <x_choice>compressional </x_choice>
+        <y_choice>expansional </y_choice>
+        <z_choice>surface</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+    <fullq num='14' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What scale is based on the amount of vibration felt by people during low-magnitude earthquakes and the extent of building damage during high magnitude earthquakes?</question>
+        <answer>MODIFIED MERCALLI SCALE (ACCEPT: MERCALLI)</answer>
+    </fullq>
+
+    <fullq num='15' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>The leaf of the Sugar Maple tree is considered to be:</question>
+        <w_choice>palmately lobed </w_choice>
+        <x_choice>palmately compound </x_choice>
+        <y_choice>pinnately lobed </y_choice>
+        <z_choice>pinnately compound</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='15' level='bonus'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following is the causative agent for chicken pox:</question>
+        <w_choice>Bordetella pertussis </w_choice>
+        <x_choice>Varicella-zoster </x_choice>
+        <y_choice>Variolla-zoster </y_choice>
+        <z_choice>Vermicelli pertussis</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='16' level='toss_up'>
+        <subject>general</subject>
+        <type>multiple_choice</type>
+        <question>Resetting a computer that is already turned on to its initial state whereby any data or programs in main memory are erased is called a:</question>
+        <w_choice>clean boot </w_choice>
+        <x_choice>cold boot </x_choice>
+        <y_choice>warm boot </y_choice>
+        <z_choice>hot boot</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='16' level='bonus'>
+        <subject>general</subject>
+        <type>short_answer</type>
+        <question>What does the acronym for the JPEG graphics file format stand for?</question>
+        <answer>JOINT PHOTOGRAPHIC EXPERTS GROUP</answer>
+    </fullq>
+
+    <fullq num='17' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>In what specific part of the uterus does implantation normally occur?</question>
+        <answer>ENDOMETRIUM</answer>
+    </fullq>
+    <fullq num='17' level='bonus'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the most common name for a molecule of glycerol with all three hydroxyl groups esterified to fatty acids?</question>
+        <answer>TRIGLYCERIDE</answer>
+    </fullq>
+
+    <fullq num='18' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>The IUPAC name 1,4-dimethylcyclohexane is an example of which of the following:</question>
+        <w_choice>cyclic alkane </w_choice>
+        <x_choice>branched alkane </x_choice>
+        <y_choice>straight chain alkane </y_choice>
+        <z_choice>haloalkane (pronounced: HAL-o-alkane)</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='18' level='bonus'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following solutions are miscible:</question>
+        <w_choice>carbon tetrachloride and water </w_choice>
+        <x_choice>oil and water </x_choice>
+        <y_choice>carbon tetrachloride and octane </y_choice>
+        <z_choice>octane and water</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+
+    <fullq num='19' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the common commercial unit of energy equal to 3,600,000 joules:</question>
+        <answer>KILOWATT HOUR</answer>
+    </fullq>
+    <fullq num='19' level='bonus'>
+        <subject>physics</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following types of prisms was developed for obtaining interference between 2 sections of a wave front with diffraction largely eliminated:</question>
+        <w_choice>Fresnel biprism </w_choice>
+        <x_choice>Littrow prism </x_choice>
+        <y_choice>Nicol prism </y_choice>
+        <z_choice>Broca prism</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+
+    <fullq num='20' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the common astronomical name for areas where gravitational attraction of two or more celestial bodies prevents objects in that area from maintaining an orbit, such as the spacings of semi-major axes of orbits of asteroids in the asteroid belt?</question>
+        <answer>KIRKWOOD GAPS</answer>
+    </fullq>
+    <fullq num='20' level='bonus'>
+        <subject>earth_space</subject>
+        <type>short_answer</type>
+        <question>What is the name for a lunar ditch where molten lava once flowed?</question>
+        <answer>VOLCANIC RILLE</answer>
+    </fullq>
+
+    <fullq num='21' level='toss_up'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>What is the longest chord of a circle also known as?</question>
+        <answer>DIAMETER OF THE CIRCLE (ACCEPT: DIAMETER)</answer>
+    </fullq>
+    <fullq num='21' level='bonus'>
+        <subject>math</subject>
+        <type>short_answer</type>
+        <question>Solve the following equation for b: (a+b)/b = (c+d)/d</question>
+        <answer>b = ad/c</answer>
+    </fullq>
+
+    <fullq num='22' level='toss_up'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>A sharp ridge of erosion-resistant rock formed between adjacent cirque glaciers, often forming a saw-toothed mountain ridge is known as:</question>
+        <w_choice>arete </w_choice>
+        <x_choice>scree </x_choice>
+        <y_choice>levee </y_choice>
+        <z_choice>moraine</z_choice>
+        <answer_choice>W</answer_choice>
+    </fullq>
+    <fullq num='22' level='bonus'>
+        <subject>earth_space</subject>
+        <type>multiple_choice</type>
+        <question>Two common igneous rocks derived from andesitic magma are:</question>
+        <w_choice>andesite and alkali basalt </w_choice>
+        <x_choice>diorite and andesite </x_choice>
+        <y_choice>komatite and rhyolite </y_choice>
+        <z_choice>rhyolite and kimberlite</z_choice>
+        <answer_choice>X</answer_choice>
+    </fullq>
+
+    <fullq num='23' level='toss_up'>
+        <subject>biology</subject>
+        <type>short_answer</type>
+        <question>What is the predominant immunoglobulin class found in human tears?</question>
+        <answer>IgA</answer>
+    </fullq>
+    <fullq num='23' level='bonus'>
+        <subject>biology</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following vitamins is NOT properly matched with one of its major symptoms of deficiency:</question>
+        <w_choice>vitamin C and bleeding of gums </w_choice>
+        <x_choice>vitamin D and poor bone structure </x_choice>
+        <y_choice>vitamin A and night blindness </y_choice>
+        <z_choice>vitamin B-1 and pellagra</z_choice>
+        <answer_choice>Z</answer_choice>
+    </fullq>
+
+    <fullq num='24' level='toss_up'>
+        <subject>chemistry</subject>
+        <type>multiple_choice</type>
+        <question>Which of the following polymers is the first man-made polymer:</question>
+        <w_choice>nylon </w_choice>
+        <x_choice>Teflon </x_choice>
+        <y_choice>bakelite </y_choice>
+        <z_choice>celluloid</z_choice>
+        <answer_choice>Y</answer_choice>
+    </fullq>
+    <fullq num='24' level='bonus'>
+        <subject>chemistry</subject>
+        <type>short_answer</type>
+        <question>The change in enthalpy, &amp;Delta;H, (read as: delta H), is to a calorimeter as the change in internal energy, &amp;Delta;E, (read as: delta E), is to what?</question>
+        <answer>BOMB CALORIMETER</answer>
+    </fullq>
+
+    <fullq num='25' level='toss_up'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>According to quantum chromodynamics, what is the name for the particle that transmits the color charge?</question>
+        <answer>GLUON</answer>
+    </fullq>
+    <fullq num='25' level='bonus'>
+        <subject>physics</subject>
+        <type>short_answer</type>
+        <question>What is the kinetic energy, in Joules, of a 50 Kilogram person who is moving at 5 meters per second?</question>
+        <answer>625</answer>
+    </fullq>
+
+</round>

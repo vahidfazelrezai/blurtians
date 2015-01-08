@@ -1,0 +1,2 @@
+AuthName "scibowl"
+AuthUserFile "/home/soopx10m/.htpasswds/public_html/scibowl.x10.mx/passwd"
